@@ -1,0 +1,42 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "25qc-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "GSSRNYPRLDIETFGRHLITTGDLDPIYIALVRAESAGDFSVPQLCRWLLAYWCYYHAGVASFLSEKEGEEFWHWMMVAARNEEETPAGGRWPRGHERRHYRAKIAVDSVTDLQARYGDRPENMALYVGARATEEERLPFKTVSARAQEHKGFGPWIGFKIADMMDRVMEVPVDFDNAAVFMFKDPEKAAMMLWEQREAHKYPENAKPKREAILSGVADYLIGRFADLAAPPLGDRPVNIQEVETVLCKWKSHMNGHYPLWNDIREINTGLEPWAGRCSAARAFLHHMPKEQ",
+          "unpairedMsaPath": "msa/protein-dna/72af7e968512056d5b4330a2e7768837/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/72af7e968512056d5b4330a2e7768837/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 2,
+          "id": [
+            "C",
+            "D"
+          ],
+          "modifications": [
+            {
+              "basePosition": 5,
+              "modificationType": "CCD_5HU"
+            }
+          ],
+          "sequence": "CGATUGCCCATCG"
+        }
+      }
+    ]
+  }
+]

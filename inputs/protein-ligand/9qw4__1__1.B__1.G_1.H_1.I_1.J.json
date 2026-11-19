@@ -1,0 +1,119 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9qw4__1__1.B__1.G_1.H_1.I_1.J",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GSPGLKGDKGIPGDKGAKGESGLPDVASLRQQVEALQGQVQHLQAAFSQYKKVELFPNGQSVGEKIFKTAGFVKPFTEAQLLCTQAGGQLASPRSAAENAALQQLVVAKNEAAFLSMTDSKTEGKFTYPTGESLVYSNWAPGEPNDDGGSEDCVEIFTNGKWNDRACGEKRLVVCEF",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/1a46d344e3df04cb56ae471adb002243/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/1a46d344e3df04cb56ae471adb002243/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GSPGLKGDKGIPGDKGAKGESGLPDVASLRQQVEALQGQVQHLQAAFSQYKKVELFPNGQSVGEKIFKTAGFVKPFTEAQLLCTQAGGQLASPRSAAENAALQQLVVAKNEAAFLSMTDSKTEGKFTYPTGESLVYSNWAPGEPNDDGGSEDCVEIFTNGKWNDRACGEKRLVVCEF",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/1a46d344e3df04cb56ae471adb002243/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/1a46d344e3df04cb56ae471adb002243/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GSPGLKGDKGIPGDKGAKGESGLPDVASLRQQVEALQGQVQHLQAAFSQYKKVELFPNGQSVGEKIFKTAGFVKPFTEAQLLCTQAGGQLASPRSAAENAALQQLVVAKNEAAFLSMTDSKTEGKFTYPTGESLVYSNWAPGEPNDDGGSEDCVEIFTNGKWNDRACGEKRLVVCEF",
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/1a46d344e3df04cb56ae471adb002243/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/1a46d344e3df04cb56ae471adb002243/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Ca+2]",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Ca+2]",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Ca+2]",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "O=C(Nc1ccc(CCO[C@H]2O[C@H]([C@@H](O)CO)[C@@H](O)[C@H](O[C@H]3O[C@H]([C@@H](O)CO)[C@@H](OP(=O)(O)O)[C@H](O)[C@@H]3O)[C@@H]2O)cc1)C(F)(F)F",
+          "count": 1,
+          "id": [
+            "G"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Ca+2]",
+          "count": 1,
+          "id": [
+            "H"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Ca+2]",
+          "count": 1,
+          "id": [
+            "I"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Ca+2]",
+          "count": 1,
+          "id": [
+            "J"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "OC[C@H](O)[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O",
+          "count": 1,
+          "id": [
+            "K"
+          ]
+        }
+      }
+    ]
+  }
+]

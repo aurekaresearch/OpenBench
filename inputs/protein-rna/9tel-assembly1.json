@@ -1,0 +1,49 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9tel-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 273,
+              "ptmType": "CCD_CSO"
+            }
+          ],
+          "sequence": "SLHGYQLEAVAPALRGRNSIVWLPTGAGKTRAAVHVCRRHLEGRRGGRVAVLVNKVHLVQQHLEKEFHVLRDAFKVTAVSGDSSHKCFFGQLAKGSDVVICTAQILQNALLSGEEEARVELTDFSLLVIDECHHTQKEAVYNKIMLSYLQKKLSGQRDLPQILGLTASPGTGGETSFEGAVEHILQICANLDTEVIASAQEHAQHLQSHVPQPTKQYDLCQEREQDPFGQRLKKIMAQIQEHMEMPELPQNFGTQVYEQRIVELENRAAERFCRKTRVCALHLRRYNDALLINDTVRMMDAFQCLQQFYADKRDTKDPTERFLATTFEENRATLQALAGDQRYENPRLSKLEEILQEHFQPPGSSRGIVFTKTRQSAHSLLSWLQDTAGLCGQHIRAAVLTGSGHSNQAKGMTQNEQQDVITLFRYGELNLLFSTSVAEEGLDIPECNIVVRYGLMTNEIAMVQAQGRARAQNSMYSVLAKANSREVYREQLNESLVGLMERAIRAVQAMPERKYRLKIVELQRNAVLSWQVKEARSSERRQLHDPDDVYFHCVNCNVAVCRGSDIRTVEAMHHVNINPNFRFYYTVSSGKIHFERTFRDWEPGCRIVCSECRQEWGMEMIYRNVTLPILSIKNFVVVTPDEKKKYKKWSTVTFPIEEFSYLEYCSSTQDESL",
+          "unpairedMsaPath": "msa/protein-rna/c63483f95f42600e0162db9471d228d8/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/c63483f95f42600e0162db9471d228d8/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "UGCUUCUGCU"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "AGUAGUAACA"
+        }
+      }
+    ]
+  }
+]

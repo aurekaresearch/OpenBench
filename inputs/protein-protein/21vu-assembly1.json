@@ -1,0 +1,36 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "21vu-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "NEVNIVLVKAKHYQNAEGREIVNKMVRVADMTRQAFINGDLSTVMSPRTVITWAENAAIFNDVGFAFRLTFLNKCDELERATVAEFYQRAFGVELPESAANIVL",
+          "unpairedMsaPath": "msa/protein-protein/f7e4bbaf8791845fb0ed4b44d9739c50/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/f7e4bbaf8791845fb0ed4b44d9739c50/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "PVDSEPFKRAITACVRAISGDHEMEVAFSHDRPALSANRARLPDLPKRPTAHDIAVTRGLGDSMALRQARHNPRIHAALAPEGKQARAIFDAVEQARVEAIGARAMAGVADNLSTMLADKYSRANFSAVTTKEDAPLEEAVSLLLREKLTGRPAPAEAGQVLELWRDWIEQKASADIARLGENLEDQQAFARTVRDMLASMDMAEE",
+          "unpairedMsaPath": "msa/protein-protein/ff65f8db1d3e0614f6ebc825e105fce1/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/ff65f8db1d3e0614f6ebc825e105fce1/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

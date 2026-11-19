@@ -1,0 +1,30 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "32pv-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 6,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "sequence": "MYRTKVGLKDRQQLYKLIISQLLYDGYISIANGLINEIKPQSVCAPSEQLLHLIKLGMENDDTAVQYAIG",
+          "unpairedMsaPath": "msa/protein-protein/97c242fbf684c0f75e65775b6089ea1e/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/97c242fbf684c0f75e65775b6089ea1e/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

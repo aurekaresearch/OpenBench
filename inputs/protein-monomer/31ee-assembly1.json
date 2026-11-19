@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "31ee-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GMYHLDLEPFAADGRCAVAICLAETPLCDPDNVCDLIKALQQKFNDIAFLICDEIHKYEMMIPRNMTITRAQRLAVRKGDEMEAILNNTFERLEQNDQLSANLTILHWSQIEDQDYQKVLDIMYQYRKHFEQELRSSSGFYIKRRLAVATLTEERLENFTKYTLAELPVQLMGFNYNNRQYTTIFHPVYPRKNPDGSAGNVNSAYVSPIDTVVQAYRNNPDVIGDISRSVPQMEAGKVTRVFFDRHVREEVKEKPCVYSLDAPLAKAAVIS",
+          "unpairedMsaPath": "msa/protein-monomer/f3683cda6b006858bf1d046796535e7b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/f3683cda6b006858bf1d046796535e7b/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

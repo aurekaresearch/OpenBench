@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "24an-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "APPRIGTHNGTFHCDEALACALLRLLPEYRDAEIVRTRDPEKLASCDIVVDVGGEYDPRRHRYDHHQRSFTETMSSLSPGKPWQTKLSSAGLIYLHFGHKLLAQLLGTSEEDSMVGTLYDKMYENFVEEVDAVDNGISQWAEGEPRYALTTTLSARVARLNPTWNHPDQDTEAGFKRAMDLVQEEFLQRLDFYQHSWLPARALVEEALAQRFQVDPSGEIVELAKGACPWKEHLYHLESGLSPPIAIFFVIYTDQAGQWRIQCVPKEPHSFQSRLPLPEPWRGLRDEALDQVSGIPGCIFVHASGFIGGHHTREGALSMARATLAQR",
+          "unpairedMsaPath": "msa/protein-monomer/0852a6adb14d12dab6a80e58d17fb777/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/0852a6adb14d12dab6a80e58d17fb777/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

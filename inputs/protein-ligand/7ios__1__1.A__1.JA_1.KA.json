@@ -1,0 +1,124 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "7ios__1__1.A__1.JA_1.KA",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "DYKDDDDGAPPIMGSSVYITVELAIAVLAILGNVLVCWAVWLNSNLQNVTNYFVVSLAAADILVGVLAIPFAITISTGFCAACHGCLFIACFVLVLAQSSIFSLLAIAIDRYIAIAIPLRYNGLVTGTRAAGIIAICWVLSFAIGLTPMLGWNNCGQPKEGKAHSQGCGEGQVACLFEDVVPMNYMVYFNFFACVLVPLLLMLGVYLRIFAAARRQLADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAAKSAAIIAGLFALCWLPLHIINCFTFFCPDCSHAPLWLMYLAIVLSHTNSVVNPFIYAYRIREFRQTFRKIIRSHVLRQQEPFKAAAHHHHHHHHHH",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/74e723100cb647fb9c41d9446bb2a83a/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/74e723100cb647fb9c41d9446bb2a83a/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCCCCCCC/C=C\\CCCCCCCC(=O)O",
+          "count": 1,
+          "id": [
+            "B"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Cn1c(=O)c2[nH]cnc2n(C)c1=O",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCCCCCCC/C=C\\CCCCCCCC(=O)OC[C@H](O)CO",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C",
+          "count": 1,
+          "id": [
+            "G"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCCCCCCC/C=C\\CCCCCCCC(=O)OC[C@H](O)CO",
+          "count": 1,
+          "id": [
+            "H"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "COc1ccc2c(c1)[nH]c1c(=O)n(CCc3c[nH]cn3)cnc12",
+          "count": 1,
+          "id": [
+            "I"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "OCCOCCO",
+          "count": 1,
+          "id": [
+            "J"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCCCCCCC/C=C\\CCCCCCCC(=O)O",
+          "count": 1,
+          "id": [
+            "K"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCCCCCCC/C=C\\CCCCCCCC(=O)O",
+          "count": 1,
+          "id": [
+            "L"
+          ]
+        }
+      }
+    ]
+  }
+]

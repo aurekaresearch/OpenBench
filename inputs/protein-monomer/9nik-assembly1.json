@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9nik-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GHMAEVGNGATTYHFQSRRIDVDRDLESVHRWLGHPKSHYWDMLNSSLADVEKLIRDAGADPDPRFGMRIGYFEGERQFLFELYNPLTSDLARPGTGYVYETGDIGMHLLVSSSERRLPGFTGAVMLHIMRTAFFEAGARRVVVAPDVRNADVQRLNAAVGFRVAGDFPVPGKTARLSYCTREDFARATDNGRTLAGEVES",
+          "unpairedMsaPath": "msa/protein-monomer/eff68df4b7bd5ecbd4938c012040863b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/eff68df4b7bd5ecbd4938c012040863b/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

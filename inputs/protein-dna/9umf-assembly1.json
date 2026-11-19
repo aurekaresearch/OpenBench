@@ -1,0 +1,44 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9umf-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "SDKLYRVEYAKSGRASCKKCSESIPKDSLRMAIMVQSPMFDGKVPHWYHFSCFWKVGHSIRHPDVEVDGFSELRWDDQQKVKKTAEA",
+          "unpairedMsaPath": "msa/protein-dna/bd8d4a311f45ae9aa6b2ead4a7af5fbd/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/bd8d4a311f45ae9aa6b2ead4a7af5fbd/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "GAGAACCCCGCAATCTC"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "GAGATTGCGGGGTTCTC"
+        }
+      }
+    ]
+  }
+]

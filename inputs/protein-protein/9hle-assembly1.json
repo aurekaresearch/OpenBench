@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9hle-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "RSEKRDLYTQIDRLTDQRDALREKLSAADNFDIQVGSRIVHDALVGKSVVIFRTPDAHDDDIAAVSKIVGQAGGAVTATVSLTQEFVEANSAEKLRSVVNSSILPAGSQLSTKLVDQGSQAGDLLGIALLSNADPAAPTVEQAQRDTVLAALRETGFITYQPRDRIGTANATVVVTGGALSTDAGNQGVSVARFAAALAPRGSGTLLAGRDGSANRPAAVAVTRADADMAAEISTVDDIDAEPGRITVILALHDLINGGHVGHYGTGHGAMSVTVSQ",
+          "unpairedMsaPath": "msa/protein-protein/028f988835fcadaa044c6388c69d0aa1/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/028f988835fcadaa044c6388c69d0aa1/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

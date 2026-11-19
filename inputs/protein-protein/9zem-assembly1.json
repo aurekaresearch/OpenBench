@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9zem-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "AEVAALTPEQIAALSVDEIARLSPDQFAALTPEQIAALTPEQVARLSPEKIAALSPDKIAAMTPEQVAALTPEQFAALSPDKIAALTPEQIAAVSDETLRALSPEKQAALPPEVRARLAG",
+          "unpairedMsaPath": "msa/protein-protein/a64c0b1d1d2904b972f17d4ed1f069f0/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/a64c0b1d1d2904b972f17d4ed1f069f0/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9wdn-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MPTKILVSDTNIWIDLHRCNLLETVFELPHQFVTTEFVWRELRKPPGQQLTDLGLTIEALSRSETLQLFDLKQSLNNSSLADVSCYFVARERGWTLLTNDGDLRKSGHQAELDVRGVLWILDELEFHRGLSPAKLASALASMLYSGARLPDEECDKRLTKWRKG",
+          "unpairedMsaPath": "msa/protein-protein/75c232cb1b70fd00e3267893de81e2cc/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/75c232cb1b70fd00e3267893de81e2cc/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "C",
+            "D"
+          ],
+          "sequence": "MLHDRLRCARVLKNMSLQQVADQLGDISKQALSKYEQGKDAPNSTRLIQLADVLEVNPEYFFRSDSVKLGEVDFRKHSAFGKKQQEAVKEQVREHLERYLAAEDLFETEHAADGFAQWRECFSVSNVDDIEKAAEDLRKGWHLGTNPIANLTETLEENGIKVVGLKAHEKFDGLCAVVNDGADAVIVSNIERPGERQRFNLAHELGHLVMDIPEAVHGTRDEENWCHRFAGAFLFPASQVRATFGTSRRRVLFKEFLLAKEEWGISIQALLRRLYDLDIVQQGFYQSTFRFWSSKGYRKDEPEPLDPENSYRLRQIVYRALAEGLVTPSRAAELLGVGLGEIEDVMANGQAGEGADAHENSRL",
+          "unpairedMsaPath": "msa/protein-protein/498bfe4cb24f09c3392c8ece6cc2221c/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/498bfe4cb24f09c3392c8ece6cc2221c/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

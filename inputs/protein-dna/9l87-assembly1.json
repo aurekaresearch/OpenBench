@@ -1,0 +1,35 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9l87-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "SGNAMIRDDEETPVFFDLETTGLDTSACDIVQLSAVSGDRTFNAYLLPRCTMTDGASRVTGLTVDGPDLLFKRRRVQTVPHARALSDFILFLKTFNRPFLVGHNSKRFDWPILTRVLEQFDLLEEFEGAVSGCVDTLGLSREMFRLPKYSQPFLVQHFLQESYGAHDATEDVRTLQDLYRVWKPSEELVKKHKVIL",
+          "unpairedMsaPath": "msa/protein-dna/83750f87d4b4df1d2ee487d61d734560/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/83750f87d4b4df1d2ee487d61d734560/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "GTTGGCCCTCTTTAGGGCCATC"
+        }
+      }
+    ]
+  }
+]

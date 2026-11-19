@@ -1,0 +1,49 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9nkc-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MIVLFVDFDYFYAQVEEVLNPSLKGKPVVVCVFSGRFEDSGAVATANYEARKFGVKAGIPIVEAKKILPNAVYLPMRKEVYQQVSSRIMNLLREYSEKIEIASIDEAYLDISDKVRDYREAYNLGLEIKNKILEKEKITVTVGISKNKVFAKIAADMAKPNGIKVIDDEEVKRLIRELDIADVPGIGNITAEKLKKLGINKLVDTLSIEFDKLKGMIGEAKAKYLISLARDEYNEPIRTRVRKSIGRIVTMKRNSRNLEEIKPYLFRAIEESYYKLDKRIPKAIHVVAVTEDLDIVSRGRTFPHGISKETAYSESVKLLQKILEEDERKIRRIGVRFSKFIEAIGLDKFFDT",
+          "unpairedMsaPath": "msa/protein-dna/6040858088bc3ad0aaca70a53687b9e6/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/6040858088bc3ad0aaca70a53687b9e6/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "GAGCGATACCGTGA"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "modifications": [
+            {
+              "basePosition": 8,
+              "modificationType": "CCD_8OG"
+            }
+          ],
+          "sequence": "CGATCACGGTATCGCTC"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9dqa__1__1.A__1.C_1.D_1.E",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MSSQVEHPAGGYKKLFETVEELSSPLTAHVTGRIPLWLTGSLLRCGPGLFEVGSEPFYHLFDGQALLHKFDFKEGHVTYHRRFIRTDAYVRAMTEKRIVITEFGTCAFPDPCKNIFSRFFSYFRGVEVTDNALVNIYPVGEDYYACTETNFITKVNPETLETIKQVDLCNYVSVNGATAHPHIENDGTVYNIGNCFGKNFSIAYNIVKIPPLQADKEDPISKSEIVVQFPCSDRFKPSYVHSFGLTPNYIVFVETPVKINLFKFLSSWSLWGANYMDCFESNETMGVWLHIADKKRKKYINNKYRTSPFNLFHHINTYEDHEFLIVDLCCWKGFEFVYNYLYLANLRENWEEVKKNARKAPQPEVRRYVLPLNIDKADTGKNLVTLPNTTATAILCSDETIWLEPEVLFSGPRQAFEFPQINYQKYGGKPYTYAYGLGLNHFVPDRLCKLNVKTKETWVWQEPDSYPSEPIFVSHPDALEEDDGVVLSVVVSPGAGQKPAYLLILNAKDLSEVARAEVEINIPVTFHGLFKKS",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/bd9c4d8b42d23ae4c14fa8aff5d55007/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/bd9c4d8b42d23ae4c14fa8aff5d55007/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MSSQVEHPAGGYKKLFETVEELSSPLTAHVTGRIPLWLTGSLLRCGPGLFEVGSEPFYHLFDGQALLHKFDFKEGHVTYHRRFIRTDAYVRAMTEKRIVITEFGTCAFPDPCKNIFSRFFSYFRGVEVTDNALVNIYPVGEDYYACTETNFITKVNPETLETIKQVDLCNYVSVNGATAHPHIENDGTVYNIGNCFGKNFSIAYNIVKIPPLQADKEDPISKSEIVVQFPCSDRFKPSYVHSFGLTPNYIVFVETPVKINLFKFLSSWSLWGANYMDCFESNETMGVWLHIADKKRKKYINNKYRTSPFNLFHHINTYEDHEFLIVDLCCWKGFEFVYNYLYLANLRENWEEVKKNARKAPQPEVRRYVLPLNIDKADTGKNLVTLPNTTATAILCSDETIWLEPEVLFSGPRQAFEFPQINYQKYGGKPYTYAYGLGLNHFVPDRLCKLNVKTKETWVWQEPDSYPSEPIFVSHPDALEEDDGVVLSVVVSPGAGQKPAYLLILNAKDLSEVARAEVEINIPVTFHGLFKKS",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/bd9c4d8b42d23ae4c14fa8aff5d55007/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/bd9c4d8b42d23ae4c14fa8aff5d55007/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Fe+2]",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCCCCCCCCCCCCCCC(=O)O",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCC(CC)C(=O)Oc1cccc([C@H](O)CCN)c1",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Fe+2]",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCCCCCCCCCCCCCCC(=O)O",
+          "count": 1,
+          "id": [
+            "G"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCC(CC)C(=O)Oc1cccc([C@H](O)CCN)c1",
+          "count": 1,
+          "id": [
+            "H"
+          ]
+        }
+      }
+    ]
+  }
+]

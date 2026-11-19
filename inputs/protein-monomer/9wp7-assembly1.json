@@ -1,0 +1,55 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9wp7-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 68,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 98,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 111,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 169,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 203,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 241,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 308,
+              "ptmType": "CCD_MLY"
+            }
+          ],
+          "sequence": "CTPSQTSQSIAINGSSTVYPITEAIVADFSGGKKGVDIDVEFSGTGGGFKLFCEGKTDIADASRPINKQEMKLCNDNQVRYVELPIAFDAITVVSNPKNDWLKSLTVEELKRIWEPAAEKTLTRWNQVRPEFPDQPINLYSPGEDSGTFDYFTEAIVGQAGASRLDTLKSEDDEILVQGVVQDLYSLGYFGFAYYEGRIADLKAIGVDNGRGPVLPSRETVEKSEYQPLSRPLFIYVNATKAQDNPALREFVDFYLANASATATKVGYIPLPEEAYNLGKISFNKGEVGTVFGGESVMDLTIGELLKKQAS",
+          "unpairedMsaPath": "msa/protein-monomer/c5ab0af950019c6ce1d5c333736e81fa/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/c5ab0af950019c6ce1d5c333736e81fa/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

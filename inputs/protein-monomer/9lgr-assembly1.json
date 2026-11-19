@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9lgr-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "YSSVQYCCDGCSTVPILRRRWHCTVCPDFDLCEACYEVLDADRLPPPHTRDHPMTAIPI",
+          "unpairedMsaPath": "msa/protein-monomer/b1926e79198942697f3463b9b5e46406/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/b1926e79198942697f3463b9b5e46406/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

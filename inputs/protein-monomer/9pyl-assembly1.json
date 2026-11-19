@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9pyl-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "ELTPLQQAALKWARKLAERFPELGEEFIAVHLEEARFWEKAGATPEEVDAAGKATLEYYEAIRNGDEEKAVEARKKALDIYNKIVEALKKQPPEVVAAYEAFRPRHEALHRRAEATLRAQYEARGS",
+          "unpairedMsaPath": "msa/protein-monomer/ec54fed561137ba5d453ea05e93a34cd/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/ec54fed561137ba5d453ea05e93a34cd/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

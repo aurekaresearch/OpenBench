@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9rrt-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "GAMGESSQSKFLKSIIGLRNEFLNVFTSFGDMVGGILGFNAVKSDDKRSKVGEHFKTIGDGLKSTKDKLDELSKQIVSTSNADIKGVEAVIQGTSEVIAKLITSITELAGITKEGNVDIGDAGTAGSAAAVAADKASVEAIIKGVKEIVETAEKSGVKIEKGNAGNSVANGNGPKAVVHNVQATAGDATKLAGEVAKADPWAMIDKIKNAKTKNNVAPAANDDAGQLATATGANDNGSASTNADLAASVALKAMTKGGKFTQPAANEDGAIKAAAASAVNKVLGILDMIIRKAVNLELDKVKEAVKGIRYSETSGSNATEAGTIQTSTVK",
+          "unpairedMsaPath": "msa/protein-protein/22ff19130b80cacfbf557c40c9587f15/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/22ff19130b80cacfbf557c40c9587f15/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

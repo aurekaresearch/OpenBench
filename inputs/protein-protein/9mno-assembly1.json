@@ -1,0 +1,38 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9mno-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MGEMDILYQMSLNHLAVIEADKEVLKQVGLSLAKQEEAFRELQLILFNHEHSYSHHGILGSSIEILLHWEQNNVEVMYLETKVALSMIDFRRWLAYTDLLLSPILPLGTTIELNKDLLPAALVTSMNEIGMPFLAIVLGRRLLLGPEDREYIDYLVSIYPYGLRADVNPIYISNFFIKKVLQEGYSDAIDEQYIENQYRKDYFSRNIVSEIYNVKGEQS",
+          "unpairedMsaPath": "msa/protein-protein/ebab203b9c96f53a60de1f4e1e9720cb/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/ebab203b9c96f53a60de1f4e1e9720cb/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "C",
+            "D"
+          ],
+          "sequence": "MGSTPVELLANISNTLNGFVRSNISWWKKFITDSKGKRAMASGKIWVDDEGQLHADGSHHHHHH",
+          "unpairedMsaPath": "msa/protein-protein/942efb5f41d519be210192bb0e350376/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/942efb5f41d519be210192bb0e350376/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

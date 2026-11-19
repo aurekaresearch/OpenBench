@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "13jm-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "GPGSWSLEKELLELTREIIRMYEELLSTPHREVMLEQKEEEEKELETLEKKPLSELTPEELEEMIALNRRQLETAERLGCPERLLELLRRRIELLEKA",
+          "unpairedMsaPath": "msa/protein-protein/079d2a8cd608b9fb9f78d955953c06ed/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/079d2a8cd608b9fb9f78d955953c06ed/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

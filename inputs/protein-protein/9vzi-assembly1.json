@@ -1,0 +1,27 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vzi-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 3,
+          "id": [
+            "A",
+            "B",
+            "C"
+          ],
+          "sequence": "MSLRLDRLQRGVPIVDGQGRPNTQYQNLWQRTVKALEADSAATADILQELADQLALIVAAQAAADAAQATADAALGAAGNPVLTELITGQNATSNVLRFTLENGASRQFTAQVRAGPLTGNCTQTIQLESRVAGGTYANLGTAGVDSGTTGDTLFPDTLGTVSNSSGQTQVYEVRCVTSTTGPGTGAIDQPVSYVTG",
+          "unpairedMsaPath": "msa/protein-protein/b8fc71dd809d941360f19c6c90d21019/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/b8fc71dd809d941360f19c6c90d21019/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9y5g-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MSSSSNEKLRETLREVEDVKNIMEDNRRLVERQGRQIDRLEEKADDLERSAERLSDNSEKLKRKYWWKNSK",
+          "unpairedMsaPath": "msa/protein-protein/b3549cd79863f6e9d6d67e2cc5c8fbab/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/b3549cd79863f6e9d6d67e2cc5c8fbab/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "SGGSSSEREKEIDEGLDRVSEIVKELKKMAEEMRRMIEEQGRRIERIEEKAEEAKEKIEEANERAEKLLKDPGGSGGSEELKKLEKEGEKLKELVEELDREIKELKEGMERLREMFEEAAKLSEEALEIMRRTRKLSEEELEEAKQKAKEQEKEKALKEKGGSGGSGGSEKVKRELAQIEERHQQILELEEKIKELLEMFKELSEKIEEQGQKIDRIEDKVSKAKEHVEKGVEDTKKAVKYQSKARRKK",
+          "unpairedMsaPath": "msa/protein-protein/4f4c41fb6b228c9a930471f6a506b61f/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/4f4c41fb6b228c9a930471f6a506b61f/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

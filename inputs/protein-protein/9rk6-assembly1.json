@@ -1,0 +1,28 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9rk6-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 4,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "sequence": "GSISWNDFVHEMLAKGEVQRVQVVPESDVVEVYLHPGAVVFGRPRLALMYRMQVANIDKFEEKLRAAEDELNIEAKDRIPVSYKRTG",
+          "unpairedMsaPath": "msa/protein-protein/63dfd8eb1203277ab452ebaf377c0302/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/63dfd8eb1203277ab452ebaf377c0302/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

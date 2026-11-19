@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9uc5-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "SAAEKEKDAEKIKKYAKELAKEVEKYAGELAKKLKNKEYAEELKNEGKLEAEEILKAAEEAAKQGVPAEQAKKVLKAEAEAAKAVLQQIYNQGLEAEKE",
+          "unpairedMsaPath": "msa/protein-protein/61be385c1776a84d73d24bbdbb5f9ff7/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/61be385c1776a84d73d24bbdbb5f9ff7/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

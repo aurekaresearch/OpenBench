@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9no5-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MASSHHHHHHSSGLVPRGSHMDSNILIVLDISGSMADASGVPGLSRLELAKQAISALLDKYDDLGDVKVQLVTFSSNATDRTSVWVDVATAKTLLAGLSAGGGTNYDAAVATMYNAFNTSGKLTGAQNVGYFFSDGKPNEGDIGTADEATLKAFLDANNIKNYAIGLGSGVSNANLDPLAYDGITHTNTNAVVVTDLNQLNSVLSGTVEGAP",
+          "unpairedMsaPath": "msa/protein-monomer/e0bd794504cb000861e2b20806ef83d1/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/e0bd794504cb000861e2b20806ef83d1/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

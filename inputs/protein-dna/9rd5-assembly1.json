@@ -1,0 +1,43 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9rd5-assembly1",
+    "sequences": [
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "CATTAAGAATAAAAATAAAATTACTG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "CAGTAATTTTATTTTTATTCTTAATG"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "GSMSELYNAEIKEKFLERYESEATKELYRLKLRDFSFTERILDKDIFNFSLEELRTLFFDLDSKSLESLRGARAVIGQYTTWAMEHGLANSNINKVYEIKDEDLKQFIDKNKKTLFTNKEVEEYVSYLFNNQDKAMVQAVYEGIDGYQHSELINLTINDLLDDNKVRLQDDKHGERIIEVSEKCHELLRLAYEQNTYHLNNGSASGKLRFANLVRNEHIFRLKYKSPDQSMQADKFLVHRSFKTFQKILEEPYFTPKNLANSGKLNMAYKIYKKNKELTVPDYKKITAQYGFLNENAKFASQSLRKVVNMENIEKYCIQSEKIAD",
+          "unpairedMsaPath": "msa/protein-dna/b96036432db5d7f347d5c2cd5fffe5a2/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/b96036432db5d7f347d5c2cd5fffe5a2/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "25hk-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "ATSIAADYPSKNIRLVVPFGAGGGTDAVGRTLANSAKDILGQNISIMNRTGGAGAVGMSFGAQQRADGYTLTVVTREIASLPQMGLMRHTADDFKLIRLVNLDPAVVLVAADSPYNTINDLIKEAKEKPGSVKFASTAAPNFYLMSLEKDQGIKLNAIPYNGASEAIPAVLGHHTDVTMVTPGEAIAQLRSGQLKALGVMSEERIQYIPDVPTLKEQGIDVVTGTWRGIGAPKDTPDAVIEKLGAAFDEAMASEEFKTFMAKGAMTIHNLDDKAFTEFVAEDTKSLTQLIQ",
+          "unpairedMsaPath": "msa/protein-monomer/d7978c6a9bb98c5642ee2387028410ff/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/d7978c6a9bb98c5642ee2387028410ff/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

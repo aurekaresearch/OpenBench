@@ -1,0 +1,36 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9jvb-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 12,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L"
+          ],
+          "sequence": "MGHHHHHHMHLSPASDDALVQWKKDIDEATDNCDGALLTSTLLKLASVSVTLRQLLRTKIGVSVSRALSKKDLEEQRSLATCIISAWTAKLPEETVRAIEEYNKYEQEAKKRGGTAR",
+          "unpairedMsaPath": "msa/protein-protein/16961fce0fd6dc2999f754219cd08650/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/16961fce0fd6dc2999f754219cd08650/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9dnk__1__1.A__1.B",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVARPKSEDKKQALLEAATAAFAQSGIAASTAVIARNAGFAEGTLFRYFATKDELINELYLHLKQDLCQSMIMELDRSITEPKEHTRNIWNSYVDWGIRNPLAHAAIRQTGVSEKLNAETEQAVKDMFPELRDLCHRSVLPVFMSDEYRAFGDGLFLALAETTMDFAARDPSRAVDFKALGFEAMWRALMREEA",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/d25361ce6c7e7a0ceb7fa82f97b76c18/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/d25361ce6c7e7a0ceb7fa82f97b76c18/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MVARPKSEDKKQALLEAATAAFAQSGIAASTAVIARNAGFAEGTLFRYFATKDELINELYLHLKQDLCQSMIMELDRSITEPKEHTRNIWNSYVDWGIRNPLAHAAIRQTGVSEKLNAETEQAVKDMFPELRDLCHRSVLPVFMSDEYRAFGDGLFLALAETTMDFAARDPSRAVDFKALGFEAMWRALMREEA",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/d25361ce6c7e7a0ceb7fa82f97b76c18/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/d25361ce6c7e7a0ceb7fa82f97b76c18/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "c1ccc([C@H]2NCCc3ccccc32)cc1",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "c1ccc([C@H]2NCCc3ccccc32)cc1",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      }
+    ]
+  }
+]

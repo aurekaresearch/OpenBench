@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9t47-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MGSSHHHHHHSSGLVPRGSHNGSIYGDLADFSGPYEKFEDGTIPCGQFPSGQGVIPISWLDEGGWSGVENTDTSTGGSCKEGSYCSYACQPGMSKTQWPSDQPSDGRSIGGLLCKDGYLYRSNTDTDYLCEWGVDAAYVVSELSNDVAICRTDYPGTENMVIPTYVQAGDSLPLTVVDQDTYYTWQGLKTSAQYYVNNAGISVEDACVWGSSSSGVGNWAPLNFGAGSSDGVAYLSLIPNPNNGNALNFNVKIVAADDSSTVNGECIYENGSFSGGSDGCTVSVTAGKAKFVLYN",
+          "unpairedMsaPath": "msa/protein-monomer/e2aee75c7f57337cae26fd4b257f285d/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/e2aee75c7f57337cae26fd4b257f285d/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

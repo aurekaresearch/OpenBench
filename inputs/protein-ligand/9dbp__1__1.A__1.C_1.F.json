@@ -1,0 +1,54 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9dbp__1__1.A__1.C_1.F",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SGVEGAAFQSRLPHDRMTSQEAACFPDIISGPQQTQKVFLFIRNRTLQLWLDNPKIQLTFEATLQQLEAPYNSDTVLVHRVHSYLERHGLINFGIYKAIKPLPTKKTGKVIIIGSGVSGLAAARQLQSFGMDVTLLEARDRVGGRVATFRKGNYVADLGAMVVTGLGGNPMAVVSKQVNMELAKIKQKCPLYEANGQAVPKEKDEMVEQEFNRLLEATSYLSHQLDFNVLNNKPVSLGQALEVVIQLQEKHVKDEQIEHWKKIVKTQEELKELLNKMVNLKEKIKELHQQYKEASEVAPPRDITAEFLVKSKHRDLTALCKEYDELAETQGKLEEKLQELEANPPSDVYLSSRDRQILDWHFANLEFANATPLSTLSLKHWDQDDDFEFTGSHLTVRNGYSCVPVALAEGLDIKLNTAVRQVRYTASGCEVIAVNTRSTSQTFIYKCDAVLCTLPLGVLKQQPPAVQFVPPLPEWKTSAVQRMGFGNLNKVVLCFDRVFWDPSVNLFGHVGSTTASRGELFLFWNLYKAPILLALVAGEAAGIMENISDDVIVGRCLAILKGIFGSSAVPQPKETVVSRWRADPWARGSYSYVAAGSSGNDYDLMAQPITPGPSIPGAPQPIPRLFFAGEHTIRNYPATVHGALLSGLREAGRIADQFLG",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/37ef4ad19afdb8a47bf6dfdbe89fee5c/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/37ef4ad19afdb8a47bf6dfdbe89fee5c/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "KPPAGMFLSQEDVEAVSANATAATTVLRQLDMELVSVKRQIQNIKQTNSALKEKLDGGIEPYRLPEVIQACNARWTTEEQLLAVQAIRKYGRDFQAISDVIGNKSVVQVKNFFANYARRFNIDEVLQEWEA",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/60c34f95e59084d78ac3d996603aa2e6/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/60c34f95e59084d78ac3d996603aa2e6/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(C[C@H](O)[C@H](O)[C@H](O)CO[P@@](=O)(O)O[P@](=O)(O)OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](O)[C@@H]3O)c2cc1C",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Cc1ccc(-c2ncc(OC[C@@H]3CCNC3)cc2-c2ccc(C#N)cc2)cc1",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      }
+    ]
+  }
+]

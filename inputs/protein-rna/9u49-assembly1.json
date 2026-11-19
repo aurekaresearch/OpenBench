@@ -1,0 +1,35 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9u49-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MKTLFVTATGQTEANYYTIWHLFRSQTNIEKIVVLSTDFTRKKNLLSNLMELLNLLDTGIHVEELHLPDGIEEKSISDIKAVIYQWIDNNQPKEIIFNVTGGTKLISFAQDQIAANNPNYSCVYQSWSNNQLVWYNTPDKPLEDIILPENIAVRLKGHGYDQISSETAFLDLPIEQYHYIAQLYKLIKIDFTKAQRLVSYLNYLVSSFDQKAVSYPYCFEIKKEGSFLSLAGWIKTLAQAAKPFIQLESLDDQKSKITFMSKEAAEFIGGKWFEVLVGFLITAYYQKKQTLVNIQIGLTFAKSSDGNEIDVAYLLKGHFYWMECKTVNWLKKNAPTTEVNNNLHKLSSISQGAGLNSHKFFVSLYDISEQSRKVAEDLGVIVIAGTDLFKFDRFLGEVAHHHHHH",
+          "unpairedMsaPath": "msa/protein-rna/7f11fdbe7956ef16c7d25d9486dc6b59/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/7f11fdbe7956ef16c7d25d9486dc6b59/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "AAAA"
+        }
+      }
+    ]
+  }
+]

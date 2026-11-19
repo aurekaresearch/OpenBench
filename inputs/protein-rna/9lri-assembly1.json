@@ -1,0 +1,35 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9lri-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MNERKKSIDELLSDLGVLEEAPVEVELKESGTPEAQGDPRAFLEEFLGGLLLLLDPGHRLEVRVEGETLKAEVKGGDLGRFIGKEGRTLRAVEHLARVVLARRFGTGYRLVLDAAGYRSRAEARIRRLAEEAALTVAMTGEPLHLPPMPPGERRIVHMLLKNHPRVTTESQGEGEERHVVVYPRREAQG",
+          "unpairedMsaPath": "msa/protein-rna/a4c95102de9ed27f4df26a4409558b73/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/a4c95102de9ed27f4df26a4409558b73/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "CCCCCCCCCC"
+        }
+      }
+    ]
+  }
+]

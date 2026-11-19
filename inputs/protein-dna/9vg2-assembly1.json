@@ -1,0 +1,44 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vg2-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MGSSHHHHHHSSGLVPRGSHMILLKSNYDCFRIAMLLKELYSKTMYTVEENFKENGLTAQQIIVIKLVAHNQELTISQLCDEMSLAKGTVSGIISRLEQIGYIEKFKKSNDKRNTYVKFTTTGFEFATNFKIKMQESFDDIFKNCDENELSDLVKNLRNILAKVKER",
+          "unpairedMsaPath": "msa/protein-dna/389f680d71545532dc2e1629b2730126/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/389f680d71545532dc2e1629b2730126/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "ATTAGTTTGTATGCAAACCATT"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "AATGGTTTGCATACAAACTAAT"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "8yf3-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MKLPYKLQDVYDGESQAKFTVISTFAGGGGSSTGYRLAGAKILCINEFVEEARKTYAANYPSTPIVPDDIKQLTGGDFLKITGLKPRELDILDGSPPCSAFSVAGSMCRGEGSKHSDGWGKTKNYSDGKKVENIEDLFFEFIRVAKGIQPKVIVAENVKGLTIGEAKTYYAKITNAFEDIGYLVTSKVMKSSHYGVGQARERLIFIAVRQDIADKVGLNILTVSSLFPPTSSEDTTIGDIIGGVEQDPEYIQSLVDHMTKSGIYKKVVSKMPKNPKKILSGMDYHEKGHCFNTKRASFYKPSPTLTASGGLIHWNEDRVLSVPELKRIQSLPDDFILTGSHSQQTERVGRMVPPLMMKAIAENIYKEVLSKL",
+          "unpairedMsaPath": "msa/protein-monomer/2e26485e548fcdafecb046d7eea26c92/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/2e26485e548fcdafecb046d7eea26c92/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

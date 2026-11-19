@@ -1,0 +1,130 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9rau__1__1.C__1.S_1.V",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "ASWSHPQFEKIEGRRDRGPEFLAKQYKNLVNGEWKLSENEITIYAPATGEELGSVPAMTQAEVDAVYASAKKALSDWRTLSYVERAAYLHKAADILVRDAEKIGAILSKEVAKGHKAAVSEVIRTAEIINYAAEEGLRMEGEVLEGGSFEAASKKKIAIVRREPVGLVLAISPFNYPVNLAGSKIAPALIAGNVVALKPPTQGSISGLLLAEAFAEAGIPAGVFNTITGRGSVIGDYIVEHEAVNFINFTGSTPIGEGIGKLAGMRPIMLELGGKDSAIVLEDADLALAAKNIVAGAFGYSGQRSTAVKRVLVMDKVADQLAAEIKTLVEKLSVGMPEDDADITPLIDTSAADFVEGLIKDATDKGATALTAFNREGNLISPVLFDHVTTDMRLAWEEPFGPVLPIIRVTTVEEAIKISNESEYGLQASIFTTNFPKAFGIAEQLEVGTVHLNNKTQRGTDNFPFLGAKKSGAGVQGVKYSIEAMTTVKSVVFDIQ",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/370f3e111de9ce3676032b03692dc7e4/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/370f3e111de9ce3676032b03692dc7e4/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ASWSHPQFEKIEGRRDRGPEFLAKQYKNLVNGEWKLSENEITIYAPATGEELGSVPAMTQAEVDAVYASAKKALSDWRTLSYVERAAYLHKAADILVRDAEKIGAILSKEVAKGHKAAVSEVIRTAEIINYAAEEGLRMEGEVLEGGSFEAASKKKIAIVRREPVGLVLAISPFNYPVNLAGSKIAPALIAGNVVALKPPTQGSISGLLLAEAFAEAGIPAGVFNTITGRGSVIGDYIVEHEAVNFINFTGSTPIGEGIGKLAGMRPIMLELGGKDSAIVLEDADLALAAKNIVAGAFGYSGQRSTAVKRVLVMDKVADQLAAEIKTLVEKLSVGMPEDDADITPLIDTSAADFVEGLIKDATDKGATALTAFNREGNLISPVLFDHVTTDMRLAWEEPFGPVLPIIRVTTVEEAIKISNESEYGLQASIFTTNFPKAFGIAEQLEVGTVHLNNKTQRGTDNFPFLGAKKSGAGVQGVKYSIEAMTTVKSVVFDIQ",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/370f3e111de9ce3676032b03692dc7e4/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/370f3e111de9ce3676032b03692dc7e4/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ASWSHPQFEKIEGRRDRGPEFLAKQYKNLVNGEWKLSENEITIYAPATGEELGSVPAMTQAEVDAVYASAKKALSDWRTLSYVERAAYLHKAADILVRDAEKIGAILSKEVAKGHKAAVSEVIRTAEIINYAAEEGLRMEGEVLEGGSFEAASKKKIAIVRREPVGLVLAISPFNYPVNLAGSKIAPALIAGNVVALKPPTQGSISGLLLAEAFAEAGIPAGVFNTITGRGSVIGDYIVEHEAVNFINFTGSTPIGEGIGKLAGMRPIMLELGGKDSAIVLEDADLALAAKNIVAGAFGYSGQRSTAVKRVLVMDKVADQLAAEIKTLVEKLSVGMPEDDADITPLIDTSAADFVEGLIKDATDKGATALTAFNREGNLISPVLFDHVTTDMRLAWEEPFGPVLPIIRVTTVEEAIKISNESEYGLQASIFTTNFPKAFGIAEQLEVGTVHLNNKTQRGTDNFPFLGAKKSGAGVQGVKYSIEAMTTVKSVVFDIQ",
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/370f3e111de9ce3676032b03692dc7e4/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/370f3e111de9ce3676032b03692dc7e4/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ASWSHPQFEKIEGRRDRGPEFLAKQYKNLVNGEWKLSENEITIYAPATGEELGSVPAMTQAEVDAVYASAKKALSDWRTLSYVERAAYLHKAADILVRDAEKIGAILSKEVAKGHKAAVSEVIRTAEIINYAAEEGLRMEGEVLEGGSFEAASKKKIAIVRREPVGLVLAISPFNYPVNLAGSKIAPALIAGNVVALKPPTQGSISGLLLAEAFAEAGIPAGVFNTITGRGSVIGDYIVEHEAVNFINFTGSTPIGEGIGKLAGMRPIMLELGGKDSAIVLEDADLALAAKNIVAGAFGYSGQRSTAVKRVLVMDKVADQLAAEIKTLVEKLSVGMPEDDADITPLIDTSAADFVEGLIKDATDKGATALTAFNREGNLISPVLFDHVTTDMRLAWEEPFGPVLPIIRVTTVEEAIKISNESEYGLQASIFTTNFPKAFGIAEQLEVGTVHLNNKTQRGTDNFPFLGAKKSGAGVQGVKYSIEAMTTVKSVVFDIQ",
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/370f3e111de9ce3676032b03692dc7e4/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/370f3e111de9ce3676032b03692dc7e4/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "OCCN(CCO)C(CO)(CO)CO",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Nc1cncnc1",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "OCCN(CCO)C(CO)(CO)CO",
+          "count": 1,
+          "id": [
+            "G"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Nc1cncnc1",
+          "count": 1,
+          "id": [
+            "H"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "OCCN(CCO)C(CO)(CO)CO",
+          "count": 1,
+          "id": [
+            "I"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Nc1cncnc1",
+          "count": 1,
+          "id": [
+            "J"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "OCCN(CCO)C(CO)(CO)CO",
+          "count": 1,
+          "id": [
+            "K"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Nc1cncnc1",
+          "count": 1,
+          "id": [
+            "L"
+          ]
+        }
+      }
+    ]
+  }
+]

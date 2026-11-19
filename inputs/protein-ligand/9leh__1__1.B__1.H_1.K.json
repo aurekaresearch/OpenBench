@@ -1,0 +1,94 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9leh__1__1.B__1.H_1.K",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "HHHHHHSSGLVPRGSHMASMTGGQQMGRGMGSISPPSPAPVSRIESFQQIKELGDREAPVVTMFSGGLDSTYLLFNLHRLGFKNVYAVAVDVGEPVNQGRLTDQAARFDAKFVYLDGKDEFIEQGVKPAIRAHASYLGMYPLSSSLSRPVIARLVVDYAKSLDSKLLLHTANLSQNSLRRLNSSIQRSGFSGWYGSPYVRSVSSRENKAAELAKAGLAFMSDRKLSGDENLWCREFESGPLDDPEDFTIPEDAFVWTQSVVNHPPEKVKLGFESGQLVSVNDQKMALIEAISLLNSTVGKFGHGRFVGLEPIITDEKVLEVREAPAAAIIMDALRHLEVASLSTKSLGLKQELEQKWVVEAITGQWASTVHTTCDHSMVSILESVSGTVTYVVDPHRFLPCSIIAQNPCYVRDRDEWELQTATDAACLSSIEHVK",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/aeebcdbd1d9e08a358140407358e349d/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/aeebcdbd1d9e08a358140407358e349d/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "HHHHHHSSGLVPRGSHMASMTGGQQMGRGMGSISPPSPAPVSRIESFQQIKELGDREAPVVTMFSGGLDSTYLLFNLHRLGFKNVYAVAVDVGEPVNQGRLTDQAARFDAKFVYLDGKDEFIEQGVKPAIRAHASYLGMYPLSSSLSRPVIARLVVDYAKSLDSKLLLHTANLSQNSLRRLNSSIQRSGFSGWYGSPYVRSVSSRENKAAELAKAGLAFMSDRKLSGDENLWCREFESGPLDDPEDFTIPEDAFVWTQSVVNHPPEKVKLGFESGQLVSVNDQKMALIEAISLLNSTVGKFGHGRFVGLEPIITDEKVLEVREAPAAAIIMDALRHLEVASLSTKSLGLKQELEQKWVVEAITGQWASTVHTTCDHSMVSILESVSGTVTYVVDPHRFLPCSIIAQNPCYVRDRDEWELQTATDAACLSSIEHVK",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/aeebcdbd1d9e08a358140407358e349d/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/aeebcdbd1d9e08a358140407358e349d/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "HHHHHHSSGLVPRGSHMASMTGGQQMGRGMGSISPPSPAPVSRIESFQQIKELGDREAPVVTMFSGGLDSTYLLFNLHRLGFKNVYAVAVDVGEPVNQGRLTDQAARFDAKFVYLDGKDEFIEQGVKPAIRAHASYLGMYPLSSSLSRPVIARLVVDYAKSLDSKLLLHTANLSQNSLRRLNSSIQRSGFSGWYGSPYVRSVSSRENKAAELAKAGLAFMSDRKLSGDENLWCREFESGPLDDPEDFTIPEDAFVWTQSVVNHPPEKVKLGFESGQLVSVNDQKMALIEAISLLNSTVGKFGHGRFVGLEPIITDEKVLEVREAPAAAIIMDALRHLEVASLSTKSLGLKQELEQKWVVEAITGQWASTVHTTCDHSMVSILESVSGTVTYVVDPHRFLPCSIIAQNPCYVRDRDEWELQTATDAACLSSIEHVK",
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/aeebcdbd1d9e08a358140407358e349d/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/aeebcdbd1d9e08a358140407358e349d/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "HHHHHHSSGLVPRGSHMASMTGGQQMGRGMGSISPPSPAPVSRIESFQQIKELGDREAPVVTMFSGGLDSTYLLFNLHRLGFKNVYAVAVDVGEPVNQGRLTDQAARFDAKFVYLDGKDEFIEQGVKPAIRAHASYLGMYPLSSSLSRPVIARLVVDYAKSLDSKLLLHTANLSQNSLRRLNSSIQRSGFSGWYGSPYVRSVSSRENKAAELAKAGLAFMSDRKLSGDENLWCREFESGPLDDPEDFTIPEDAFVWTQSVVNHPPEKVKLGFESGQLVSVNDQKMALIEAISLLNSTVGKFGHGRFVGLEPIITDEKVLEVREAPAAAIIMDALRHLEVASLSTKSLGLKQELEQKWVVEAITGQWASTVHTTCDHSMVSILESVSGTVTYVVDPHRFLPCSIIAQNPCYVRDRDEWELQTATDAACLSSIEHVK",
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/aeebcdbd1d9e08a358140407358e349d/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/aeebcdbd1d9e08a358140407358e349d/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO[P@@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Mg+2]",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO[P@@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O",
+          "count": 1,
+          "id": [
+            "G"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Mg+2]",
+          "count": 1,
+          "id": [
+            "H"
+          ]
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "29mv-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SAPNLLRLPPLYCPIDAAIHPEYDSIERDSRAWMDRYHLYTSDIDRAWVIARHYAEAMARIYPEGLTDRVALTARWLHWIFYVDDVRMETAVNVTKLASAISLTSHLLRVMESPATEPTAEQTGPVAALQSLMASVQAVATPTQLHRFVEAHRKWFHAILWGMAAPTPASLDEFLHLRMLNAGGAASLSWSEITTGEEIPGDEFHSPAMRALQESSFLMMALDNDLLSYNRESLIDGTHINIVMVLARLNDCPPEQALHQAVAMRDRLTTLFLRLREQEFPRLSAPAKAYVADLDYAIRSNLDWGSNSARYTAVTPRTQLPPSNPAPIPLTLTDHPSDPSTEPLPCPSIAWWWQQLR",
+          "unpairedMsaPath": "msa/protein-monomer/8c4060ab10158d3e70794556462672bb/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/8c4060ab10158d3e70794556462672bb/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

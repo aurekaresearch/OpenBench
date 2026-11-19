@@ -1,0 +1,48 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MDKLTIISGCLFLAADIFAIASIANPDWINTGESAGALTVGLVRQCQTIHGRDRTCIPPRLPPEWVTTLFFIIMGIISLTVTCGLLVASHWRREATKYARWIAFTGMILFCMAALIFPIGFYINEVGGQPYKLPNNTVVGSSYVLFVLSIFFTIVGLLFAGKVCLPGGTLEVLFQGPGGSGSAWSHPQFEKGGGSGGGSGGSAWSHPQFEK",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/4015d834481d06a22047145009f46c18/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/4015d834481d06a22047145009f46c18/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "KCQCNGHADTCNEQDGTGCPCQNNTETGTCQGSSPSDRRDCYKYQCAKCRESFHGSPLGGQQCYRLISVEQECCLDPTSQTNCFHEPKRRALGPGRTVLFGVQPKFTNVDIRLTLDVTFGAVDLYVSTSYDTFVVRVAPDTGVHTVHIQPPPAPPPPPPPADGGPRGAGDPGGAGASSGPGAPAEPRVREVWPRGLITYVTVTEPSAVLVVRGVRDRLVITYPHEHHALKSSRFYLLLLGVGDPSGPGANGSADSQGLLFFRQDQAHIDLFVFFSVFFSCFFLFLSLCVLLWKAKQALDQRQEQRRHLQEMTKMASRPFAKVTVCFPPDPTAPASAWKPAGLPPPAFRRSEPFLAPLLLTGAGGPWGPMGGGCCPPAIPATTAGLRAGPITLEPTEDGMAGVATLLLQLPGGPHAPNGACLGSALVTLRHRLHEYCGGGGGAGGSGHGTGAGRKGLLSQDNLTSMSLGTETSQVAPA",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/8a70b502fa5e62d4b181965de992fee5/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/8a70b502fa5e62d4b181965de992fee5/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "QVQLVESGGGLVQAGGSLRLSCAASGSIFSYDDMGWYRQAPGKQRELVATFTNVGSTNYVDSVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCHAYTVRRFQGMEYWGKGTQVTVSSHHHHHHEPEA",
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/9f4e6c4e95f34f32ee6580912428b5ac/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/9f4e6c4e95f34f32ee6580912428b5ac/pairing.a3m"
+        }
+      }
+    ],
+    "assembly_id": "1",
+    "name": "9qqs-assembly1",
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ]
+  }
+]

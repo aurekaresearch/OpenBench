@@ -1,0 +1,38 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9erq-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MARTFKILSPTAILGYGFPEESFRKAMEASPDLIAVDAGSSDPGPHYLGAGKPFTDRAGVKRDLRYMIVAGVKNNIPVVIGTAGGSGAAPHLEWCRQIIHEIAQEEKLSFSMALIPSDVDKAIVHQALDNGKITALDFVPELTHEAIEESTYIVAQMGIEPFQRALAAGAQVVLGGRAYDPACFAALPIMQGFDEGLALHCGKILECAAIAATPGSGSDCAMGIIDDSGFTLKAFNPKRKFTETSAAAHTLYEKSDPYFLPGPGGVLNLKGCTFKAVNEGEVYVSGSRHEATPYALKLEGARRVGFRCLTIAGTRDPIMIAGIDNILEEVQTSVARNLSLNDDSIRMTFHLYGKNGVMGNHEPMKTAGHELGILLDVVAPTQDIANSVCSLVRSTLLHYGYENRIATAGNLAFPFSPSDIQSGPVYEFSIYHLIEASDALRFDFHIEQVTPEGVQA",
+          "unpairedMsaPath": "msa/protein-protein/4def79cb9dea5396a3c38e4e74e8a458/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/4def79cb9dea5396a3c38e4e74e8a458/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "C",
+            "D"
+          ],
+          "sequence": "MKQSLCSLAQVIRSKNAGPYELVLDILFKTREDYQRVKRSEQLTPQLIAGLYNVKPDFIHRIIWFDPANAVKIVMPRDIISGNVGDNDVYGAQQHAPLLSIEFDF",
+          "unpairedMsaPath": "msa/protein-protein/ff430938a3e37ec0ee91282c3cfe135c/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/ff430938a3e37ec0ee91282c3cfe135c/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

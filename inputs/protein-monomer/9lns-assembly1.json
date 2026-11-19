@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9lns-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "DLEELLQKIKEIVLKVMDIGDDETIKRAQKLLIKAELAVQKKDLKEVEKLLKEAEKVYKEVKEA",
+          "unpairedMsaPath": "msa/protein-monomer/558a801e64f101b79d93f69fbaa7b66b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/558a801e64f101b79d93f69fbaa7b66b/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

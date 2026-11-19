@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9phh-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SKFNLMQILQDNGNLSKMQARIAFSAYLQHVQIRLMKDSGGQTFSASWAAKEDEQMELVVRFLKRASNNLQHSLRMVLPSRRLALLERRRILAHQLGDFIIVYNKETEQMAEKKSKKKVEEEEEDGVNMENFQEFIRQASEAELEEVLTFYTQKNKSASVFLGTGSAGSAAGSGEFLPETGGSKRLLKNGPSGSKKFWNNVLPHYLELK",
+          "unpairedMsaPath": "msa/protein-monomer/7e7217645ca69aa1f3d13d82ca759208/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/7e7217645ca69aa1f3d13d82ca759208/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

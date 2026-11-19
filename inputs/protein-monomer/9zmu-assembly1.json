@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9zmu-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MAHHHHHHMILYGTNPIAWSNDDDRSLGAHITLDQCLDEAAKIGFDGIEKGHKFPQEAAALKAVLEPRGLRYVSGWHSLNLLVNSVEEEKAAMQPALDLLKAMGSKVIIVCETSNAIHGDNDKPLQERPVLEDARWEAFGLGVEALAAHAAAQGITLVYHHHMGTIVETEDEIDRLMRFTGPHTRLLLDTGHCLFGRGNPERVAQKHIARVGHIHAKNIRRDIVQDVRDQNLSFLEGVRRGVFTVPGDTEGSVDFVPVLKIAAEHGYQGWLVIEAEQDPDVRNPFEYQSLGLKSLKAFAREAGLDKG",
+          "unpairedMsaPath": "msa/protein-monomer/abc0094eae7a051d84c63bfb6f9f82a2/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/abc0094eae7a051d84c63bfb6f9f82a2/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

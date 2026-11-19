@@ -1,0 +1,45 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9uju-assembly1",
+    "sequences": [
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GGCUUGAUUGUAUUUUUAAAUUUAUUCUUAAAAACUACAAAUUAAGCC"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "PSHSYFVGDTWKIKVLQNTTVIANVKQSVFVTDIILKYAAKNESIVVSLDCEGINLGLKGEITLIEIGTTRGEAFLFDVQSCPAMVTDGGLKTVLEHDQVIKVIHDCRNDAANLYLQFGILLRNVFDTQAAHAILQYQESGKQVYKAKYISLNSLCEQYNAPCNPIKDQLKQIYRRDQKFWAKRPLTREMMLYAAGDVLVLIHDQLFGNLARQIKPENRALFSELCTEQILMQIKPNEVKIRKKQRKVSTEVSDLKQKLAQTSKSINLSNREIRLLRYMDLTEDEKERLKGYYKVAKKLEKMESAGNP",
+          "unpairedMsaPath": "msa/protein-rna/984a49c160a62de72d4d75cfb9a7300f/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/984a49c160a62de72d4d75cfb9a7300f/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "ALEFA",
+          "unpairedMsaPath": "msa/protein-rna/85c4905ea3e258064aba6e06f9992f6c/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/85c4905ea3e258064aba6e06f9992f6c/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

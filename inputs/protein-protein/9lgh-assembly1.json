@@ -1,0 +1,38 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9lgh-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MGSSHHHHHHSQDPMSFEEKVESLHPAIFEQLSSEFEQQIEVIDCENITIDTSHITAALSIQAFVTTMIIVATQLVIADEDLADAVASEILILDSSQIKKRTIIKIINSRNIKITLSADEIITFVQILLQVLNSILSELDVLY",
+          "unpairedMsaPath": "msa/protein-protein/a571ec89895a7a81c65c8ca3103e24bb/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/a571ec89895a7a81c65c8ca3103e24bb/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "C",
+            "D"
+          ],
+          "sequence": "MSDNDKFKEELAKLPEVDPMTKMLVQNIFSKHGVTKDKMKKVSDEEKEMLLNLVKDLQAKSQALIENQKKKKEEAAAQEQKNTKPLSRREQLIEQIRQRRKNDNNY",
+          "unpairedMsaPath": "msa/protein-protein/b6acc131f97cdca136db2de6121777bf/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/b6acc131f97cdca136db2de6121777bf/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

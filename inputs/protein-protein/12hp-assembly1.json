@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "12hp-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "AQEVQQSPHCTTVPVGASVNITCSTSGGLRGIYLRQLGPQPQDIIYYEDGVVPTTDRRFRGRIDFSGSQDNLTITMHRLQLSDTGTYTCQAITEVNVYGSGTLVLVTEEQSQGWHRCSDA",
+          "unpairedMsaPath": "msa/protein-protein/8c9a5343c6c7c1a1fedb4dbd2db8c802/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/8c9a5343c6c7c1a1fedb4dbd2db8c802/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

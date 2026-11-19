@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "8v9s-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MGHHHHHHQFVAWCREEASVTAGLPNVSELVDMVYEYCRKRGLYPDAESYPWKSNAHYWLVTNLYQNMRANALTDAELRRKAADELVHMTARINRGEAIPEPVKQLPVMGGRPL",
+          "unpairedMsaPath": "msa/protein-monomer/86b3b6fd9e601983830b1bde6572d114/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/86b3b6fd9e601983830b1bde6572d114/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

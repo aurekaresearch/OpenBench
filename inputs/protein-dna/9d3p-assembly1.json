@@ -1,0 +1,80 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9d3p-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "KPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRGERA",
+          "unpairedMsaPath": "msa/protein-dna/5d2a15d93a725fa725fd61cdab88dfcd/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/5d2a15d93a725fa725fd61cdab88dfcd/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "C",
+            "D"
+          ],
+          "sequence": "VLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG",
+          "unpairedMsaPath": "msa/protein-dna/eddf6795d9b758fda3d1a16b07dc1df4/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/eddf6795d9b758fda3d1a16b07dc1df4/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "E",
+            "F"
+          ],
+          "sequence": "AKAKSRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYMAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPK",
+          "unpairedMsaPath": "msa/protein-dna/7aa505de59128e8b523c5476f28de733/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/7aa505de59128e8b523c5476f28de733/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "G",
+            "H"
+          ],
+          "sequence": "RSRKESYSVYVYKVLKQVHPDTGISSKAMGIMNSFVNDIFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSSK",
+          "unpairedMsaPath": "msa/protein-dna/3c68b6a389d43817a447ddeffce5c6fc/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/3c68b6a389d43817a447ddeffce5c6fc/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "I"
+          ],
+          "sequence": "CTTGTTTTCCTGCCTGGGGGAAAAGACCCTGGCATGGGGAGGAGCTGGGCCCCCCCCAGAAGGCAGCACAAGGGGAGGAAAAGTCAGCCTTGTGCTCGCCTACGGCCATACCACCCTGAAAGT"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "J"
+          ],
+          "sequence": "ACTTTCAGGGTGGTATGGCCGTAGGCGAGCACAAGGCTGACTTTTCCTCCCCTTGTGCTGCCTTCTGGGGGGGGCCCAGCTCCTCCCCATGCCAGGGTCTTTTCCCCCAGGCAGGAAAACAAG"
+        }
+      }
+    ]
+  }
+]

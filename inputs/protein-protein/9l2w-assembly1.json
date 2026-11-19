@@ -1,0 +1,28 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9l2w-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 4,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "sequence": "GPVVSIIRDDLTPQERERLMMRVRAALVDLGVAVGASVAFRQLTEPMKSEIAATVKKYLEYDH",
+          "unpairedMsaPath": "msa/protein-protein/c02e54e48c076acf57137fd5731e43bb/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/c02e54e48c076acf57137fd5731e43bb/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

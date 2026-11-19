@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9rez-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MGSSHHHHHHSSGENLYFQGSELAVTDAYARVASPAAQSGAIFMVIENHGASDDRLVSAATDAAARVELHTHLAGQDGVMQMVEVKEGFPVPAHGSHALARGGDHVMLMGLTKPLKEGDEIALTLTFESGKVLEVAAPVDTSREAPMGDHMKGMTHGN",
+          "unpairedMsaPath": "msa/protein-monomer/f74793b40f9a37616a4166389e6e2b35/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/f74793b40f9a37616a4166389e6e2b35/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

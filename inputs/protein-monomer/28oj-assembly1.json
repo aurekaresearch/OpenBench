@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "28oj-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GLTLDEARTQGRVGETFYGYLVALKTDAETEKLVADINAERKASYQQLAKQNNVSVDDIAKLAGQKLVARAKPGEYVQGINGKWVRKF",
+          "unpairedMsaPath": "msa/protein-monomer/f360267066f9c8ca802d957abaa53e8b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/f360267066f9c8ca802d957abaa53e8b/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

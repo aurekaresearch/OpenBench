@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vyu-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MASWSHPQFEKGSSHHHHHHSSGSGGGGGENLYFQGSLRETSEGVILSVIVAPNARETKIVGIDGTRGRVKVNVAAPPVKGKANKELMKFFKKLFGAEVVIVRGETSREKDLLIKGITKKEVIEKLEL",
+          "unpairedMsaPath": "msa/protein-monomer/db38816058444fe395442ab9c15a275b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/db38816058444fe395442ab9c15a275b/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

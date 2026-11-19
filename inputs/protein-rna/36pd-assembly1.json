@@ -1,0 +1,46 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "36pd-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 4,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "sequence": "MQTLKVKIVGTRPLLVHADVFADPLNKLTKSHKQLTSKRKKSDEDHELIARSEWRGGLYFSEDVGPYLPGINIESALVAGGKLSKMGTQLKRSVEIMDTRCPIIYEGPRSVEGLWDEQFYDARSVKVGTARITRYRPLFRSWAVVCEIAYDQESIDRDQVLKCLEDAGQYCGVGDYRPKFGRFAVEVLNSSSNNNNNNNNNNLGIEENLYFQ",
+          "unpairedMsaPath": "msa/protein-rna/aeed5fadf7e8d76749c9fd5d52816550/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/aeed5fadf7e8d76749c9fd5d52816550/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "E"
+          ],
+          "sequence": "CTTTTTTTCGCT"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "F"
+          ],
+          "sequence": "CAUGGCAAGGCAAGGCAAGG"
+        }
+      }
+    ]
+  }
+]

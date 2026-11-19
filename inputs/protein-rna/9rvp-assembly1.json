@@ -1,0 +1,34 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9rvp-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GSHMNPASLYRIDLFITFTDELITFDYKVHGRPVLTFRIPGFGLTPAGRMLVCMGEKPAHSPFTSSKSLYHVIFTSTCNSFSFTIYKGRYRSWKKPIHDELVDRGYTTFREFFKAVRGYHADYYKQRLIHDVEMNPG",
+          "unpairedMsaPath": "msa/protein-rna/8eafe2c488003b2c21a91ae73e315a6d/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/8eafe2c488003b2c21a91ae73e315a6d/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "CAAGGUGCGGUGCUAACUAAAUCCCUAGCACCCC"
+        }
+      }
+    ]
+  }
+]

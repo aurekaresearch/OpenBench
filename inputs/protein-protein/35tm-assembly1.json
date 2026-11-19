@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "35tm-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "SMSTNYSPIQWPVAETLLERQAIFIYEGARLQAAAVNAPIIPEPWDKRDEAFKTQFLGITQKMMGPDRFTDPEAAHDSWWRAYEALGWSYGPVRDTEAKTHPDMVPFADLGWEERMKDAVWIALCEIARQWIVEENPYE",
+          "unpairedMsaPath": "msa/protein-protein/e1795d3b39d321fc3e68203a97516200/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/e1795d3b39d321fc3e68203a97516200/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

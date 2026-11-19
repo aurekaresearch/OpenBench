@@ -1,0 +1,48 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "EISEVQLVESGGGLVQPGGSLRLSCAASGFNFSSSSIHWVRQAPGKGLEWVASISSSSGSTSYADSVKGRFTISADTSKNTAYLQMNSLRAEDTAVYYCARSQKMSYWWWYFYHYWPAIDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHT",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/dad4b6ccb6182732e0cf421db289e7fd/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/dad4b6ccb6182732e0cf421db289e7fd/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SDIQMTQSPSSLSASVGDRVTITCRASQSVSSAVAWYQQKPGKAPKLLIYSASSLYSGVPSRFSGSRSGTDFTLTISSLQPEDFATYYCQQSSSSLITFGQGTKVEIKRTVAAPSVFIFPPSDSQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/3ffdae612a66e3fed1f221ef1a6980ee/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/3ffdae612a66e3fed1f221ef1a6980ee/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MEGEQSPQGEKSLQRKQFVRPPLDLWQDLKDGVRYVIFDCRANLIVMPLLILFESMLCKIIIKKVAYTEINYKAYMEQIEMIQLDGMLDYSQVSGGTGPLVYPAGHVLIYKMMYWLTEGMDHVERGQVFFRYLYLLTLALQMACYYLLHLPPWCVVLACLSKRLHSIYVLRLFNDCFTTLFMVVTVLGAIVASRCHQRPKLKKSLALVISATYSMAVSIKMNALLYFPAMMISLFILNDANVILTLLDLVAMIAWQVAVAVPFLRSFPQQYLHCAFNFGRKFMYQWSINWQMMDEEAFNDKRFHLALLISHLIALTTLFVTRYPRILPDLWSSLCHPLRKNAVLNANPAKTIPFVLIASNFIGVLFSRSLHYQFLSWYHWTLPILIFWSGMPFFVGPIWYVLHEWCWNSYPPNSQASTLLLALNTVLLLLLALTQLSGSVALAKSHLRTTSSMEKKLNVDALEVLFQ",
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/24cf28ce03b2c863433b6b20c8a6c83c/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/24cf28ce03b2c863433b6b20c8a6c83c/pairing.a3m"
+        }
+      }
+    ],
+    "assembly_id": "1",
+    "name": "9s6r-assembly1",
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ]
+  }
+]

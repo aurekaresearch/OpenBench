@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "10cx-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MKVVKRGFVEWDLVRVGPEVEAALWEVGVRAAVLREEAETEVIAPFVRGVDIRWAVASGREKFNKLVYRDDVQVIEVNPQTPITRDQARAALRYGKYVALPLKPLLKDLPLLAQWLDVLEPEATVVATGVENASDVKSPLDVAALLVEISGDENWALPIKNSLGILTELVASDVENLYF",
+          "unpairedMsaPath": "msa/protein-monomer/2d3f0e6ab9dcd4d07f0db731f128eb9f/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/2d3f0e6ab9dcd4d07f0db731f128eb9f/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

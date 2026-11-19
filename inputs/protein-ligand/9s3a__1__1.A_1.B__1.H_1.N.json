@@ -1,0 +1,81 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9s3a__1__1.A_1.B__1.H_1.N",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GHMAGGGSDEVKLLGMWASPFVLRVQLALSLKGVGYEYVEEDLKSKSELLLKSNPVLQKVPVLIHDGKPVCESSVILQYIDEAFAGVGPSLLPEEPHGRAVARFWAAYIDGTLVKASSQASMAKTEEEKAEGKKQVTAAVETLEGALRDCSNGKPFFGGDTAGYVDVMLGGLLAWVHAGDKMKGVKTFDPATTPLLAAWADNFGSLDAVEAVMPDVGKLVEFAMAMHARAAAAATN",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/808b019d5cb5174cf04ea3c7c375afd8/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/808b019d5cb5174cf04ea3c7c375afd8/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GHMAGGGSDEVKLLGMWASPFVLRVQLALSLKGVGYEYVEEDLKSKSELLLKSNPVLQKVPVLIHDGKPVCESSVILQYIDEAFAGVGPSLLPEEPHGRAVARFWAAYIDGTLVKASSQASMAKTEEEKAEGKKQVTAAVETLEGALRDCSNGKPFFGGDTAGYVDVMLGGLLAWVHAGDKMKGVKTFDPATTPLLAAWADNFGSLDAVEAVMPDVGKLVEFAMAMHARAAAAATN",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/808b019d5cb5174cf04ea3c7c375afd8/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/808b019d5cb5174cf04ea3c7c375afd8/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CC1=C[C@H]2O[C@@H]3[C@H](O)C[C@](C)([C@]24CO[C@@]1(O)[C@H]4O)[C@]3(O)CSC[C@H](NC(=O)CC[C@H](N)C(=O)O)C(=O)NCC(=O)O",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CC1=C[C@H]2O[C@@H]3[C@H](O)C[C@](C)([C@]24CO[C@@]1(O)[C@H]4O)[C@]3(O)CSC[C@H](N)C(=O)O",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Na+]",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Na+]",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CC1=C[C@H]2O[C@@H]3[C@H](O)C[C@](C)([C@]24CO[C@@]1(O)[C@H]4O)[C@]3(O)CSC[C@H](NC(=O)CC[C@H](N)C(=O)O)C(=O)NCC(=O)O",
+          "count": 1,
+          "id": [
+            "G"
+          ]
+        }
+      }
+    ]
+  }
+]

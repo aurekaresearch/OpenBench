@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vtb-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MNSFPVHLKEKQLLKFETHIKDFNIAESTSLKAFKNLIENSEQYFLECSCKIINGVISGSRFALLFKDHEHAYNIKKSFDFLNSLKDNGAKLNYELLDKVSFEDLDLSKVKALGLGIDLRDDEAASRAKFWVAIENSNYRFFNSALDVFGYTDNMANLFNKNELLIGFDFYFNGKTKMKVYPHFYEYELKNAVISKRLEATFSPLIMEMINQCYMLYVSFEGADNYRLLHFNPHNLKKLCELINNDDLNKLIERISYKYSNCIVTLIENEILENNIKTINVYY",
+          "unpairedMsaPath": "msa/protein-monomer/7f812caa720bf6dea595c21f14d88d2b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/7f812caa720bf6dea595c21f14d88d2b/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9oay-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MILDTDYITEDGKPVIRIFKKENGEFKIEYDRTFEPYFYALLKDDSAIEEVKKITAERHGTVVTVKRVEKVQKKFLGRPVEVWKLYFTHPQDVPAIRDRIRAHPAVVDIYEYDIPFAKRYLIDKGLIPMEGDEELTMLAFAIATLYHEGEEFAEGPILMISYADEEGARVITWKNVDLPYVDVVSTEREMIKRFLRVVKEKDPDVLITYNGDNFDFAYLKKRCEKLGINFALGRDGSEPKIQRMGDRFAVEVKGRIHFDLYPVIRRTINLPTYTLEAVYEAVFGKPKEKVYAEEIAQAWETGEGLERVARYSMEDAKVTYELGKEFLPMEAQLSRLVGQPLWDVSRSSTGNLVEWYLLRKAYERNELAPNKPDEREYERRLRESYAGGYVKEPEKGLWENIVYLDFRSLYPSIIITHNVSPDTLNREGCKEYDVAPQVGHRFCKDFPGFIPSLLGDLLEERQKIKRKMKATVDPLEKKLLDYRQRRIKILASSYYGYYGYARARWYCKECAESVTAWGRQYIETTIREIEEKFGFKVLYADTDGFFATIPGADAETVKKKAKEFLDYINAKLPGLLELEYEGFYKRGFFVTKKKYAVIDEEDKITTGGLEIVRRGWSEIAKETQARVLEALLKDGDVEKAVRIVKEVTEKLSKYEVPPEKLVIHEQITRDLRDYKATGPHVAVAKRLAARGVKIRPGTVISYIVLKGSGRIGDRAISFDEFDPAKHKYDAEYYIENQVLPPVERILRACG",
+          "unpairedMsaPath": "msa/protein-dna/b3337f5f569b5395339007454e86e86b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/b3337f5f569b5395339007454e86e86b/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "TATGCACGTACGCAGTTCGCG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "modifications": [
+            {
+              "basePosition": 12,
+              "modificationType": "CCD_YTI"
+            }
+          ],
+          "sequence": "CGCGAACTGCGX"
+        }
+      }
+    ]
+  }
+]

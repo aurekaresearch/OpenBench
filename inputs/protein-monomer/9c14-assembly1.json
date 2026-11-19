@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9c14-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "HAYIVKSSPGENSELKSAPAQVEIEFNEPVEEGFHYIKVYNSNGDRVDTDKTEIKKDNHHIMTVKLKKNLPKDVYRAEWNAVSADGHPVSGVIPFSI",
+          "unpairedMsaPath": "msa/protein-monomer/cbc662a29bf5fe5e194577879f212459/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/cbc662a29bf5fe5e194577879f212459/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9rk3-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "RYSIGFPSQYASGVSEKFKKQFRIWIVKEDDTLYVIEAKCTHLGCTPNWLASEGKFKCPCHGSGFTPDGINIEGPAPRPLERFKVALGDDGQIIVDESTRYRGERGEWDKPGAFLKV",
+          "unpairedMsaPath": "msa/protein-monomer/e89bd38d3dd2ab7d6f18e10e1fd7ddae/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/e89bd38d3dd2ab7d6f18e10e1fd7ddae/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

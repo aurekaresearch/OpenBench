@@ -1,0 +1,36 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "30ky-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GPMKESTVVLKTKLHCEGCEHKIKRIVNKIKGVNSVAIDSAKDLVIVKGIIDVKQLTPYLNEKLKRTVEVVPAKK",
+          "unpairedMsaPath": "msa/protein-protein/afff6720c22556e3320153ac26198133/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/afff6720c22556e3320153ac26198133/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "MDDFKGFTIQAEYYRSISKDAWNIYYKDYKGGKDPVVVADVSKWPSTLTVLHEMEQSHWDRNKDKALTLDEMLAWLWDLKGSKKTPPSKLYYKDANRKGTIQAATKARELRKKKNSSFEIRLKQPEHKEAWDVMMKSRYGEVAHDFAEHYGIHVSSISFERKETPGFEDITFYFKEGCKSCGGEHTPQKKKAPK",
+          "unpairedMsaPath": "msa/protein-protein/8c5d4ed40213ee0e68e8ad09438dc7c3/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/8c5d4ed40213ee0e68e8ad09438dc7c3/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

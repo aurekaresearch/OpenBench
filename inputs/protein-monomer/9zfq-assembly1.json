@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9zfq-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GPGGYVCSFVFPATSGGVKKGCATQISGSKFLTATHVAKSCDKIRGLPFKIIKIDGELCLVDVPGVKSQTKLEVSFPAIGDVVNLCPSRGSQRPNIPVVVRSIGNTNIAGKFLNVFTGTVVAAGKKSDGLGSEPGDCGSPYLKFVNGKPTLVGIHTAGSYTTNQVAGLVIPSRFNLE",
+          "unpairedMsaPath": "msa/protein-monomer/464c95d57c38f4b63efde26065011e61/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/464c95d57c38f4b63efde26065011e61/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

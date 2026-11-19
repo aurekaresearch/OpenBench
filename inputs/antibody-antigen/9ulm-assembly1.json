@@ -1,0 +1,59 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGDLVQPGRSLRLSCAASGFIFSNYGMSWVRQAPGKGLEWVATISSASTYSYYPDSVKGRFTISRDNAKNSLYLQMNSLRVEDTALYYCGRHSDGNFAFGYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHHHHHH",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/f1ff612e8a48f15b2f50bcabbffeb1b4/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/f1ff612e8a48f15b2f50bcabbffeb1b4/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "DVLMTQSPLSLPVTPGEPASISCRSSRNIVHINGDTYLEWYLQKPGQSPQLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISRVEAEDVGVYYCFQGSLLPWTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/331c04d1f34b62a14b556e5c0ffd2945/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/331c04d1f34b62a14b556e5c0ffd2945/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MQVQLQESGGGLVQPGGSLRLSCAASGRTISSYAMSWFRQAPGKEREFVATARRSGDGAFYADSVQGRFTVSRDNAKNTVYLQMNSLKPEDTAVYYCAVDSDTFYSGSYDYWGQGTQVTVSSLEHHHHHH",
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/2bbc3a4475e67ba32b2b11b14dbbc3fb/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/2bbc3a4475e67ba32b2b11b14dbbc3fb/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "NPTDIADTTLDESIYSNYYLYESIPKPC",
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/7871023dd979b8cdd552295d4d447655/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/7871023dd979b8cdd552295d4d447655/pairing.a3m"
+        }
+      }
+    ],
+    "assembly_id": "1",
+    "name": "9ulm-assembly1",
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ]
+  }
+]

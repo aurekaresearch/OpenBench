@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vkj-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MKGILYVLTAGLAYGFTRVIEHYSNVTPKVAEFCANAGNIHNHLADAVRDGLFTIDVELSDGRMLTFEQLSLIAEGKPIVRISDGEHTVEVEGTFEEICMRLEEGFFEAPAYYDYDIDEKYKTVRERM",
+          "unpairedMsaPath": "msa/protein-protein/160d88daf2ce3ea92adcf37d2f176afc/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/160d88daf2ce3ea92adcf37d2f176afc/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

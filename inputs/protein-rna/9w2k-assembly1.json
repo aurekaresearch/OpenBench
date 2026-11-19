@@ -1,0 +1,59 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9w2k-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MTLLLNINTKAKRISVSDQSTIDILRNGYFGEYRAGKLMLEVEEGLYLVDVRKAACTDENSKPVSFNDIAGVFIKRKKLMARYFTFKDWRDRGLIIKSPGLRFGEEEHVQAKRYPSSAINLKKYSVTGIFFPDDMVTVIDDDESGKDLYENFWLGQYGTYKVSEHGNLNKLDIYETLFLIDMGVISIKNFTRAQIVNIASARRTDIMKLYDVYKDWRTKGYVVKTGFKFGTNFRIYFPGAKPIKENNEWIHSKHVLHVFPRDSKLIISEWARAIRVAHSVRKTFILAIPGKTRKKKLAIDFELYHRRGGDIEIPGKNSPRFGMLSLSENERIGGSELSAIINEAKSRKLELVIAIADSETSVTYYKVRRVDLPKSEYEYYEIDWMQPLEHHHHHH",
+          "unpairedMsaPath": "msa/protein-rna/2ac051f4ae31c3372fc2a4fe1fcacec8/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/2ac051f4ae31c3372fc2a4fe1fcacec8/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "modifications": [
+            {
+              "basePosition": 9,
+              "modificationType": "CCD_DU"
+            }
+          ],
+          "sequence": "ACCGACCAUAGCU"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "AGCGGUCA"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "E"
+          ],
+          "sequence": "AGGU"
+        }
+      }
+    ]
+  }
+]

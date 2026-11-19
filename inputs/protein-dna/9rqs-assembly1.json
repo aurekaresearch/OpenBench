@@ -1,0 +1,53 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9rqs-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GEGPALYEDPPDQKTSPSGKPATLKICSWNVDGLRAWIKKKGLDWVKEEAPDILCLQETKCSENKLPAELQELPGLSHQYWSAPSDKEGYSGVGLLSRQCPLKVSYGIGDEEHDQEGRVIVAEFDSFVLVTAYVPNAGRGLVRLEYRQRWDEAFRKFLKGLASRKPLVLCGDLNVAHEEIDLRNPKGNKKNAGFTPQERQGFGELLQAVPLADSFRHLYPNTPYAYTFWTYMMNARSKNVGWRLDYFLLSHSLLPALCDSKIRSKALGSDHCPITLYLAL",
+          "unpairedMsaPath": "msa/protein-dna/488442eac60f2db2a4f7e5851eee6e29/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/488442eac60f2db2a4f7e5851eee6e29/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "CCCGTGAGTCCG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "modifications": [
+            {
+              "basePosition": 7,
+              "modificationType": "CCD_A1JI0"
+            },
+            {
+              "basePosition": 8,
+              "modificationType": "CCD_AS"
+            }
+          ],
+          "sequence": "CGGACTXACGGG"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "22mj-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MSSRKLSGPKGRRLSIHVVTWNVASAAPPLDLSDLLQLNNRNLNLDIYVIGLQELNSGIISLLSDAAFNDSWSSFLMDVLSPLSFIKVSHVRMQGILLLVFAKYQHLPYIQILSTKSTPTGLFGYWGNKGGVNICLKLYGYYVSIINCHLPPHISNNYQRLEHFDRILEMQNCEGRDIPNILDHDLIIWFGDMNFRIEDFGLHFVRESIKNRCYGGLWEKDQLSIAKKHDPLLREFQEGRLLFPPTYKFDRNSNDYDTSEKKRKPAWTDRILWRLKRQPAKANPSGFLLTQKDYSSHMTYGISDHKPVSGTFDLELKPLVSA",
+          "unpairedMsaPath": "msa/protein-monomer/2de27b88839b7d701cf3a4aa26630d50/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/2de27b88839b7d701cf3a4aa26630d50/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

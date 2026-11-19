@@ -1,0 +1,35 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "10ux-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 71,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 125,
+              "ptmType": "CCD_MLY"
+            }
+          ],
+          "sequence": "MGSDKIHHHHHHENLYFQGSVVPEVKLQIGEVRPSMRDLDENDYMVEVPVTAEANNGFSDMVFGFRWDASKVTAEPPSGNIPEGLSLIPTIDNQNGVGWIHVIADSTYTGSDICTLRFTVPDNTKPGSIYDITGCSSDGDKEASVANHSGTAGTLTINNGRIFATST",
+          "unpairedMsaPath": "msa/protein-monomer/e32472c26d9d7c70443bf138a969b607/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/e32472c26d9d7c70443bf138a969b607/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

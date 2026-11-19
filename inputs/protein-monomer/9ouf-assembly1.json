@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9ouf-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MGSSHHHHHHSQDPSNRYSKIDFTQTDFDVELIRGRLKTDPDTAFFWSGRTDGIGGMDVAKKIAKNKGGVTLESTIDDTNIVMPEWDFNTPSSVTAWEEASNVYAEQVSGEIRAVVGSELRPGNIWENIELPRLKANPNVTKVTTIDPKTGVEKIIFER",
+          "unpairedMsaPath": "msa/protein-monomer/af83ce866faaeef2822d2bcd16659d1c/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/af83ce866faaeef2822d2bcd16659d1c/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

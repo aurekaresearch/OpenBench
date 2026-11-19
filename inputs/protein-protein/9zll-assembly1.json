@@ -1,0 +1,48 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9zll-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MGNIKELFYKPLDRAINGVVKADQDDNATVYQELDEYVVTNELEKHFRDFFQSYGTDLSDPSIANRVGVWISGFFGSGKSHFLKTLSYILANKVARDAEGNERSAAEFFDESKIRDAFIRADIGKAVSHHADVILFNIDSKASSNDDGNPILNVFLRVFNEYQGFSADHPHIAHMERHLSQKGVYERFKQAFEESSGMSWLEERDGYQFYQDDVETAISQALNLSAEAAHKWFEDSEQTFSVSVENFCQWVKEYLDSKGPQQRMLFLVDQVGQFIGSDTRLMLTLQTITENLGTICKGRAWIIVTSQADIDAVLGEMSSSKANDFSKIAGRFKTRLSLSSSNTDEVIQKRLLRKTPEAEALLRSVFEQKGDILKNQITFDRSGPTLKNYEGPDSFIHNYPFAPYHFQLVQKVFEEIRKVGATGAHLAYGERSMLDAFQMAANAIATDEVGALVPFHRFYTSVEGFLDTAVKRTIDQAGQNKTLDGFDVQMLRTLFMIRYVDIIKGTLDNLVTLSIEKIDEDKLALRKRIEESLQRLEKESLITRNGDEFLFLTHMENLYFQ",
+          "unpairedMsaPath": "msa/protein-protein/3c9beb7491a6d86349b200d4df992fb5/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/3c9beb7491a6d86349b200d4df992fb5/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "MGSQTIHERLNQIPERILSTEFLTGQGLGNEIGFWIFDYAPEDELKVREYLHFLDGMLEKKHSQLKVVNINLLQAVVDYLAERNFIDKAIQMQKAKGDEALLKALKGPLHMDKFAPYLVSKYATNAQDIVLMTGVGSVWPLLRAHHLLNSLHSLLGHKPVVLFYPGYYDGQAMSLFGKIPSNNYYRAFRLVP",
+          "unpairedMsaPath": "msa/protein-protein/7eb85ae3437ac1eee2f5c93df32aa646/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/7eb85ae3437ac1eee2f5c93df32aa646/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "MGNLSQLQQGLEQAFFHENHRIVFWYDAEQSFTEEIKALELNDVHILNMAEESSLAIKLKLELEDQQGKYLLYFPSPEPETEKDWLLDIKLYSRSFYADRLVGPR",
+          "unpairedMsaPath": "msa/protein-protein/ccc7013e7224aba0a7b51cd7b93704b2/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/ccc7013e7224aba0a7b51cd7b93704b2/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "23vl-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MNHKVHHHHHHIEGRHMELGTLEMATAKIAEAAKFNYPDITLNSHDMGDFEQMMVNGYAPVNTYMSLKDVQQVISTGHMSNGTIFPKPVVLTLTKQEIKKIEKAKKLALRGPEGTLLGLLTPSEVFELPQGISNKRRNATMGITGKLEFVEPPPHYDYTELRKINKPTNPSIFHGIASPLLKPSIDQLKSLEKDGVKPHIDINVLNIPAPHPLVKTTQKYFKDITVTSHPHDSIKSEDVILRGIIAKNRGFSHYLVPQCSPKEVSTSLKTIGIKPVVSATPSYFDKMSSSQLINSIRDGTAPNELLSKEDLDTFSEI",
+          "unpairedMsaPath": "msa/protein-monomer/bba8ac08583f7f2034a5c76444689bde/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/bba8ac08583f7f2034a5c76444689bde/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

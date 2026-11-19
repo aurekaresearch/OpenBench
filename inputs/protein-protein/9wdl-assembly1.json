@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9wdl-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "GSGSGSMEMQINSRKLGRTITFSRPGASYIFADLNGKSGTLGCQICSGGGTMGSTLSYDGDDQAQFEAICRRWYRAHVRGE",
+          "unpairedMsaPath": "msa/protein-protein/7f2ccb94f9f88acadb1c9037c1687c41/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/7f2ccb94f9f88acadb1c9037c1687c41/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

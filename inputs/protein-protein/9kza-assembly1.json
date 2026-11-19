@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9kza-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "RRCQRCLLPEKLCLCSTITPAQAKSRFCLLMFDTEPMKPSNTGRLIADILPDTVAFQWSRTEPSQDLLDLVQNPYYQPMVVFPASYADEQREVIFTPPAGKPPLFIMLDGTWPEARKMFRKSPYLDNLPVISVDLSRLSAYRLREAQAEGQYCTAEVAIALLDMAGDTGAAAGLGEHFTRFKTRYLAGKTQ",
+          "unpairedMsaPath": "msa/protein-protein/53b5eca100c1d9aa2b47747bc34982df/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/53b5eca100c1d9aa2b47747bc34982df/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

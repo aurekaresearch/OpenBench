@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "36gk-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MGSSHHHHHHSSGLVPRGSHMSVAPVAQDDTVSVYRGLTGYYYSSNDSENGNLTSVQDALDVIASKDPDLTFEARDINYSLDANNNSLSSKSQVADFLNNDAGSLQGEVANHTDGVIKMSGSVYLEAGNYAFKVRADDGYTILIDGVAVATVDRNQSPTTTMHSSFEISSNGYHKIEIVYWDQGGNAVLDVNLGTVDANGNFNNGEYDLNDYPLIGDTLTTKEGSELVLNSTLLLGNDYDLNDGDTVSIVADGFSSNDGAVSYDAATGEIIFTPNEGVTGSASFTYTIVDSTGKTDTATVTTLVTPNS",
+          "unpairedMsaPath": "msa/protein-monomer/b6b88fa0b1c775d3da9da1c74dd534c2/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/b6b88fa0b1c775d3da9da1c74dd534c2/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9u18-assembly1",
+    "sequences": [
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "AGTCAAGTGTTC"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "GAACACTTGAC"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "GRRKRRVLFSQAQVYELERRFKQQKYLSAPEREHLASMIHLTPTQVKIWFQNHRYKMKRQ",
+          "unpairedMsaPath": "msa/protein-dna/a0a7f9d0d14557cab386066b5a6b86a4/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/a0a7f9d0d14557cab386066b5a6b86a4/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

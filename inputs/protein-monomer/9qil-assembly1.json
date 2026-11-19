@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9qil-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GMKQLPAATVRLLSSSQIITSVVSVVKELIENSLDAGATSVDVKLENYGFDKIEVRDNGEGIKAVDAPVMAMKYYTSKINSHEDLENLTTYGFRGEALGSICCIAEVLITTRTAADNFSTQYVLDGSGHILSQKPSHLGQGTTVTALRLFKNLPVRKQFYSTAKKCKDEIKKIQDLLMSFGILKPDLRIVFVHNKAVIWQKSRVSDHKMALMSVLGTAVMNNMESFQYHSEESQIYLSGFLPKCDADHSFTSLSTPERSFIFINSRPVHQKDILKLIRHHYNLKCLKESTRLYPVFFLKIDVPTADVDVSLTPDKSQVLLQNKESVLIALENLMTTCYGPLP",
+          "unpairedMsaPath": "msa/protein-monomer/feb74a96e679bf25e4b6aa547b25fbc3/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/feb74a96e679bf25e4b6aa547b25fbc3/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

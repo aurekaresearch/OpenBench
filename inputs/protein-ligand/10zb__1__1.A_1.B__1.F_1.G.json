@@ -1,0 +1,54 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "10zb__1__1.A_1.B__1.F_1.G",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "STLKRDEALFELIALEEKRQREGLELIASENFVSKQVREAVGSVLTNKYAQGYPGARYYGGCEVIDRVESLAIERAKALFGAAWANVQPHSGSQANMAVYMALMEPGDTLMGMDLAAGGHLTHGSRVNFSGKLYKVVSYGVRPDTELIDLEEVRRLALEHRPKVIVAGASAYPRFWDFKAFREIADEVGAYLVVDMAHFAGLVAAGLHPNPLPYAHVVTSTTHKTLRGPRGGLILSNDPELGKRIDKLIFPGIQGGPLEHVIAGKAVAFFEALQPEFKEYSRLVVENAKRLAEELARRGYRIVTGGTDNHLFLVDLRPKGLTGKEAEERLDAVGITVNKNAIPFDPKPPRVTSGIRIGTPAITTRGFTPEEMPLVAELIDRALLEGPSEALREEVRRLALAHPMP",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/94d4cbc47e07f1d215bf90621e2fe108/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/94d4cbc47e07f1d215bf90621e2fe108/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "STLKRDEALFELIALEEKRQREGLELIASENFVSKQVREAVGSVLTNKYAQGYPGARYYGGCEVIDRVESLAIERAKALFGAAWANVQPHSGSQANMAVYMALMEPGDTLMGMDLAAGGHLTHGSRVNFSGKLYKVVSYGVRPDTELIDLEEVRRLALEHRPKVIVAGASAYPRFWDFKAFREIADEVGAYLVVDMAHFAGLVAAGLHPNPLPYAHVVTSTTHKTLRGPRGGLILSNDPELGKRIDKLIFPGIQGGPLEHVIAGKAVAFFEALQPEFKEYSRLVVENAKRLAEELARRGYRIVTGGTDNHLFLVDLRPKGLTGKEAEERLDAVGITVNKNAIPFDPKPPRVTSGIRIGTPAITTRGFTPEEMPLVAELIDRALLEGPSEALREEVRRLALAHPMP",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/94d4cbc47e07f1d215bf90621e2fe108/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/94d4cbc47e07f1d215bf90621e2fe108/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Cc1ncc(COP(=O)(O)O)c(/C=N/[C@@H](CO)C(=O)O)c1O",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Nc1nc2c(c(=O)[nH]1)N[C@@H](CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)CN2",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      }
+    ]
+  }
+]

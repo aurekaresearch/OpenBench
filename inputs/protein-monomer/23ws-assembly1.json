@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "23ws-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GPTLEERRKKLLELAEKYKGYNIILETFTIATDADLDRAIARLKDIIDLMTELQGKKNILYLDVTLTGDAALDARTAAELKKLEAYAKEKGIKLIVDLTRVE",
+          "unpairedMsaPath": "msa/protein-monomer/5f5b39a6e242faa5a9dc25065a8288a3/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/5f5b39a6e242faa5a9dc25065a8288a3/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

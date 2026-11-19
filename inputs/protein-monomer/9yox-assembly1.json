@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9yox-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SHHHHHHSGTVKSFPATVTKYTTADGKEYYEVDLKDFKLTDEELAAIYDKVAETDPSRKEAITAYGKALAEAGVASKADPEKLVALAKQYGVTDRICLLVALLYIQADPSWKVFFTPNNHAVAIKEDENGKVLVKDLNANNTALTERSYPSREAFLKSLGIVSSETFESTASLTASDGLPAIEVDGS",
+          "unpairedMsaPath": "msa/protein-monomer/cfd51574cda72e71b6c80b60be22cf9b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/cfd51574cda72e71b6c80b60be22cf9b/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

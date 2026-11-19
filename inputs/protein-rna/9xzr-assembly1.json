@@ -1,0 +1,34 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9xzr-assembly1",
+    "sequences": [
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GCGCAAGUGGUUUAGUGGUAAAAUCCAACGUUGCCAUCGUUGGGCCCCCGGUUCGAUUCCGGGCUUGCGCA"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "MSNDEINQNEEKVKRTPPLPPVPEGMSKKQWKKMCKRQRWEENKAKYNAERRVKKKRLRHERSAKIQEYIDRGEEVPQELIREPRINVNQTDSGIEIILDCSFDELMNDKEIVSLSNQVTRAYSANRRANHFAEIKVAPFDKRLKQRFETTLKNTNYENWNHFKFLPDDKIMFGDEHISKDKIVYLTADTEEKLEKLEPGMRYIVGGIVDKNRYKELCLKKAQKMGIPTRRLPIDEYINLEGRRVLTTTHVVQLMLKYFDDHNWKNAFESVLPPRKLDAEAKSASSSPAPKDT",
+          "unpairedMsaPath": "msa/protein-rna/02f4f6ae0be0276a7e0df8c52828a4b2/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/02f4f6ae0be0276a7e0df8c52828a4b2/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

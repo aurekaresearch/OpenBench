@@ -1,0 +1,36 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "11kp-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SMQYTYQHIQDLVPGPTPQNFYGKIIFIKKKINQIVVLIKDETQSIYLRVIPKEDQELEFQLRQVVRVHRCKIQSILNSKEGIAQIGLFGCHLIAWSQSGKVDNPVIISSRSWTKSDEDSERLQTLRKLGKSRRKSGRKTSVDTMANKLIERREAMFADTFIKSLFNKIALS",
+          "unpairedMsaPath": "msa/protein-protein/94a7b18e6f693fc11b35e613ae00ed60/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/94a7b18e6f693fc11b35e613ae00ed60/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "SDYDALNSQVVQQVLDDADDKDLELIHEALEKAFGNQENWTDKSTAKTVTIGTIIKAIETKFTGISREVLLEQKESIVEEVLGNVENEKVLEVRTEAIREALIEADFGPTN",
+          "unpairedMsaPath": "msa/protein-protein/458dc924b933f0ab488c0b4d5c9e81f1/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/458dc924b933f0ab488c0b4d5c9e81f1/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

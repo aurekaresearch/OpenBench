@@ -1,0 +1,40 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9szp-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MGSSHHHHHHSQDPENLYFQGNMPVRYFIMKSSNLRNLEISQQKGIWSTTPSNERKLNRAFWESSIVYLVFSVQGSGHFQGFSRMSSEIGREKSQDWGSAGLGGVFKVEWIRKESLPFQFAHHLLNPWNDNKKVQISRDGQELEPLVGEQLLQLWERLPLG",
+          "unpairedMsaPath": "msa/protein-dna/ebd7d09f6a0e6495bc8cd7a4c8a40430/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/ebd7d09f6a0e6495bc8cd7a4c8a40430/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "modifications": [
+            {
+              "basePosition": 3,
+              "modificationType": "CCD_6MA"
+            }
+          ],
+          "sequence": "GGACTA"
+        }
+      }
+    ]
+  }
+]

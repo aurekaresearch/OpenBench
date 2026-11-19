@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "36iq-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MEKEIVEEALKLVQGFLDDPNDKAVLEAAAAFWANPENRKVVTDTIAKELGISSEELEARWREYDAAGRLAEANEIVAKGLRKALENLYFQSHHHHHH",
+          "unpairedMsaPath": "msa/protein-monomer/842ffc96fef236d43c4b7c095294d036/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/842ffc96fef236d43c4b7c095294d036/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9qhr-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GAIDKPFETRIKLILKGFKKLRDNNGHPLTKHFEKLPDIKTHGDYYERIAAPISLNEIRIKVRSRKYSSVELFINDLDLMFANAQLYYENDPYSEEFLDSQQFKKEAHLVIQTELSKS",
+          "unpairedMsaPath": "msa/protein-monomer/89b97685312602013c6f62a9bf568e70/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/89b97685312602013c6f62a9bf568e70/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

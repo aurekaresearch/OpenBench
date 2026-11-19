@@ -1,0 +1,62 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9n88-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "VVIVGKISFCPKDVLGHGAEGTIVYRGMFDNRDVAVKRILPECFSFADREVQLLRESDEHPNVIRYFCTEKDRQFQYIAIELCAATLQEYVEQKDFAHLGLEPITLLQQTTSGLAHLHSLNIVHRDLKPHNILISMPNAHGKIKAMISDFGLCKKLAVGRHSFSRRSGVPGTEGWIAPEMLSEDCKENPTYTVDIFSAGCVFYYVISEGSHPFGKSLQRQANILLGACSLDCLHPEKHEDVIARELIEKMIAMDPQKRPSAKHVLKHPFFWSLEKQLQFFQDVSDRIEKESLDGPIVKQLERGGRAVVKMDWRENITVPLQTDLRKFRTYKGGSVRDLLRAMRNKKHHYRELPAEVRETLGSLPDDFVCYFTSRFPHLLAHTYRAMELCSHERLFQPYYFHE",
+          "unpairedMsaPath": "msa/protein-protein/cf89a7afe5628ce3cc09d6d3ca64730a/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/cf89a7afe5628ce3cc09d6d3ca64730a/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "C",
+            "D"
+          ],
+          "sequence": "PVLRSVNSREPSQVIFCNRSPRVVLPVWLNFDGEPQPYPTLPPGTGRRIHSYRGHLWLFRDAGTHDGLLVNQTELFVPSLNVDGQPIFANITLPVYTLKERCLQVVRSLVKPENYRRLDIVRSLYEDLEDHPNVQKDLERLTQERIA",
+          "unpairedMsaPath": "msa/protein-protein/44fe23b00309258d711d915e9d95e67f/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/44fe23b00309258d711d915e9d95e67f/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "E",
+            "F"
+          ],
+          "sequence": "MYVKLISSDGHEFIVKREHALTSGTIKAMLSGPGQFAENETNEVNFREIPSHVLSKVCMYFTYKVRYTNSSTEIPEFPIAPEIALELLMAANFL",
+          "unpairedMsaPath": "msa/protein-protein/332e8e41ed505187610900d32ac807f2/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/332e8e41ed505187610900d32ac807f2/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "G",
+            "H"
+          ],
+          "sequence": "RPQAPA",
+          "unpairedMsaPath": "msa/protein-protein/849197b31e59dab4eaa4deb221672008/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/849197b31e59dab4eaa4deb221672008/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "11qf-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MYRSTIVNPWVWSGLIDGEGSFSIIISKSKKRKLGWRVELKFQLGLHKKDLNLLELLQQHLGGIGSIHLAKNRDMVNYSIDSIKDLNNLIDYLDKYPLLTQKAADFLLLKKAVELVNNKAHLTLEGLEKIVNIKASMNLGLSDMLISEFPGYVPVERPVINNDNVILNPYWISGFVSAEGNFDVRVPSTNSKLGYRVQLRFRISQHSRDLILMQKIVEYLGCGKIYKYAGKSSISLTIVDFKDITNILVPFFDEYPIIGIKLHDYLDWCKIHSLMLNKSHLTVEGINSIRKIKSGMNTGRNF",
+          "unpairedMsaPath": "msa/protein-dna/ea84dfe36ef358977fcde97e41fc3e5a/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/ea84dfe36ef358977fcde97e41fc3e5a/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "GGAAGATCCTCATAACCAAAGGTTGG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "CCCAACCTTTGGTTATGAGGATCTTC"
+        }
+      }
+    ]
+  }
+]

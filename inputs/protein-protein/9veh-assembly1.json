@@ -1,0 +1,36 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9veh-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "PEQSVMQALESLTETQVSDFLSGRSPLTLALRVGDHMMFVQLQLAWPACENGCQVTGTFYMCAPPE",
+          "unpairedMsaPath": "msa/protein-protein/67a3c009164df5aff8680548647d5f70/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/67a3c009164df5aff8680548647d5f70/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "PGAVIESFVNHAPGVFSGTFSGTLHPNCQDSSGRPRRDIGTILQILNDLLSATRHYQGMPPSLAQLRCHAGSGS",
+          "unpairedMsaPath": "msa/protein-protein/b2994428cd2dc4331f9a4ebe9fcc65ed/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/b2994428cd2dc4331f9a4ebe9fcc65ed/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

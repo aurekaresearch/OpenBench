@@ -1,0 +1,76 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vmc__1__1.A__1.E",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MGSIGEPNRLLCFSIYVTKKPDQSEEDHHNHVSKVNAPMMIPFLKKYGIVRYTVKHNDAYSKPKQAALMAGQPEEVVLAYDTVFEMIVKDIESIQTMQKDEEFLRTVIPDHFNFADKTRSKGSLTWIEEFTFALEHH",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/cdd21b077bdaff79b09e6cecbf7c8902/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/cdd21b077bdaff79b09e6cecbf7c8902/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MGSIGEPNRLLCFSIYVTKKPDQSEEDHHNHVSKVNAPMMIPFLKKYGIVRYTVKHNDAYSKPKQAALMAGQPEEVVLAYDTVFEMIVKDIESIQTMQKDEEFLRTVIPDHFNFADKTRSKGSLTWIEEFTFALEHH",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/cdd21b077bdaff79b09e6cecbf7c8902/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/cdd21b077bdaff79b09e6cecbf7c8902/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MGSIGEPNRLLCFSIYVTKKPDQSEEDHHNHVSKVNAPMMIPFLKKYGIVRYTVKHNDAYSKPKQAALMAGQPEEVVLAYDTVFEMIVKDIESIQTMQKDEEFLRTVIPDHFNFADKTRSKGSLTWIEEFTFALEHH",
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/cdd21b077bdaff79b09e6cecbf7c8902/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/cdd21b077bdaff79b09e6cecbf7c8902/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MGSIGEPNRLLCFSIYVTKKPDQSEEDHHNHVSKVNAPMMIPFLKKYGIVRYTVKHNDAYSKPKQAALMAGQPEEVVLAYDTVFEMIVKDIESIQTMQKDEEFLRTVIPDHFNFADKTRSKGSLTWIEEFTFALEHH",
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/cdd21b077bdaff79b09e6cecbf7c8902/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/cdd21b077bdaff79b09e6cecbf7c8902/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Cc1ccccc1CC(=C=CC(C)(C)C)C(=O)O",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Cc1ccccc1CC(=C=CC(C)(C)C)C(=O)O",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      }
+    ]
+  }
+]

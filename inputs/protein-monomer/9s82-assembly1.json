@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9s82-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GSALEKVREKAKEAAEKAKKDPENAEKYFAELAKVLSELLKGKDKETRYKAAQIVVEIAEEYGFDVTVVYSTKDSSKWKVILNDLKVPP",
+          "unpairedMsaPath": "msa/protein-monomer/2a73c2ab6377ecd6caaec0107a860bc6/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/2a73c2ab6377ecd6caaec0107a860bc6/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

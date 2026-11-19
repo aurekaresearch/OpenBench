@@ -1,0 +1,27 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9nxk-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 3,
+          "id": [
+            "A",
+            "B",
+            "C"
+          ],
+          "sequence": "MGLEVATYINQLVPTNPTGSDLKSFGDDHLRLIKSAIKNTFPNISQAVTVTAAQLNAVADTTQYVKPGMVIMWAGSLAQIPAGWKLCNGVGTTSNGIPVPNLIGAFPWGIDGSSQAVGTRGGSANIVWDGFTEGTALTLAQIPAHTHTWRSRGATTLTGSAGDSGALTGGSGNAANTNLETGPAGQGQTHNHAVKINMPLGNIPPFCSVFFIIKN",
+          "unpairedMsaPath": "msa/protein-protein/f23863d31eccd3e8bc1352173145b183/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/f23863d31eccd3e8bc1352173145b183/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

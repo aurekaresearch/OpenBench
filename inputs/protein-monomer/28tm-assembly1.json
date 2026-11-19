@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "28tm-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MDESVMVVEDDPAVRMLVLNVLDELGYTVHPAADARTALPLLESSLRIDLLVTDVGLPGMNGRQLAEVARQHRPGLKVLFMTGYAEKAAERQGFLEPGMDLIAKPFTLDALANRVRDMIGQTSGGSGHHHHHH",
+          "unpairedMsaPath": "msa/protein-monomer/be792f7b1e7670bd6b9e24186f2b2156/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/be792f7b1e7670bd6b9e24186f2b2156/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

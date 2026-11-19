@@ -1,0 +1,74 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9h6t-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MSYRYMRMILMFDMPTDTAEERKAYRKFRKFLLSEGFIMHQFSVYSKLLLNHTANTAMVGRLKANNPKKGNITILTVTEKQFARMIYLYGDKNTSIANSEERLVFLGDNYCDED",
+          "unpairedMsaPath": "msa/protein-dna/165655b5b4ccf0acd65efaaae8c8f82a/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/165655b5b4ccf0acd65efaaae8c8f82a/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "C",
+            "D"
+          ],
+          "sequence": "MAGWRTVVVNIHSKLSYKNNHLIFRNSYKTEMIHLSEIDILLLETTDIVLTTMLVKRLVDENILVIFCDDKRLPTAFLTPYYARHDSSLQIARQIAWKENVKCEVWTAIIAQKILNQSYYLGECSFFEKSQSIMELYHGLERFDPSNREGHSARIYFNTLFGNDFTRESDNDINAALDYGYTLLLSMFAREVVVCGCMTQIGLKHANQFNQFNLASDIMEPFRPIIDRIVYQNRHNNFVKIKKELFSIFSETYLYNGKEMYLSNIVSDYTKKVIKALNQLGEEIPEFRI",
+          "unpairedMsaPath": "msa/protein-dna/dd350653e9bceca6788762b16e4b4edc/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/dd350653e9bceca6788762b16e4b4edc/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "E"
+          ],
+          "sequence": "TACGAG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "F"
+          ],
+          "sequence": "TACGAGGTTTTAGAGCTGTGTTGTTTCGAATGGTTCCAAAACCTCGTA"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "G"
+          ],
+          "sequence": "ACAACAGCGTAGCTGAGGCCTCAGCTACGAACCGTTTTGGAACCATTCGAAACAACACAGCTCTAAAACCTCGTA"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "H"
+          ],
+          "sequence": "ACAACAGCGTAGCTGAGGCCTCAGCTACGAACC"
+        }
+      }
+    ]
+  }
+]

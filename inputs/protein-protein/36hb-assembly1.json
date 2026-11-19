@@ -1,0 +1,60 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "36hb-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 3,
+          "id": [
+            "A",
+            "B",
+            "C"
+          ],
+          "sequence": "MNEEEIEEMKEELEELLEERLASLPPEVAEEVRRVFEETRERLKKSPLTPERVEELREEMLERLLEIHRRLAAELGREVTPEQVELIRQWVELFIEMLVIIKLAED",
+          "unpairedMsaPath": "msa/protein-protein/cf90c4e4d47686d58fed5f8d7aad73d8/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/cf90c4e4d47686d58fed5f8d7aad73d8/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "XXLXIXRXLAXXLXXXVTPEQVELIRQWVE",
+          "unpairedMsaPath": "msa/protein-protein/c96426e70018e190d72aa5c1382d9255/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/c96426e70018e190d72aa5c1382d9255/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "E"
+          ],
+          "sequence": "XMLVIIKL",
+          "unpairedMsaPath": "msa/protein-protein/1a4203216285f653bc9bf34902fa3f09/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/1a4203216285f653bc9bf34902fa3f09/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "F"
+          ],
+          "sequence": "XNEEEI",
+          "unpairedMsaPath": "msa/protein-protein/5bbcb650463760debeb5943b7dbfeed7/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/5bbcb650463760debeb5943b7dbfeed7/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

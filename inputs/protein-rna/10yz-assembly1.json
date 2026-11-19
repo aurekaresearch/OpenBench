@@ -1,0 +1,34 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "10yz-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MEPRGTKRKAEKTEVEKPLNKLPRAVPSLRTQPSLYSGPFPFYRRPSELGCFSLDAQRQYHGDARALRYYSPPPINGPGPDFDLRDGYPDRYQPRDEEVQERLDHLLRWVLEHRNQLEGGPGWLAGATVTWRGHLTKLLTTPYERQEGWQLAASRFQGTLYLSEVETPAARAQRLARPPLLRELMYMGYKFEQYMCADKPGGSPDPSGEVNTNVAYCSVLRSRLGNHPLLFSGEVDCLNPQAPCTQPPSCYVELKTSKEMHSPGQWRSFYRHKLLKWWAQSFLPGVPHVVAGFRNPEGFVCSLKTFPTMEMFENVRNDREGWNPSVCMNFCAAFLSFAQSTVVQDDPRLVHLFSWEPGGPVTVSVHRDAPYAFLPSWYVETMTQDLPPLSKTPSPKD",
+          "unpairedMsaPath": "msa/protein-rna/2b20620d9774471c6e8a435fad094fc9/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/2b20620d9774471c6e8a435fad094fc9/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "GGGUU"
+        }
+      }
+    ]
+  }
+]

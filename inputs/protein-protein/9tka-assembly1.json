@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9tka-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MNPASDGGTSESIFDLDYASWGIRSTLMVAGFVFYLGVFVVCHQLSSSLNATYRSLVAREKVFWDLAATRAVFGVQSTAAGLWALLGDPVLHADKARGQQNWCWFHITTATGFFCFENVAVHLSNLIFRTFDLFLVIHHLFAFLGFLGCLVNLQAGHYLAMTTLLLEMSTPFTCVSWMLLKAGWSESLFWKLNQWLMIHMFHCRMVLTYHMWWVCFWHWDGLVSSLYLPHLTLFLVGLALLTLIINPYWTHKKTQQLLNPVDWNFAQPEAKSRPEGNGQLLRKKRPDAAIEGR",
+          "unpairedMsaPath": "msa/protein-protein/431732c32977ba830f8b96a92322eaa4/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/431732c32977ba830f8b96a92322eaa4/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

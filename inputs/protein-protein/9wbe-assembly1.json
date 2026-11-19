@@ -1,0 +1,44 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9wbe-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 169,
+              "ptmType": "CCD_CSD"
+            }
+          ],
+          "sequence": "MVMAGASSLDEIRQAQRADGPAGILAIGTANPENHVLQAEYPDYYFRITNSEHMTDLKEKFKRMCDKSTIRKRHMHLTEEFLKENPHMCAYMAPSLDTRQDIVVVEVPKLGKEAAVKAIKEWGQPKSKITHVVFCTTSGVDMPGADYQLTKLLGLRPSVKRLMMYQQGCFAGGTVLRIAKDLAENNRGARVLVVCSEITAVTFRGPSDTHLDSLVGQALFSDGAAALIVGSDPDTSVGEKPIFEMVSAAQTILPDSDGAIDGHLREVGLTFHLLKDVPGLISKNIVKSLDEAFKPLGISDWNSLFWIAHPGGPAILDQVEIKLGLKEEKMRATRHVLSEYGNMSSACVLFILDEMRRKSAKDGVATTGEGLEWGVLFGFGPGLTVETVVLHSVPL",
+          "unpairedMsaPath": "msa/protein-protein/ba46b0f06bfbf1c91d161f0f91310f43/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/ba46b0f06bfbf1c91d161f0f91310f43/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "C",
+            "D"
+          ],
+          "sequence": "MGTEMVMVHEVPFPPQIITSKPLSLLGQGITDIEIHFLQVKFTAIGVYLDPSDVKTHLDNWKGKTGKELAGDDDFFDALASAEMEKVIRVVVIKEIKGAQYGVQLENTVRDRLAEEDKYEEEEETELEKVVGFFQSKYFKANSVITYHFSAKDGICEIGFETEGKEEEKLKVENANVVGMMQRWYLSGSRGVSPSTIVSIADSISAVLT",
+          "unpairedMsaPath": "msa/protein-protein/116c36fc657c13b3808a821386d44f39/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/116c36fc657c13b3808a821386d44f39/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

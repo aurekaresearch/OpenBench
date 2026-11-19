@@ -1,0 +1,48 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "DILMTQSPSSMSVSLGDTVSITCHASQGIYSNIGWLQQKPGKSFKGLIYLGTNLEDGVPSRFSGSGSGADYSLTISGLESEDFADYYCVQYAQFPPTFGGGTKLEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/4c3dcda0898557712bffefe546698b9b/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/4c3dcda0898557712bffefe546698b9b/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLQQSGAELVKPGVSVKLSCKASGYTFTEHFIHWVNQRSGQGLEWIGWLSPGSDNMKYNEKFKDKATLTADKSSNTVYLELSRLTSEDSAVYFCARHERGKTSWFAYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSC",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/4f4fee01c590f64c481b7cc6170ab035/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/4f4fee01c590f64c481b7cc6170ab035/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MENKIEVNSKDEMNKWFEEFKKGNGLVDTFTNSYSFCESVPNLDRFVFQMASATDDAQKDSIYASALVEATKFCAPIYECAWASSTGIVKKGLEWFEKNAGTIKSWDESYTELKVEVPKIEQLSNYQQAALKWRKDIGFRVNANTAALSNKVLAEYKVPGEIVMSVKEMLSDMIRRRNLILNRGGDENPRGPVSREHVEWCREFVKGKYIMAFNPPWGDINKSGRSGIALVATGLAKLAETEGKGVFDEAKKTVEALNGYLDKHKDEVDKASADSMITNLLKHIAKAQELYKNSSALRAQGAQIDTVFSSYYWLYKAGVTPDTFPTVSQFLFELGKQPRGTKKMKKALLSTPMKWGKKLYELFADDSFQQNRIYMHPAVLTAGRISEMGVCFGTIPVANPDDAALGSGHTKSILNLRTNTETNNPCAKTIVKLFEIQKTGFNIQDMDIVASEHLLHQSLVGKQSPFQNAYNVKGNATSANII",
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/7a5cdc5a09b5cee7b8ba3bfbc84ee6ea/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/7a5cdc5a09b5cee7b8ba3bfbc84ee6ea/pairing.a3m"
+        }
+      }
+    ],
+    "assembly_id": "1",
+    "name": "9zmq-assembly1",
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ]
+  }
+]

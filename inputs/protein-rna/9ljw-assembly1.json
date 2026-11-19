@@ -1,0 +1,43 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9ljw-assembly1",
+    "sequences": [
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "CGUCU"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "SSMSYSWTGALITPCGPEEEKLPINPLSNSLLRYHNKVYCTTSKSASQRAKKVTFDRTQVLDAHYDSVLKDIKLAASKVSARLLTLQQACQLTPPHSARSKYGFGAKEVRSLSGRAVNHIKSVWKDLLEDPQTPIPTTIMAKNEVFCVDPAKGGKKPARLIVYPDLGVRVCEKMALYDITQKLPQAVMGASYGFQYSPAQRVEYLLKAWAEKKDPMGFSYDTRHFDSTVTERDIRTEESIYQACSLPEEARTAIHSLTERLYVGGPMFNSKGQTCGYRRCRASGVLTTSMGNTITCYVKALAACKAAGIVAPTMLVCGDDLIVISESQGTEEDERNLRAFTEAMTRYSAPPGDPPRPEYDLELITSCSSNVSVALGPRGRRRYYLTRDPTTPLARAAWETVRHSPINSWLGNIIQYAPTIWVRMVLMTHFFSILMVQDTLDQNLGGVNPLDLPAIIERLHGLDAFSMHTYSHHELTRVASALRKLGAPPLRVWKSRARAVRASLISRGGKAAVCGRYLFNWAVKTKLKLTPLPEARLLDLSSWF",
+          "unpairedMsaPath": "msa/protein-rna/031597831b626cabae76a380dc88b118/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/031597831b626cabae76a380dc88b118/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "GAC"
+        }
+      }
+    ]
+  }
+]

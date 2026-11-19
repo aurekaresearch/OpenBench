@@ -1,0 +1,47 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9l8j-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 24,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 45,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 54,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 109,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 214,
+              "ptmType": "CCD_MLY"
+            }
+          ],
+          "sequence": "QVPAGTKVTIDGSTSMVNINEALKAQFQQTFPGTVVQTDAQGTDKGVVNLILGKVDLSASSRPLTSQEQAQGLAAVPVASDTIAVMVGRQNPFAGGLTSAQLRDIFTGKISNWSEVGGPNNTIQVINRPSESGTQQTFAAQVLQGQAFGQGANFQTMPRDATTPIIRALGSNGISYATYGQVENQQTARIVPIDSLSPNQENYPLRRQLFYFYKTPPSPQVEAFLGFATSPQGQQAITNAFE",
+          "unpairedMsaPath": "msa/protein-monomer/de9664fd98e6a700ec7cea65c97eaae5/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/de9664fd98e6a700ec7cea65c97eaae5/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9c38-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "SGCPQRSCKTHVLLLVLHGGNILDTGAGDPSCKAADIHTFSSVLEKVTRAHFPAALGHILIKFVPCPAICSEAFSLVSHLNPYSHDEGCLSSSQDHVPLAALPLLAISSPQYQDAVATVIERANQVYREFLKSSDGIGFSGQVCLIGDCVGGLLAFDAICYSAGPSGDSSDSSTYDCEAITQHHAFLSSIHSSVLKDESETPAAGGPQLPEVSLGRFDFDVSDFFLFGSPLGLVLAMRRTVLPGLDGFQVRPACSQVYSFFHCADPSASRLEPLLEPKFHLVPPVSVPRYQRFPLGDGQSLLLADALHTHSPLFLEGSSDSMAPVGASRITAKWWGSKRIDYALYCPDVLTAFPTVALPHLFHASYWESTDVVAFILRQVMRYESVNIKESA",
+          "unpairedMsaPath": "msa/protein-protein/dc433c2b1b431fd2fcc6e2da2ee7f82d/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/dc433c2b1b431fd2fcc6e2da2ee7f82d/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

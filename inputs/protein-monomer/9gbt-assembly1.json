@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9gbt-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SGMEKALEAARKAIEEHPEEAKEVAELNKKAGEIVKEAGSYEEVAKKVLELAREGKLSDDAIIAAAKGLAYDEEGQEVALKTAEEARKAAEESSGKGKERLTLLSFLLRLQVRLTRESEDDEGYLTLATVYWLAAKIAKKKLEEDPSASTDLEGIEKAFEEGLEEAKKAPEEEILKAGFDYFEKAKEIMEKGNKELRELLFK",
+          "unpairedMsaPath": "msa/protein-monomer/4cccad0039160c550044c5a11b013898/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/4cccad0039160c550044c5a11b013898/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

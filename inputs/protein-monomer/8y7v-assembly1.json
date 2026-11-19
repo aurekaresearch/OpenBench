@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "8y7v-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SEILPFQYVLCAATSPAVKLHDETLTYLNQGQSYEIRMLDNRKLGELPELNGKLVKSIFRVVFHDRRLQYTEHQQLEGWRWNRPGDRILDIDIPMSVGVIDPRANPTQLNTVEFLWDPSKRTSVFIQVHCISTEFTMRKHGGEKGVPFRVQIDTFKENGNGEYTEHLHSASCQIKVFKPKGADRKQKIDREKMEKRTPHEKEKYQPSYETTILTECSPWPEI",
+          "unpairedMsaPath": "msa/protein-monomer/a3daacf90d20e901c02768639a4c0d16/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/a3daacf90d20e901c02768639a4c0d16/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

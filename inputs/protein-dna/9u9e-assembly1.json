@@ -1,0 +1,82 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9u9e-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GPEFKLMSKAVNKKGLRPRKSDSILDHIKNKLDQEFLEDNENGEQSDEDYDQKSLNKAKKPYKKRQTQNGSELVISQQKTKAKASANNKKSAKNSQKLDEEEKIVEEEDLSPQKNGAVSEDDQQQEASTQEDDYLDRLPKSKKGLQGLLQDIEKRILHYKQLFFKEQNEIANGKRSMVPDNSIPICSDVTKLNFQALIDAQMRHAGKMFDVIMMDPPWQLSSSQPSRGVAIAYDSLSDEKIQNMPIQSLQQDGFIFVWAINAKYRVTIKMIENWGYKLVDEITWVKKTVNGKIAKGHGFYLQHAKESCLIGVKGDVDNGRFKKNIASDVIFSERRGQSQKPEEIYQYINQLCPNGNYLEIFARRNNLHDNWVSIGNEL",
+          "unpairedMsaPath": "msa/protein-dna/3141d8d46ec18aefccc1b44dbb406c00/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/3141d8d46ec18aefccc1b44dbb406c00/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "GPGRPMAPKKQEQEPIRLSTRTASKKVDYLQLSNGKLEDFFDDLEEDNKPARNRSRSKKRGRKPLKKADSRSKTPSRVSNARGRSKSLGPRKTYPRKKNLSPDNQLSLLLKWRNDKIPLKSASETDNKCKVVNVKNIFKSDLSKYGANLQALFINALWKVKSRKEKEGLNINDLSNLKIPLSLMKNGILFIWSEKEILGQIVEIMEQKGFTYIENFSIMFLGLNKCLQSINHKDEDSQNSTASTNNTNNEAITSDLTLKDTSKFSDQIQDNHSEDSDQARKQQTPDDITQKKNKLLKKSSVPSIQKLFEEDPVQTPSVNKPIEKSIEQVTQEKKFVMNNLDILKSTDINNLFLRNNYPYFKKTRHTLLMFRRIGDKNQKLELRHQRTSDVVFEVTDEQDPSKVDTMMKEYVYQMIETLLPKAQFIPGVDKHLKMMELFASTDNYRPGWISVIEKGAPWSHPQFEKGGGSGGGSGGGSWSHPQFEK",
+          "unpairedMsaPath": "msa/protein-dna/936dcacb223fb2ae08eff7df581bf497/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/936dcacb223fb2ae08eff7df581bf497/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "GPGRPSLKKGKFQHNQSKSLWNYTLSPGWREEEVKILKSALQLFGIGKWKKIMESGCLPGKSIGQIYMQTQRLLGQQSLGDFMGLQIDLEAVFNQNMKKQDVLRKNNCIINTGDNPTKEERKRRIEQNRKIYGLSAKQIAEIKLPKVKKHAPQYMTLEDIENEKFTNLEILTHLYNLKAEIVRRLAEQGETIAQPSIIKSLNNLNHNLEQNQNSNSSTETKVTLEQSGKKKYKVLAIEETELQNGPIATNSQKKSINGKRKNNRKINSDSEGNEEDISLEDIDSQESEINSEEIVEDDEEDEQIEEPSKIKKRKKNPEQESEEDDIEEDQEEDELVVNEEEIFEDDDDDEDNQDSSEDDDDDED",
+          "unpairedMsaPath": "msa/protein-dna/eaf4c1870e58a19fbceb7c21d8cc89f2/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/eaf4c1870e58a19fbceb7c21d8cc89f2/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "GPEFMKKNGKSQNQPLDFTQYAKNMRKDLSNQDICLEDGALNHSYFLTKKGQYWTPLNQKALQRGIELFGVGNWKEINYDEFSGKANIVELELRTCMILGINDITEYYGKKISEEEQEEIKKSNIAKGKKENKLKDNIYQKLQQMQ",
+          "unpairedMsaPath": "msa/protein-dna/0f6370f215923d5ac69ef395917956b3/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/0f6370f215923d5ac69ef395917956b3/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "E"
+          ],
+          "sequence": "AGTTAAAGTTAAGATGTTAAGAAAGTT"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "F"
+          ],
+          "modifications": [
+            {
+              "basePosition": 13,
+              "modificationType": "CCD_6MA"
+            }
+          ],
+          "sequence": "AACTTTCTTAACATCTTAACTTTAACT"
+        }
+      }
+    ]
+  }
+]

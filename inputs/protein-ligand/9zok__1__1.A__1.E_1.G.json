@@ -1,0 +1,43 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9zok__1__1.A__1.E_1.G",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MAHHHHHHSPILPGAWLGMVGGGQLGRMFCFAAQAMGYRVAVLDPDENSPAGAVADRHLRAAYNDEASLTELARLCAAVSTEFENVPAASLDFLARTTFVSPAGRCVAVAQDRIAEKRFIASSGVTVAPHVVIESSDALAALDDAKLEAVLPGILKTARMGYDGKGQIRVRNAEEVREAHASLAGVPCVLEKRLPLKFEVSALIARAASGASVVYPLAQNTHRDGVLSHTIVPAPDASPTLVQQAQQAALQIADKLGYVGVLCVEFFILEDGSLVANEMAPRPHNSGHYTVDACATSQFEQQVRAMTGMPLGDTRQHSPAVMLNILGDVWFPDGPKRPAVTPPWQEVAAMPAARLHLYGKEEARCGRKMGHVNFTAATLEEARTAARDCARLLHIIT",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/a946ba9e53bde39a33a1c2f5a19aa416/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/a946ba9e53bde39a33a1c2f5a19aa416/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO[P@](=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O",
+          "count": 1,
+          "id": [
+            "B"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Mg+2]",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      }
+    ]
+  }
+]

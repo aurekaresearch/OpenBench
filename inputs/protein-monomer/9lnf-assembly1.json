@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9lnf-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "RHMGLPDLKVIPGGQSIGVKLHSVGVLVVGFHQINTSEGKKSPGETAGIEAGDIIIEMNGQKIEKMNDVAPFIQKAGKTGESLDLLIKRDKQKIKTKLIPEKDEGEGKYRIGLYIRDSAAGIGTMTFYEPKTKKYGALGHVISDMDTKKPIVVENGEIVKSTVTSIEKGTGGNPGEKLARFSSERKTIGDINRNSPFGIFGTLHQPIQNNISDQALPVAFSTEVKKGPAEILTVIDDDKVEKFDIEIVSTTPQKFPATKGMVLKITDPRLLKETGGIVQGMAGAPIIQNGKVIGAVTHVFVNDPTSGYGVHIEWMLSEAGIDIYGKEKAS",
+          "unpairedMsaPath": "msa/protein-monomer/176ea4a69d4fd077746410bfd1b68d3c/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/176ea4a69d4fd077746410bfd1b68d3c/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

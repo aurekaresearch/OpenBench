@@ -1,0 +1,54 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9ky4-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MGSSDIADLRTLGYSQQQQEKIKPKVRSTVAQHHEALVGHGFTHAHIVALSQHPAALGTVAVKYQDMIAALPEATHEAIVGVGKQWSGARALEALLTVAGELRGPPLQLDTGQLLKIAKRGGVTAVEAVHAWRNALTGAPLNLTPEQVVAIASHDGGKQALETVQRLLPVLCQAHGLTPEQVVAIASNGGGKQALETVQRLLPVLCQAHGLTPEQVVAIASNIGGKQALETVQRLLPVLCQAHGLTPEQVVAIASNNGGKQALETVQRLLPVLCQAHGLTPEQVVAIASHDGGKQALETVQRLLPVLCQAHGLTPEQVVAIASHDGGKQALETVQRLLPVLCQAHGLTPEQVVAIASNGGGKQALETVQRLLPVLCQAHGLTPEQVVAIASNIGGKQALETVQRLLPVLCQAHGLTPEQVVAIASNNGGKQALETVQRLLPVLCQAHGLTPEQVVAIASHDGGKQALETVQRLLPVLCQAHGLTPEQVVAIASHDGGKQALETVQRLLPVLCQAHGLTPEQVVAIASNNGGKQALETVQRLLPVLCQAHGLTPEQVVAIASNGGGKQALETVQRLLPVLCQAHGLTPEQVVAIASNGGGKQALETVQRLLPVLCQAHGLTPEQVVAIASNGGGKQALESIVAQLSRPDPALAALTNDHLVALACLGGRPALDAVKKGLG",
+          "unpairedMsaPath": "msa/protein-dna/c0dd7cb78d9a0b41fcdf63df8da7b117/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/c0dd7cb78d9a0b41fcdf63df8da7b117/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "GAATCTAGCCTAGCCGTTTACCTTTCCTCACAGGT"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "ACCTGTGAGGAAAGGTAAACGGCTAGGCTAGATTC"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "GSYALGPYQISAPQLPAYNGQTVGTFYYVNDAGGLESKVFISGGPTPYPNYVSAGHVAGQSALFMRDNGISEGLVFHNNPKGTCGFCVNMIETLLPENAKMTVVPPEGAIPVKRGATGETKVFIGNSNSPKSPT",
+          "unpairedMsaPath": "msa/protein-dna/fb8d0875a0467cdfe218b3cc35f28391/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/fb8d0875a0467cdfe218b3cc35f28391/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

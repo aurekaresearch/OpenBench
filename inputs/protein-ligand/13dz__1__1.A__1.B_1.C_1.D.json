@@ -1,0 +1,52 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "13dz__1__1.A__1.B_1.C_1.D",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GSRTMAVKKIAIFGATGQTGLTTLAQAVQAGYEVTVLVRDSSRLPSEGPRPAHVVVGDVLQAADVDKTVAGQDAVIVLLGTRNDLSPTTVMSEGARNIVAAMKAHGVDKVVACTSAFLLWDPTKVPPRLQAVTDDHIRMHKVLRESGLKYVAVMPPHIGDQPLTGAYTVTLDGRGPSRVISKHDLGHFMLRCLTTDEYDGHSTYPSHQYQ",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/26bffe162f8ae187fb0b8a8401dccc17/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/26bffe162f8ae187fb0b8a8401dccc17/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "NC(=O)c1ccc[n+]([C@@H]2O[C@H](CO[P@@](=O)([O-])O[P@](=O)(O)OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](OP(=O)(O)O)[C@@H]3O)[C@@H](O)[C@H]2O)c1",
+          "count": 1,
+          "id": [
+            "B"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCc1c(-c2cccc(CNC(=O)Nc3cccc(OC)c3)c2)nn2c(=O)cc(-c3cccc(C(=O)O)c3)[nH]c12",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "OCC(O)CO",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      }
+    ]
+  }
+]

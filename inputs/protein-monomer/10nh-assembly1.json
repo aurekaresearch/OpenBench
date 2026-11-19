@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "10nh-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MAHHHHHHPKPWVTLPKLDPNEDRDAAFAEIAAASAASGLYIGAHISTAGGLDNSVINAYNICGQAFALFLKNQRRWDSPPLADATVKKFTANIEKYKYDIRYVLPHGSYLINIANPDYEKRMKSYHHFVDDIQRCEKLGITLYNFHPGSTVGMCEKPEGIRNIANCINMAMKETSSAKIVLENAAGQKNVIGSTFEDLRDIINLVENKDRVAVCLDTCHLFAAGYDIRTKDKFEAVMRSFDEIIGLKYLVAVHLNDCKSDLGSGLDRHENIGIGKLTRETFEFIANSGYFRNMPIILETPDIHGDETIYKQEVKVMYGLVEG",
+          "unpairedMsaPath": "msa/protein-monomer/6e91846110be2316c4464fe9dc166098/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/6e91846110be2316c4464fe9dc166098/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

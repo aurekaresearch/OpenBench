@@ -1,0 +1,31 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9ynm-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 109,
+              "ptmType": "CCD_OCS"
+            }
+          ],
+          "sequence": "SHHHHHHSGGLDAEYEKLAEGVKEIYEVYYETGKKLAEEYPDATVNLVNYDNSHFYLELETPKGTVIVDGDENQYPIVTKNGKKTEDKEAKAKLKEIAEKYDIDLSTTCLIRSLAIVQAYWETRNGKAPVKLYSEGTGVPRQELAAANLVSKIYKKGDKSKYLKVTGAWRPDGVLTLNLLDPNGNVLASYTIKYGS",
+          "unpairedMsaPath": "msa/protein-monomer/b660935169fb966e6ce5d5fc6dfaba98/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/b660935169fb966e6ce5d5fc6dfaba98/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

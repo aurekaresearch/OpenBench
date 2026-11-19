@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9nvt-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MALYDEDLLKNPFYLALQKCRPDLCSKVAQIHGIVLVPCKGSLSSSIQSTCQFESYILIPVEEHFQTLNGKDVFIQGNRIKLGAGFACLLSVPILFEETFYNEKEESFSILCIAHPLEKRESS",
+          "unpairedMsaPath": "msa/protein-monomer/3dbbb2d459a6c5dcadcd68b29df884f5/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/3dbbb2d459a6c5dcadcd68b29df884f5/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

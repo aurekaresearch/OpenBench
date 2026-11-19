@@ -1,0 +1,34 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9m86-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MRPHNELIRPSSTSLSKYFPHKVLQNWTLDPELCAQIDDILQKFLDDNKIPWSKKGSVLEISTKSITWSRKARRISKSQTSVSSLEGQMKCELNVIDNQLQCKWIEGYDYNVYESFCSALARALRDNKK",
+          "unpairedMsaPath": "msa/protein-rna/649df909a59f6e68af042c88e509f4fc/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/649df909a59f6e68af042c88e509f4fc/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "AGCAUGGCCCCUGCACAAGGAUGACACUGCG"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9cyn-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 140,
+              "ptmType": "CCD_YCM"
+            }
+          ],
+          "sequence": "GSGSMELRSITVESWDNPAASAAYGWEVFTDKDTQQAQGAQPQAYQPVAQNAQSLREVKLIAGKPGDIKNVDAGTAKVLGVKFQFTYPGDNSVTIRPPRVPEYEVLRTKSYLDANNQRKVSKIYGVEFPGVSKAISVWVCGRGNEYNLEGWIEDWKGDTHILQFGSLDFIGWRPLTVGIPQGVPQDVNSYPQVKTIVFKQFKIRSRPDTSGETVYLFFDELRVLSDVFEVHFDGASIDFDDEDCKSKHKLDKMLKTK",
+          "unpairedMsaPath": "msa/protein-protein/86b1ffbaffbeddde4a55270b11b9e808/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/86b1ffbaffbeddde4a55270b11b9e808/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "11nq-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MAASLPVSDLSNIAQGLLSKSVDLDGSYRAELAINIHDTFSLTDVSRLGNCFFECFSLAITGTRTAIEQVKGIILSHALRNWNEIPSLERFYGSKDDYIREFQVDGYWGGNLEAEILNKAFGMPIVIWMSEDGVNTYCAQFWTRLHGDRPEVNLLLQGNHFQLMTPKGVEKPPVTSIYSGSHHHHHH",
+          "unpairedMsaPath": "msa/protein-monomer/341b20cdc4cb65a0892444b4eb805dec/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/341b20cdc4cb65a0892444b4eb805dec/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

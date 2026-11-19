@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vlb-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MAVVKTPVLKVILCGEYGVGKSSLFRRFINNTFVPNSDRRATLGLDHFEKLYQVADKDVKLQLWDTGGMERIASVTSSYYKFAEAAILVFSLDNASSFHILSQHLLEIVSYAENAKIFLCGNKSDLEGASPQVTDADIETFCEQCHNLVNSTYKTSCKTGKGIEEMFADIALQRVEANRS",
+          "unpairedMsaPath": "msa/protein-monomer/4d2fb91221e30648a7ec0e6827328672/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/4d2fb91221e30648a7ec0e6827328672/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9qwr-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "HMPPEEVAARLAQQEKQEQVKIESLAKSLEDALRQTASVTLQAIAAQNAAVQAVNAHSNILKAAMDNSEIAGEKKSAQWRTVEGALKERRKAVDEAADALLKAKEELEKMKSVIENAKKKEVAGAKPHITAAEGKLHNMIVDLDNVVKKVQAAQSEAKVVSQYHELVVQARDDFKRELDSITP",
+          "unpairedMsaPath": "msa/protein-protein/9398bb8b8d1edd6ac42ee9d31e725558/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/9398bb8b8d1edd6ac42ee9d31e725558/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

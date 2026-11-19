@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9e5a-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SLTINIRQLFNSLSDTNINKVKDQLKETIITKAKNENMIEEIAKEILSNFVISEKNIRNYMVLLNAVSGTCVLLADSETKKTSPTIGKYFIDNCKTDIFHHISESTVRELANMDLDDSDQLDLYNRKRETVINLILTLCFLYGQRNTDLIRLTASQLYPLINTIMNTYDSLQAKMKILGNPYDGDDCEDEEEYEILSKMCTIYAEQLYTFINKEVSSFLLDDTVVKGMLMKNLVERFKNTIVPTLTEAYLRSKCSCIQYN",
+          "unpairedMsaPath": "msa/protein-monomer/29ecbb71a10afe78a08aaa01c82f52e0/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/29ecbb71a10afe78a08aaa01c82f52e0/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

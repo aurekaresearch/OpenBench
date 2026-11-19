@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9rwe-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MDCYAEHEGGNTVVIGYVPRISIPSNGKKGDKIWQSSEYFMNVFCNNALPAPSPGEEYPSAWTNIMMFLPGGQDFYNQNSYIFGVTYNGVDYDSTAPNAIAAPECIDIKGAGTFNNHYKNPAVCSGGPEPQLSVTFPARVQLYIKLAKNANRVNKNLVLPDEYIALEFKGMSGAGAIEVDKNLTFRIRGLNNIHVLD",
+          "unpairedMsaPath": "msa/protein-monomer/29a24c6657b70689b92e73a1fa538153/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/29a24c6657b70689b92e73a1fa538153/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

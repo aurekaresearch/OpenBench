@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9lie-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GGDATAKLLQALVPALLKSDVFRAIYKRGTRKQVVQYVTNSALQQAASSLGLDASTISQLQTKATQALSSVSADSDSTAYAKAFGLAIAQVLGTSGQVNDANVNQIGAKLATGILRGSSAVAPRLGIDLSGINVDSDIGSVTSLILSGSTL",
+          "unpairedMsaPath": "msa/protein-monomer/67cf4e24bf910f54d5c40ab191e94bc3/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/67cf4e24bf910f54d5c40ab191e94bc3/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

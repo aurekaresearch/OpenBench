@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9rwu-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "VDCYQDGYRGTTLINGDLPTFKIPENAQPGQKIWESGDINITVYCDNAPGWSSNNPSENVYAWIKLPQINSADMLNNPYLTFGVTYNGVDYEGTNEKIDTHACLDKYEQYYNGYYHDPVCNGSTLQKNVTFNAHFRVYVKFKSRPAGDQTVNFGTVNVLQFDGEGGANMAPNAKNLRYAITGLDNISFLDGAAAYPYDVPDYGSHHHHHH",
+          "unpairedMsaPath": "msa/protein-protein/cadd61c8a9e7d17b640c5087b4ad03fd/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/cadd61c8a9e7d17b640c5087b4ad03fd/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

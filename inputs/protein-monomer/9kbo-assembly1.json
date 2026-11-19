@@ -1,0 +1,43 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9kbo-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 249,
+              "ptmType": "CCD_SEP"
+            },
+            {
+              "ptmPosition": 250,
+              "ptmType": "CCD_TPO"
+            },
+            {
+              "ptmPosition": 253,
+              "ptmType": "CCD_TPO"
+            },
+            {
+              "ptmPosition": 256,
+              "ptmType": "CCD_SEP"
+            }
+          ],
+          "sequence": "GSQEGVELEKSVRRLREKFHGKVSSKKAGALMRKFGSDHTGVGRSIVYGVKQKDGQELSNDLDAQDPPEDMKQDRDIQAVATSLLPLTEANLRMFQRAQDDLIPAVDRQFACSSCDHVWWRRVPQRKEVSRCRKCRKRYEPVPADKMWGLAEFHCPKCRHNFRGWAQMGSPSPCYGCGFPVYPTRILPPRWDRDPDRRSTHTHSCSAADCYNRREPHVPGTSCAHPKSRKQNHLPKVLHPSNPHISSGSTVATCLSQGGLLEDLDNLILEDLKEEEEEEEEVEDEEGGPRE",
+          "unpairedMsaPath": "msa/protein-monomer/afcb0e56c6d36b55606d75813ddc930f/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/afcb0e56c6d36b55606d75813ddc930f/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "26bh-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GPLGSNRKDRIDEIVKYSSRFVGEVEAYNKLGKYDINLHAEHFLLPVLNTLFDLELENLNSSKKNNFPAIDLADFKNRVAFQITSTPSSQKITDTLIKFTKYKLNEHFDILYFFILTKRQDKYPDDKLKELIPTSLIFNSTEHIIDNTILLKKINSLSLQKLNHIAKIYKHEFSD",
+          "unpairedMsaPath": "msa/protein-monomer/b8db00979a2a80a61e3c25a4357a5242/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/b8db00979a2a80a61e3c25a4357a5242/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

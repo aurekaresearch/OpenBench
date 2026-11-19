@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9igp-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "LLCQFGTVQHVWKVSDLPRQWTPKNTSCDSGLGCQDTLMLIESGPQVSLVLSKGCTEAKDQEPRVTEHRMGPGLSLISYTFVCRQEDFCNNLVNSLPLWAPQPPADPGSLRCPVCLSMEGCLEGTTEEICPKGTTHCYDGLLRLRGGGIFSNLRVQGCMPQPGCNLLNGTQEIGPVGMTENCNRKDFLTCHRGTTIMTHGNLAQEPTDWTTSNTEMCEVGQVCQETLLLLDVGLTSTLVGTKGCSTVGAQNSQKTTIHSAPPGVLVASYTHFCSSDLCNSASSSSVLLNSLPPQAAPVPGDRQCPTCVQPLGTCSSGSPRMTCPRGTTHCYDGYIHLSGGGLSTKMSIQGCVAQPSSFLLNHTRQIGIFSAREKRD",
+          "unpairedMsaPath": "msa/protein-monomer/d3e4cbf97c2bb643e3fb3d0a0a73a4ed/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/d3e4cbf97c2bb643e3fb3d0a0a73a4ed/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

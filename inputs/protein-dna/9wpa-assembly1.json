@@ -1,0 +1,44 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9wpa-assembly1",
+    "sequences": [
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "TATGATAACTCAGTTATCAT"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "TATGATAACTGAGTTATCAT"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "C",
+            "D"
+          ],
+          "sequence": "MIDARKHYDPNLAPELVRRALAVTGTQKELAERLDVSRTYLQLLGKGQKSMSYAVQVMLEQVIQDGETLEHHHHHH",
+          "unpairedMsaPath": "msa/protein-dna/eab57f617135a640ad63d7ecf1d08158/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/eab57f617135a640ad63d7ecf1d08158/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

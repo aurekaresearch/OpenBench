@@ -1,0 +1,130 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9hb7__1__1.A__1.C_1.D",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MKHHHHHHHGAAGTSLYKKAGENLYFQGSLEDVPWFPRKISELDKCSHRVLMYGSELDADHPGFKDNVYRQRRKYFVDVAMGYKYGQPIPRVEYTEEETKTWGVVFRELSKLYPTHACREYLKNFPLLTKYCGYREDNVPQLEDVSMFLKERSGFTVRPVAGYLSPRDFLAGLAYRVFHCTQYIRHGSDPLYTPEPDTCHELLGHVPLLADPKFAQFSQEIGLASLGASDEDVQKLATCYFFTIEFGLCKQEGQLRAYGAGLLSSIGELKHALSDKACVKAFDPKTTCLQECLITTFQEAYFVSESFEEAKEKMRDFAKSITRPFSVYFNPYTQSIEILKDTRSIENVVQDLRSDLNTVCDALNKMNQYLGI",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/bd0deb086ea6b7fc16e3cc9f3f3a08d5/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/bd0deb086ea6b7fc16e3cc9f3f3a08d5/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MKHHHHHHHGAAGTSLYKKAGENLYFQGSLEDVPWFPRKISELDKCSHRVLMYGSELDADHPGFKDNVYRQRRKYFVDVAMGYKYGQPIPRVEYTEEETKTWGVVFRELSKLYPTHACREYLKNFPLLTKYCGYREDNVPQLEDVSMFLKERSGFTVRPVAGYLSPRDFLAGLAYRVFHCTQYIRHGSDPLYTPEPDTCHELLGHVPLLADPKFAQFSQEIGLASLGASDEDVQKLATCYFFTIEFGLCKQEGQLRAYGAGLLSSIGELKHALSDKACVKAFDPKTTCLQECLITTFQEAYFVSESFEEAKEKMRDFAKSITRPFSVYFNPYTQSIEILKDTRSIENVVQDLRSDLNTVCDALNKMNQYLGI",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/bd0deb086ea6b7fc16e3cc9f3f3a08d5/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/bd0deb086ea6b7fc16e3cc9f3f3a08d5/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MKHHHHHHHGAAGTSLYKKAGENLYFQGSLEDVPWFPRKISELDKCSHRVLMYGSELDADHPGFKDNVYRQRRKYFVDVAMGYKYGQPIPRVEYTEEETKTWGVVFRELSKLYPTHACREYLKNFPLLTKYCGYREDNVPQLEDVSMFLKERSGFTVRPVAGYLSPRDFLAGLAYRVFHCTQYIRHGSDPLYTPEPDTCHELLGHVPLLADPKFAQFSQEIGLASLGASDEDVQKLATCYFFTIEFGLCKQEGQLRAYGAGLLSSIGELKHALSDKACVKAFDPKTTCLQECLITTFQEAYFVSESFEEAKEKMRDFAKSITRPFSVYFNPYTQSIEILKDTRSIENVVQDLRSDLNTVCDALNKMNQYLGI",
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/bd0deb086ea6b7fc16e3cc9f3f3a08d5/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/bd0deb086ea6b7fc16e3cc9f3f3a08d5/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MKHHHHHHHGAAGTSLYKKAGENLYFQGSLEDVPWFPRKISELDKCSHRVLMYGSELDADHPGFKDNVYRQRRKYFVDVAMGYKYGQPIPRVEYTEEETKTWGVVFRELSKLYPTHACREYLKNFPLLTKYCGYREDNVPQLEDVSMFLKERSGFTVRPVAGYLSPRDFLAGLAYRVFHCTQYIRHGSDPLYTPEPDTCHELLGHVPLLADPKFAQFSQEIGLASLGASDEDVQKLATCYFFTIEFGLCKQEGQLRAYGAGLLSSIGELKHALSDKACVKAFDPKTTCLQECLITTFQEAYFVSESFEEAKEKMRDFAKSITRPFSVYFNPYTQSIEILKDTRSIENVVQDLRSDLNTVCDALNKMNQYLGI",
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/bd0deb086ea6b7fc16e3cc9f3f3a08d5/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/bd0deb086ea6b7fc16e3cc9f3f3a08d5/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Fe+3]",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCn1c(=O)[nH]c(=O)c2c1nc(Cc1nc3ccccc3[nH]1)n2Cc1ccccc1",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Fe+3]",
+          "count": 1,
+          "id": [
+            "G"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCn1c(=O)[nH]c(=O)c2c1nc(Cc1nc3ccccc3[nH]1)n2Cc1ccccc1",
+          "count": 1,
+          "id": [
+            "H"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Fe+3]",
+          "count": 1,
+          "id": [
+            "I"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCn1c(=O)[nH]c(=O)c2c1nc(Cc1nc3ccccc3[nH]1)n2Cc1ccccc1",
+          "count": 1,
+          "id": [
+            "J"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Fe+3]",
+          "count": 1,
+          "id": [
+            "K"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCn1c(=O)[nH]c(=O)c2c1nc(Cc1nc3ccccc3[nH]1)n2Cc1ccccc1",
+          "count": 1,
+          "id": [
+            "L"
+          ]
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "10up-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MSASAATGVFVLSLSAIPVTYVFNHLAAQHDSWTIVGVAALILFLVALLARVLVKRKPPRDPLFYVYAVFGFTSVVNLIIGLEQDGIIDGFMTHYLREGEPYLNTAYGHMICYWDGSAHYLMYLVMVAAIAWEETYRTIGLYWVGSIIMSVVVFVPGNIVGKYGTRICPAFFLSIPYTCLPVWAGFRIYNQPSENYNYPSKVIQEAQAKDLLRRPFDLMLVVCLLLATGFCLFRGLIALDCPSELCRLYTQFQEPYLKDPAAYPKIQMLAYMFYSVPYFVTALYGLVVPGCSWMPDITLIHAGGLAQAQFSHIGASLHARTAYVYRVPEEAKILFLALNIAYGVLPQLLAYRCIYKPEFFIKTKAEEKVE",
+          "unpairedMsaPath": "msa/protein-protein/68e8f00aae445087eb47da62c51d262e/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/68e8f00aae445087eb47da62c51d262e/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

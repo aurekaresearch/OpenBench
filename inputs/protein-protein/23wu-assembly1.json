@@ -1,0 +1,36 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "23wu-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GSHMATKAVSVLKGDGPVQGIINFEQKESNGPVKVWGSIKGLTEGLHGFHVHEFGDNTAGSTSAGPAFNPLSRKHGGPKDEERAVGALGNVTADKDGVADVSIEDSVISLSGDHSIIGRTLVVHEKADDLGKGGNEESTKTGNAGSRLASGVIGIAQ",
+          "unpairedMsaPath": "msa/protein-protein/7a56a0ff71eaea37546522a7cb4ee933/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/7a56a0ff71eaea37546522a7cb4ee933/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "GPSMEELRKKMLETAKKNPGKNVFGYNISVSTVEELEKALKRLLEEAKLAKELLKKPVIIILNLKTSLSEEDQKKAEELLKEFEKELKELGVEVIINITRLE",
+          "unpairedMsaPath": "msa/protein-protein/0dab2ed71229815bd6c348abb4394315/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/0dab2ed71229815bd6c348abb4394315/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

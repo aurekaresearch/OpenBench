@@ -1,0 +1,43 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9snl-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "DCKKGDPKHGKRKRGRPRKLSKEYWDCLEGKKSKHAPRGTHLWEFIRDILIHPELNEGLMKWENRHEGVFKFLRSEAVAQLWGQKKKNSNMTYEKLSRAMRYYYKREILERVDGRRLVYKFGKNSSGWKEEEVLQSRN",
+          "unpairedMsaPath": "msa/protein-dna/18c38213c48327ebee6a9b5e5c4b12ec/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/18c38213c48327ebee6a9b5e5c4b12ec/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "GGAATTTTGGTAGGTTACTTCCGGGTGT"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "ACACCCGGAAGTAACCTACCAAAATTCC"
+        }
+      }
+    ]
+  }
+]

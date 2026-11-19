@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "36ca-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MNKQAGPDLVLVTGGAGYIGSVLTRRLLADQVRVRVLDSRIFGDGLREVSDPRLENVRGDIRDPDLFREALRDVDVVVHLAAVANDPSFDLNPELGRSVNFECLDHVMRLSKEAGVRRFVYASSASVYGISDSPEVDESHPLVPITDYNRYKALGEEILFPLTDDSFETVALRAATVCGVSTRQRLDLTVNLLTAQAVGNREITVFGGTQYRPNVHVEDLVGVYHRLVVDDSLGALNGGPINVGNENLPVAEIARIIATRVGRRIGAEITTTTTPTDDRRSYRLTSRRLRQVLGITPTRTVADACDDVTEAILDGRLPDFLTDPRYHNVRWMKDPRSQELLTFNPTPA",
+          "unpairedMsaPath": "msa/protein-monomer/a307a9af966a0bd7320e3007e614ea94/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/a307a9af966a0bd7320e3007e614ea94/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

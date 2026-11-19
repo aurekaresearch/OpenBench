@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "45uq-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SPFGFDTNEINGRRVLVQSNNNCWVNAACYQLQVLGFDSPAMELYRVGGTHNLVKQCYEATGAFLGSLGDVAHCLEVLLKDAKTAKVTVEVTCDCSSNFEELSGAFFRFLPLKSKFEYGSCFACHGTRYYRVCGIVGSAIFSQTLKPLDFNDLICDVASASVFLGDDCGHYLINDYDKRLCVDGMGVYKIKHNTIDTIVVKDA",
+          "unpairedMsaPath": "msa/protein-monomer/ad7302e4cd5d365702b547364bed3011/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/ad7302e4cd5d365702b547364bed3011/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

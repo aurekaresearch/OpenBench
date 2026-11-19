@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9ltx-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MGSSHHHHHHSSGLVPRGSHMMERVALGLPVEPGNETRVARLLRRLPAAPAGEARTETVATFTAPRRVLHIADTTGGLDGLVADLTAHPDVAAGLRELCGMPHRLSAASYLIRARLTRWAHYARPYPARLTVRRRALLYPVRPGKGEELRRLLAAGVAPGTSQQLASALISSTIFARQDLVVRFWEATADPAEELDNIARVVPGSGLGAKLNRLLDVEQDLTTEAGFRAFFTGCAMSPVPGAGAWARP",
+          "unpairedMsaPath": "msa/protein-monomer/9cb8e081e59522a2f6b8b42accb4e2a2/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/9cb8e081e59522a2f6b8b42accb4e2a2/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

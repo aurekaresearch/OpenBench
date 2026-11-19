@@ -1,0 +1,34 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9psa-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SGDGEGNVSDSVTLQDVLANDALVEFATDKNGCRFLQEHYPTENDNDVHQKLFRKLVEDRAIFLSLCSNMFGNFFVQRVLECSNTEEQEILTEHLATDLYNLCLDKSACRVIQLAIQKLDVHLATRLSLELRDTHLVRLSIDQNGNHVIQKIVKTLPVSSWTFLVDFFADDDNLIHVCQDKYGCRVIQSTVETLSTDQYAQCYQHRVILLRSLMAGVTRNCTQLASNEFANYVVQHVIKCGDALAVYRDIIIEQCLLQNLLSMSQEKYASHVVEVAFECAPYRLVAEMMNEIFEGYIPHPDTNRDALDILLFHQYGNYVVQQMIQTCVLGQNARDQKQSEMYGMWLEKIHGRVMRNAHRLERFSSGKKIIEALQSMSLY",
+          "unpairedMsaPath": "msa/protein-rna/429efd6fbbe937c10cc50e4d5b9b1fbb/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/429efd6fbbe937c10cc50e4d5b9b1fbb/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "CUGUCAAAAUG"
+        }
+      }
+    ]
+  }
+]

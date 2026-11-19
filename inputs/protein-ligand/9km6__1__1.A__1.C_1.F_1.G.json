@@ -1,0 +1,72 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9km6__1__1.A__1.C_1.F_1.G",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MGSSHHHHHHSSGLVPRGSHMMTTDITEATGSTAVTEANGATTGITGPVPAGAAGAPGHEPLLGDPFGAVLRRCLDGGGTRDLAFEVVERDDGFIIAQDAGIYFAPPGEWPPTEQWAVERARGRVLDVGCGAGRHGLALREAGLDVLGVDSSPGAAEVARERGLDVLEARFTELPARLPDGAGPFDTFLLLGNGTGLLGTPAQARETLGALAEVAAPGAVILGDGLDVPVPPDRAAYERWNAERGRPEGFVRIRLRDRLLVGEWFDYAMISPDDLGRVLAGTRWDLASVERAGVRYLATLRLRD",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/d4e91a1d41f093e5d23f78c47c42fd34/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/d4e91a1d41f093e5d23f78c47c42fd34/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MGSSHHHHHHSSGLVPRGSHMMTTDITEATGSTAVTEANGATTGITGPVPAGAAGAPGHEPLLGDPFGAVLRRCLDGGGTRDLAFEVVERDDGFIIAQDAGIYFAPPGEWPPTEQWAVERARGRVLDVGCGAGRHGLALREAGLDVLGVDSSPGAAEVARERGLDVLEARFTELPARLPDGAGPFDTFLLLGNGTGLLGTPAQARETLGALAEVAAPGAVILGDGLDVPVPPDRAAYERWNAERGRPEGFVRIRLRDRLLVGEWFDYAMISPDDLGRVLAGTRWDLASVERAGVRYLATLRLRD",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/d4e91a1d41f093e5d23f78c47c42fd34/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/d4e91a1d41f093e5d23f78c47c42fd34/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Nc1ncnc2c1ncn2[C@@H]1O[C@H](C[C@@H](N)CC[C@H](N)C(=O)O)[C@@H](O)[C@H]1O",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "OCC(O)CO",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "OCC(O)CO",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Nc1ncnc2c1ncn2[C@@H]1O[C@H](C[C@@H](N)CC[C@H](N)C(=O)O)[C@@H](O)[C@H]1O",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      }
+    ]
+  }
+]

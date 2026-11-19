@@ -1,0 +1,80 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9qik-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MSGRGKQGGKTRAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAVRNDEELNKLLGGVTIAQGGVLPNIQSVLLPKKTESAKSAKSK",
+          "unpairedMsaPath": "msa/protein-dna/31a5bc555e8d7ac561eb848417b0b720/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/31a5bc555e8d7ac561eb848417b0b720/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "C",
+            "D"
+          ],
+          "sequence": "MPEPAKSAPAPKKGSKKAVTKTQKKDGKKRRKSRKESYAIYVYKVLKQVHPDTGISSKAMSIMNSFVNDVFERIAGEASRLAHYNKRSTITSREIQTAVRLLLPGELAKHAVSEGTKAVTKYTSAK",
+          "unpairedMsaPath": "msa/protein-dna/de5278b11e9224572ccddc319fd72355/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/de5278b11e9224572ccddc319fd72355/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "E",
+            "F"
+          ],
+          "sequence": "MARTKQTARKSTGGKAPRKQLATKAARKSAPSTGGVKKPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRGERA",
+          "unpairedMsaPath": "msa/protein-dna/75af9cdffcfb130af1f1a16243a56648/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/75af9cdffcfb130af1f1a16243a56648/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "G",
+            "H"
+          ],
+          "sequence": "MSGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFGG",
+          "unpairedMsaPath": "msa/protein-dna/cd835bc39369079207f534a9e7ba6095/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/cd835bc39369079207f534a9e7ba6095/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "I"
+          ],
+          "sequence": "TTTCCCAGTCACGACGTTGTAAAACGACGGCCAGTGAATTCGAGCTCGGTACTCGGGTTCAATACATGCATGGAGAATCCCGGTGCCGAGGCCGCTCAATTGGTCGGGAGTAATCCCCTTGGCGGTTAAAACGCGGGGGACAGCGCGTACGTGCGTTTAAGCGGTGCTAGAGCTTGCTACTAGTCTCCAGGCACGTGTCAGATATATACATCCTGGGGCG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "J"
+          ],
+          "sequence": "CGCCCCAGGATGTATATATCTGACACGTGCCTGGAGACTAGTAGCAAGCTCTAGCACCGCTTAAACGCACGTACGCGCTGTCCCCCGCGTTTTAACCGCCAAGGGGATTACTCCCGACCAATTGAGCGGCCTCGGCACCGGGATTCTCCATGCATGTATTGAACCCGAGTACCGAGCTCGAATTCACTGGCCGTCGTTTTACAACGTCGTGACTGGGAAA"
+        }
+      }
+    ]
+  }
+]

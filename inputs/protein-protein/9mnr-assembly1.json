@@ -1,0 +1,28 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9mnr-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 4,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "sequence": "MGSSHHHHHHGSMYIAIDGDDVGRKITSSYLSNSEERLTYISNKLNDTTKKISKMLLSNGFEIIFQAADGVTAKTDNEVNLNFVFDKIKSYSFDEITFSAGVGANLREAYVALLNSKSNGKNMISIYKDIL",
+          "unpairedMsaPath": "msa/protein-protein/00ff9961c2fa6599a4d01282666bc107/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/00ff9961c2fa6599a4d01282666bc107/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

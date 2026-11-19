@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9tln-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SHMGARLAQLKQERAALKQRLAALDQEIAALEWQIQSDPRKKQLIQRLLALISDRFALEQRIAALDQEIAALEAG",
+          "unpairedMsaPath": "msa/protein-monomer/db17f50ac646231eefb7e176bff1590d/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/db17f50ac646231eefb7e176bff1590d/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

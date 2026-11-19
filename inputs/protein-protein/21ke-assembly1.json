@@ -1,0 +1,36 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "21ke-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "AEVRLSVPPLVEVMRGKSVILDCTPTGTHDHYMLEWFLTDRSGARPRLASAEMQGSELQVTMHDTRGRSPPYQLDSQGRLVLAEAQVGDERDYVCVVRAGAAGTAEATARLNVFAKPEATEVSPNKGTLSVMEDSAQEIATCNSRNGNPAPKITWYRNGQRLEVPVEMNPEGYMTSRTVREASGLLSLTSTLYLRLRKDDRDASFHCAAHYSLPEGRHGRLDSPTFHLTLHYPTEHVQFWVGSPSTPAGWVREGDTVQLLCRGDGSPSPEYTLFRLQDEQEEVLNVNLEGNLTLEGVTRGQSGTYGCRVEDYDAADDVQLSKTLELRVA",
+          "unpairedMsaPath": "msa/protein-protein/ce3aa92c7e7a2856f6e09cdf34f96648/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/ce3aa92c7e7a2856f6e09cdf34f96648/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "SSIESTSKSNFQKLSRGNIDVLKGRGSISSTRQRAIYPYFEAANADEQQPLFFYIKKDRFDNHGYDQYFYDNTVGLNGIPTLNTYTGEIPSDSSSLGSTYWKKYNLTNETSIIRVSNSARGANGIKIALEEVQEGKPVIITSGNLSGCTTIVARKEGYIYKVHTGTTKSLAGFTSTTGVKKAVEVLELLTKEPIPRVEGIMSNDFLVDYLSENFEDSLITYSSSEKKPDSQITIIRDNVSVFPYFLDNIPEHGFGTSATVLVRVDGNVVVRSLSESYSLNADASEISVLKVFSKKF",
+          "unpairedMsaPath": "msa/protein-protein/22b376e7e61bd4d50d3d72ca6c0781f4/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/22b376e7e61bd4d50d3d72ca6c0781f4/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

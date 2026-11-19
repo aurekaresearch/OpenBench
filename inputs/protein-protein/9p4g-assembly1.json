@@ -1,0 +1,28 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9p4g-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 4,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "sequence": "MDIGINSDPSSSVDKLAAALEHHHHHHMTLAVKCPILGFEETKNMEFSTIDEVFVRLKSLDGKDFSFVLINPYLIRPDYEFDIPTYYQELLSLTPESNMKIFNIVAIAKSIEESTVNFLAPVVINLDNNTMVQVILDTVNYPDFFQADQIANYIKK",
+          "unpairedMsaPath": "msa/protein-protein/98049aa5c90e0849ea76c5f53557b6ef/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/98049aa5c90e0849ea76c5f53557b6ef/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

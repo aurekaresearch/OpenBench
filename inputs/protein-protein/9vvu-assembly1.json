@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vvu-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MTPAQLRAFASVVRLGSVRAAAEELGMSDAGISMHVAQLRKELDDPLFSRTSSGLAFTPGGLRLASRAVEILGLQQQTAIEVNEASRGRRLLRIAASSGFAEHAAPGLIELFSSRAKDLSVELSVHSPGRFKDLVVSRAVDIALGPVAGPIDDESITVRPFLQYHVLTVAAPGNPAATSVPAPLSLLREQQWMLGPSASNVDGEIGSVLRALAIPEARQRIFQNDAAALEELQRAKAVTLAIGITVAKDLEAGRLVHVKGPGLQTPGEWCAMTLTPAARQPAVSELVRFITTPRCTQAMLRGTGVGVRRFKPKIHVTLWSL",
+          "unpairedMsaPath": "msa/protein-protein/3dc15400f004d025b131bf45addaa941/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/3dc15400f004d025b131bf45addaa941/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

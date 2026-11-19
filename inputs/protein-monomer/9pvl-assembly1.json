@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9pvl-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GASREEIRATIERLLEEGKRVFTGLPPELLELMERGAELYIRAIADPTPENVEALRRGGLEFVDALSPLLTPEQRERARRLLELLRRAVLERTPEAIDAWLEEALRLAREVEPVFGPEAREVAERFYRALAELLRR",
+          "unpairedMsaPath": "msa/protein-monomer/eee2f7feb38ca689e200950473a620d2/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/eee2f7feb38ca689e200950473a620d2/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

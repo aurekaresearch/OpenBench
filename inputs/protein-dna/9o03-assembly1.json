@@ -1,0 +1,58 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9o03-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "ISEFGSIEKAISRRIKEFRQLGEKGEVEFDFRPFLDFSVKATIRTELAFCISTANSSATAGLKFQRLLGQGVGVKEALTLAGVRFHNRKAEYIREAFKSFKLVEKALEAESSKAREILLKIKGLGMKEASHFLRNVGREDVAIIDRHILRWLERQGYEVPGTMTAKKYLEVEKILMEISEERGESLAEMDLRIWAEMTGKVLK",
+          "unpairedMsaPath": "msa/protein-dna/b584ba710eb3769c4195a92d27a7e520/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/b584ba710eb3769c4195a92d27a7e520/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "modifications": [
+            {
+              "basePosition": 6,
+              "modificationType": "CCD_A1C6T"
+            }
+          ],
+          "sequence": "GAGTCX"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "ACCTGCA"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "TGCAGGTCGACTCTA"
+        }
+      }
+    ]
+  }
+]

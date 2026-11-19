@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9tet-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "GANAMAHMTGQIINFSGHRLSTEAEAVLALHFEKVIDGQWPEFDFNLPITAQIQSALSVLPATLDGTKAVTIIPPGQSTLAVLLVSFLHGLLGHFPRICYLELSSSGLYLPRFETGISAQETRLAGRRFRLQRAKSLGLSNVPPEQ",
+          "unpairedMsaPath": "msa/protein-protein/2e3127874b44fdf9dfd1d48289001f70/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/2e3127874b44fdf9dfd1d48289001f70/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

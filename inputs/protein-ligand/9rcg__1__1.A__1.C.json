@@ -1,0 +1,43 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9rcg__1__1.A__1.C",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GSHMLSDEQMQIINSLVEAHHKTYDDSYSDFVRFRPPVREGPVTRSASRAASLHSLSDASSDSFNHSPESVDTKLNFSNLLMMYQDSGSPDSSEEDQQSRLSMLPHLADLVSYSIQKVIGFAKMIPGFRDLTAEDQIALLKSSAIEIIMLRSNQSFSLEDMSWSCGGPDFKYCINDVTKAGHTLELLEPLVKFQVGLKKLKLHEEEHVLLMAICLLSPDRPGVQDHVRIEALQDRLCDVLQAYIRIQHPGGRLLYAKMIQKLADLRSLNEEHSKQYRSLSFQPEHSMQLTPLVLEVFGSEVS",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/a33cb6e64a6bf3b17eb71df27fd68f42/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/a33cb6e64a6bf3b17eb71df27fd68f42/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CC[C@H](C)[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@H](C=O)CC(=O)O",
+          "count": 1,
+          "id": [
+            "B"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCC(CC)(c1ccc(OCCCC(=O)NO)cc1)c1nc(C)c(CC[C@H](O)C(C)(C)C)s1",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      }
+    ]
+  }
+]

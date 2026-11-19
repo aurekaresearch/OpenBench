@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9viw-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MGHHHHHHSSGNKRELINMLLYDVALEHSAIVQYLYHIFLIQNAEITSEIEEIARQEMRHLKWFAQKVVQLGGQVELKRIEEAIEIGGPEWVDMLSKDVKAEEMAIEIYTKQLEMVKDDSVKRLLERVIGDENHHRLEFSELAQKAAELIPEETMESSKNSVDPKTLEVLNNFLREEYQSIINYLYQFFHTKDCNYKDLMLDLAIESMFHMGKIGERIGELGGMPDIRADLQKKPDKSLEESVRSEIAFEESAGEDYEKELKEAQDPKTKELFEFIEHQEKYHKHRLTEFLRKLNRFTIGGLREDD",
+          "unpairedMsaPath": "msa/protein-protein/64bd3670357c28b4615d5866dc13cade/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/64bd3670357c28b4615d5866dc13cade/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

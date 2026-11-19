@@ -1,0 +1,52 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "30lm__1__1.A__1.H_1.I_1.J",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SGSPDKLKKVLDKLRLKRKDISEAAETVNKVVERLLRRMQKRESEFKGVEQLNTGSYYEHVKISAPNEFDVMFKLEVPRIELQEYYETGAFYLVKFKRIPRGNPLSHFLEGEVLSATKMLSKFRKIIKEEVKEIKDIDVSVEKEKPGSPAVTLLIRNPEEISVDIILALESKGSWPISTKEGLPIQGWLGTKVRTNLRREPFYLVPKNAKDGNSFQGETWRLSFSHTEKYILNNHGIEKTCCESSGAKCCRKECLKLMKYLLEQLKKEFQELDAFCSYHVKTAIFHMWTQDPQDSQWDPRNLSSCFDKLLAFFLECLRTEKLDHYFIPKFNLFSQELIDRKSKEFLSKKIEYERNNGFPIFDKL",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/87e1cec48d6bcc9480ee1bc0a56c823d/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/87e1cec48d6bcc9480ee1bc0a56c823d/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Mg+2]",
+          "count": 1,
+          "id": [
+            "B"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Mg+2]",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO[P@@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      }
+    ]
+  }
+]

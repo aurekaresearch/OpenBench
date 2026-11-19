@@ -1,0 +1,43 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "21ch-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GSAHPSCQVDQCTADMADAKPYHRRHKVCEFHSKSPIVLISGLQKRFCQQCSRFHLLAEFDDAKRSCRRRLAGHNERRRKITYDSHGENLG",
+          "unpairedMsaPath": "msa/protein-dna/17d25e2ea5168d6cbf4944191675079b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/17d25e2ea5168d6cbf4944191675079b/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "TGTGTACGGTT"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "AACCGTACACA"
+        }
+      }
+    ]
+  }
+]

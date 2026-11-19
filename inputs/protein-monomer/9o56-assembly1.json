@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9o56-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MTKGEVIPVRKGEELDIPRLEAFLRNHFDLEDSPLEIKQFAAGHSNLTYLLKVGSWEAVLRRPPLGPVAPKAHDMEREFRILKKLHPVFSLAPQPFVFTDDKSIIGAPFFIMERRKGVVLDTGFPADRPGTPQVCARISELMVDTLVRLHSIDYEAAGLGDIGRPEGFLERQVKGWIGRYERAKTEEIPHVEALTTWLVDHLPPSPPPSVIHYDYKLNNVMFDPELKEIVGIFDWEMSTIGDPLADLGCALSYWVEHDDPDVLRYGFGKPPVTVLPGFMTREQFIEAYAQKSGRDVTNMHYYLTFAYFKLAVICQQIYYRWKKGQTQDERFARMGGFVRGLVEVAHHYAERGDLR",
+          "unpairedMsaPath": "msa/protein-monomer/b76ff36593b38654a94f4047b707b07d/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/b76ff36593b38654a94f4047b707b07d/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

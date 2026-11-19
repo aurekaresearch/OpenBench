@@ -1,0 +1,43 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9yzj-assembly1",
+    "sequences": [
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "CCTGTGACAAATTGCCCTCAGCGTAATTAGG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "CCTAATTACGCTGAGGGCAATTTGTCACAGG"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "MRGSHHHHHHGSMAETAVINHKKRKNSPRIVQSNDLTEAAYSLSRDQKRMLYLFVDQIRKSDGTLQEHDGICEIHVAKYAEIFGLTSAEASKDIRQALKSFAGKEVVFYRPEEDAGDEKGYESFPWFIKPAHSPSRGLYSVHINPYLIPFFIGLQNRFTQFRLSETKEITNPYAMRLYESLCQYRKPDGSGIVSLKIDWIIERYQLPQSYQRMPDFRRRFLQVCVNEINSRTPMRLSYIEKKKGRQTTHIVFSFRDITSMTTG",
+          "unpairedMsaPath": "msa/protein-dna/78d2155b41fe8741700e287cf3c40482/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/78d2155b41fe8741700e287cf3c40482/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

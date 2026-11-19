@@ -1,0 +1,32 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "21ot-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 8,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "sequence": "LSGRRVLVTGFPASLRLSEEELLDKLEIFFGKTRNGGGDVDVRELLPGSVMLGFARDGVAQRLCQIGQFTVPLGGQQVPLRVSPYV",
+          "unpairedMsaPath": "msa/protein-protein/36aa30bdb26a9ed7cf0dbad1b8b44b4d/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/36aa30bdb26a9ed7cf0dbad1b8b44b4d/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

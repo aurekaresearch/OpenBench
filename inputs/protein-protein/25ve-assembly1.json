@@ -1,0 +1,27 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "25ve-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 3,
+          "id": [
+            "A",
+            "B",
+            "C"
+          ],
+          "sequence": "MAWHSKGSVSVTLNSEAVLGNATDFIANVRTGDAFRGPDGRWYEITNVTSATVISIKPNYQGATASGQVYAVVPIHGYSKNLADQFRDINNQWGATLAGIKPWAVSSTGQQAQADMGISAVGRALNNASTPANALSYLGGVAPNQMGWAGNAMNTADLDSLTVSGLYAHGTAVPSPVNNAQGYVLHMQHGNPDFAVQQWYQLNSATGQYMRIKAGGNWSRWVLQYSQFNLVGLASFDASNNPSGAIIQRGGTVGFNEYVRYADGTQICWGNTTTNVGATMAYQPAGTLSFYITPVAYSWGFPVSFSRPPSVMVNPMRAAGNNASRPWGSTMSVTETLFSWYGYDTASVASGMAASYVAMGRWN",
+          "unpairedMsaPath": "msa/protein-protein/e24506b0666c776ee345ee7f23cd0bc4/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/e24506b0666c776ee345ee7f23cd0bc4/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

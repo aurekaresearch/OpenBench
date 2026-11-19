@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9fzn-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MQSQLSRLDDYPVHQIADVVRHTGTSDRNFYDRYYFNLFNKAGDIFVVFGLGQYPNLGVQDAFLLVREGDVQDVVRASRPLTDRADISVGPLKIEVIEGLKKLRLTVGPNEAGIELDVVWNGEHSAFQEPRHYIRKHGRVLFDTMRFAQLGTWSGTLKYNGKTYDITPDEWLGSRDRSWGVRPVGEEEPKGIHLGTPSMEGMWNYFPILFKDYALMYLVNETGDGKRTIEEGLRIWKDPQREPEWLGRPEHDHVFNSAMQYMADMKEGVVRFPDAPGGPLELRGTPLLQTYLTMGTGYGLEQDWRHGMYQGPELVVQKAHYNYKDDMMLGLIETPARFTLNGEVGYGMMEFAFFSEVPKYTG",
+          "unpairedMsaPath": "msa/protein-protein/00672a1d56ce3eaa98dca90d37bc22be/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/00672a1d56ce3eaa98dca90d37bc22be/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

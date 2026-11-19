@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9ypl-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MGHHHHHHHHHHSSGHLEVLFQGPHMISTAEMLKTLETTVDTCLEAEFKKDTVMGEFHKGDWFNESYYKRHILECVIRIHMNNELDARAVQVAAIDNISAAKQLSYYLYDEFGHDEMFGQDLITYGYSASDIKAEFAFPETWKLMGYLNFCVSKFGPLSSITWDWFLEYYGDKYSSFITQKASASMGQPAVSGAASHVAFDEAEDHSGMMNNMLSSVIKDEKDLAKAVVHIKAFVPMVGEYFQALRAATL",
+          "unpairedMsaPath": "msa/protein-monomer/8681c12dc9a4b89e001589f381960afa/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/8681c12dc9a4b89e001589f381960afa/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

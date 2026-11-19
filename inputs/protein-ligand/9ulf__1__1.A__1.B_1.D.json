@@ -1,0 +1,43 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9ulf__1__1.A__1.B_1.D",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MDSPTPPIVIEDSNGSAMDACFTAFDKDSDDRLSLAEFSIICRALFRNDKGHIYDVPPERLEQIFAVFDTNGDGFIDREEFKFCWNQWIKTIVRPVNAFLIVDVQNDFISGSLDISNCSAQQQGHEILEPINKLLDTVDFDAVFYSLDWHPSDHVSFIDNVKMRPMDESSALDSDSAKVFDTVIFAGPPPMKQRLWPRHCVQDSWGAELHKDLKVVDHGIKVYKGTNPEVDSYSVFWDNKKLSDTTLNAQLKMKGATDIYVCGLAYDVCVGATAVDALSAGYRTILIDDCCRGTDVHDIEHTKEKVNTSDGVIVHTNQVKAMAEGRDRRPELGYKLAMELKSPDSVLSQRNGFRPSY",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/86e6d87e3f31ed08a278c6a0971ec867/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/86e6d87e3f31ed08a278c6a0971ec867/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Fe+2]",
+          "count": 1,
+          "id": [
+            "B"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "NC(=O)c1cncn1Cc1ccccc1",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      }
+    ]
+  }
+]

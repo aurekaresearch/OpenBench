@@ -1,0 +1,28 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9loa-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 4,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "sequence": "QADTKAIQHLWAAIEIIRNQKQIANIDRITKYMSRVHGMHPKETTRQLSLAVKDGLIVETLTVGCKGSKAGIEQEGYWLPGDEIDWE",
+          "unpairedMsaPath": "msa/protein-protein/43a07af747ad230254237e172fe59fa9/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/43a07af747ad230254237e172fe59fa9/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

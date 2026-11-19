@@ -1,0 +1,43 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9qgv-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "QGAMATNTKYKRDAISIMRDGIKSRYSKDGCCAICGSSEDLELHQYHTISQLIKKFAKELQLDFTDENIVLSNREAFYKKYEHELVRDVVTLCQHHHQLLHKVYTKEPPLFSANKQKAWVQKQKDKIQNPQEKTQVKTETKSGFARFL",
+          "unpairedMsaPath": "msa/protein-dna/61994060d38fac9c1ebe76bc1b099e34/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/61994060d38fac9c1ebe76bc1b099e34/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "CCAAGCGCTG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "CAGCGCTTGG"
+        }
+      }
+    ]
+  }
+]

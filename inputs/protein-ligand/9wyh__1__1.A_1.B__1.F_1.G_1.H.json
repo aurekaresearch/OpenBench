@@ -1,0 +1,90 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9wyh__1__1.A_1.B__1.F_1.G_1.H",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "KPQIPRLSVRDDLSQAAAIIEEHGTMIIEDLLPPSVVDSLNEELDAPLAARPGGFRSEDFPDAGLPPTLKWLHALCPTSKTFRHDILNNEDVHTVCKDVFRPMGDYWLIAGAAMDMAPGNGSQILHRDEAAHPIVKHLKLGSPTTSLVFLIALTPFTAENGATRVILGSHKWEEMGEPSEDLTVQAVMKPGDALLITGRTVHGGSADRTGQTHRRLLSLGMGISQLTPYEAHMVLPRPVIENMTPLAQRMVGWRTQRPTFPNIIGLQTVRMEEVEKRLELKSSQPLKNESDDLFYQCSG",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/ebf7f28a07902d610566e16741908316/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/ebf7f28a07902d610566e16741908316/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "KPQIPRLSVRDDLSQAAAIIEEHGTMIIEDLLPPSVVDSLNEELDAPLAARPGGFRSEDFPDAGLPPTLKWLHALCPTSKTFRHDILNNEDVHTVCKDVFRPMGDYWLIAGAAMDMAPGNGSQILHRDEAAHPIVKHLKLGSPTTSLVFLIALTPFTAENGATRVILGSHKWEEMGEPSEDLTVQAVMKPGDALLITGRTVHGGSADRTGQTHRRLLSLGMGISQLTPYEAHMVLPRPVIENMTPLAQRMVGWRTQRPTFPNIIGLQTVRMEEVEKRLELKSSQPLKNESDDLFYQCSG",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/ebf7f28a07902d610566e16741908316/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/ebf7f28a07902d610566e16741908316/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "COc1cc(C[C@H]2CN(C(C)=O)[C@@H](Cc3ccccc3)CN2C(=O)c2ccccc2)cc2c1OCO2",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Ni+2]",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "O=C(O)CCC(=O)C(=O)O",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "COc1cc(C[C@H]2CN(C(C)=O)[C@@H](Cc3ccccc3)CN2C(=O)c2ccccc2)cc2c1OCO2",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Ni+2]",
+          "count": 1,
+          "id": [
+            "G"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "O=C(O)CCC(=O)C(=O)O",
+          "count": 1,
+          "id": [
+            "H"
+          ]
+        }
+      }
+    ]
+  }
+]

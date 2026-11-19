@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9otv-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MPRIVVLGDSLTAGFGLPREASYPTVLQKKLDAAGLNYQVINAGISGDTSAGGVERLDWSLDGDVRIVILALGANDGLRGLPLTQMEANLRTIIERARARGAQVILAGLKAPAEAGPDYGAQFEAVYRKLAQQYRLPLIPSLLEGVAGREELNQEDGIHPNARGAAIVADNVWKVLEPVARQQLAQSQSNPDAPPAAKPAGARLEHHHHHH",
+          "unpairedMsaPath": "msa/protein-monomer/03ab18c3efa6e59142d6702f31375234/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/03ab18c3efa6e59142d6702f31375234/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

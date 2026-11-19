@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9ncl-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MRGSHHHHHHGMASMTGGNNMGRRLTDDDDKDPTLTMALLDISSGNVRKTIETNPLVIVDFWAPWCGSCKMLGPVLEEVESEVGSGVVIGKLNVDDDQDLAVEFNVASIPTLIVFKDGKEVDRSIGFVDKSKILTLIQKNA",
+          "unpairedMsaPath": "msa/protein-monomer/8a02498cd6a5199f288462780eb75198/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/8a02498cd6a5199f288462780eb75198/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "24br-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "APPRIGTHNGTFHCAEALACALLRLLPEYRDAEIVRTRDPEKLASCDIVVDVGGEYDPRRHRYDHHQRSFTETMSSLSPGKPWQTKLSSAGLIYLHFGHKLLAQLLGTSEEDSMVGTLYDKMYENFVEEVDAVDNGISQWAEGEPRYALTTTLSARVARLNPTWNHPDQDTEAGFKRAMDLVQEEFLQRLDFYQHSWLPARALVEEALAQRFQVDPSGEIVELAKGACPWKEHLYHLESGLSPPIAIFFVIYTDQAGQWRIQCVPKEPHSFQSRLPLPEPWRGLRDEALDQVSGIPGCIFVHASGFIGGHHTREGALSMARATLAQR",
+          "unpairedMsaPath": "msa/protein-rna/467181476c77279e727d652fd21255ae/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/467181476c77279e727d652fd21255ae/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "UUUU"
+        }
+      }
+    ]
+  }
+]

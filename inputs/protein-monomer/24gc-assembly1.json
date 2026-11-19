@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "24gc-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GQTAKEEKEREAAASHVMTVATAYVLGASRSYPIMQLDLKENIQNATNGKVYVKLAPGGQLGAGGALVQKVQGGTIQAAQHSLSNFAPFASAVDLINMPYFCGSNQRFTNLVSSDAWKTEVHPKVEAAGFKALFYIVIDPRVVAVRKGGNAVITPGDLAGVKFRVPGSKMLQQYYRMVGANPTPVAWGETPSAIKQGVADALDPSVGALYVFGFKDILSHVTFTQAVPDSQVFSMNLEWFNGLPADVQEGIMFAGEVTSQQNLAKVPAARAYAMSELTKSGVEFHSLSADQLAEWQATGGYQRSEWDSFKTELAGSMDAFNRLEEAAGTMGRYYVHDA",
+          "unpairedMsaPath": "msa/protein-monomer/ae52f39aac549f836267cdda32285e49/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/ae52f39aac549f836267cdda32285e49/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9mvr-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MKTIKVDVIVVGDDEELVEEYKKEAELIGKEYGVKIEVEPYFLEEGKFPWLDVDFAYNTTQEELDKAEKEAKKIAGSHHHHHH",
+          "unpairedMsaPath": "msa/protein-monomer/303f9b2e48c98e828a5f71a3dc81813f/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/303f9b2e48c98e828a5f71a3dc81813f/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

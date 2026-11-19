@@ -1,0 +1,36 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9tft-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GPMRRCVVEMVGRDGTFEFVNDKEYCVPPEPMLQFGQKTDLRPKKPGYKFFVNVDAGCTTAVHVKGKMPKGYFFRTRWEN",
+          "unpairedMsaPath": "msa/protein-protein/32b12c5d324224c621c6bf2d1f0f4d66/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/32b12c5d324224c621c6bf2d1f0f4d66/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "MKQKIVVKVELKDDKQKSKAVTAVAVLPGVDSISLDMKHGNIMVIGDGVDPVHAVGKLRRLFGHAFLVSVEEIIKKKDSS",
+          "unpairedMsaPath": "msa/protein-protein/0056a540af02158d7396a8976d41d9b0/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/0056a540af02158d7396a8976d41d9b0/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

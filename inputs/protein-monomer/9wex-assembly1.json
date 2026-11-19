@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9wex-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "EEGMSNESGYLRQIFDHLQDGIIMMDQERTILVINPSAEKMTGWKLGDKVPYCSYCQTRKLEAGEERCYLLAKREIPYFLSSMPTYEGRFVDMEMSTAVISENGDQMEVLLVLKDLTMKKKEEEAKISKLVL",
+          "unpairedMsaPath": "msa/protein-monomer/e3b6e195641ed2497512201b685ec9a4/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/e3b6e195641ed2497512201b685ec9a4/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

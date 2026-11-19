@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9h70-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MHHHHHHSSGVDLGTENLYFQSMRPEGVNRPNLLPKGEVTSVIDVAGFLTPSEEKRIITEVSDLEKDTGFKLRVLAQNYPETPGLAIREYWGVDDNTVVFVADPTFGDILNFNVGAGIDLEVPRSFWGRLAGKYGNKFYWQENGEAASILNAVSAIDTCLREEPGRFKCSTVQGDFGEKATSGPFGKAFGLDK",
+          "unpairedMsaPath": "msa/protein-monomer/496fa4011333213a9c355c3d61fea7a3/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/496fa4011333213a9c355c3d61fea7a3/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

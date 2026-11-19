@@ -1,0 +1,52 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9lir-assembly1",
+    "sequences": [
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "UCUAUAUCAUGGCCGAGGCUCUUCCAACUGCGGGUUGAAAGAGCACAGGCUGAGACAUUCGUAAGGCCGAAAGGCCGGACGCACCCUGGGAUUUCCCCAGUCCCCGGAACUGCAUAGCGGAUGCCAGUUGAUGGAGCAAUCUAUCAGAUAAGCCAGGGGGAACAAUCACCUCUCUGUAUCAGAGAGAGUUUUAC"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "CTAGGTGGTTGTCGGCCATGATATAGA"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "GATATAGTACCGGCTCAACCACCTAC"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "MAVVYVISKSGKPLMPTTRCGHVRILLKEGKARVVERKPFTIQLTYESAEETQPLVLGIDPGRTNIGMSVVTESGESVFNAQIRTRNKDVPKLMKDRKQYRMAHRRLKRRCKRRRRAKAAGTAFEEGEKQRLLPGCFKPITCKSIRNKEARFNNRKRPVGWLTPTANHLLVTHLNVVKKVQKILPVAKVVLELNRFSFMAMNNPKVQRWQYQRGPLYGKGSVEEAVSMQQDGHCLFCKHGIDHYHHVVPRRKNGSETLENRVGLCEEHHRLVHTDKEWEANLASKKSGMNKKYHALSVLNQIIPYLADQLADMFPGNFCVTSGQDTYLFREEHGIPKDHYLDAYCIACSALTDAKKVSSPKGRPYMVRQFRRHDRQACHKANLNRRYYMGGKLVATNRHKAMDQKTDSLEEYRAAHSAADVSKLTVKHPSAQYKDMSRIMPGSILVSGEGKLFTLRRSEGRNKGQVNYFVSTEGIKYWARKCQYLRNNGGLQIYVKNKGGSGKRPAATKKAGQAKKKKGWSHPQFEKGGGSGGGSGGSAWSHPQFEK",
+          "unpairedMsaPath": "msa/protein-dna/b8e8a11390c8324935b6f0a6fb0094c9/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/b8e8a11390c8324935b6f0a6fb0094c9/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

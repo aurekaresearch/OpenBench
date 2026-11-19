@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9ll5-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "SAKDPWEQTLKANDLEVKIKSVGNPIKGDNTFVLSPTLKGKALEKAIVRVQFMMPEMPGMPAMKEMAQVSEKNGLYEAKTNLSMNGTWQVRVDIKSKEGEVYRAKTSLDL",
+          "unpairedMsaPath": "msa/protein-protein/0af0364ca00a6eb42db33cda9d0322b0/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/0af0364ca00a6eb42db33cda9d0322b0/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

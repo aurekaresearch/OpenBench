@@ -1,0 +1,45 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9cm4-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "EISEVQLVESGGGLVQPGGSLRLSCAASGFYISSYSIHWVRQAPGKGLEWVASIYPSYGYTSYADSVKGRFTISADTSKNTAYLQMNSLRAEDTAVYYCARRYRSYYSRYGFDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHT",
+          "unpairedMsaPath": "msa/protein-rna/57c16631be96930ea269bbccc6387d86/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/57c16631be96930ea269bbccc6387d86/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "SDIQMTQSPSSLSASVGDRVTITCRASQSVSSAVAWYQQKPGKAPKLLIYSASSLYSGVPSRFSGSRSGTDFTLTISSLQPEDFATYYCQQSSYYPSTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+          "unpairedMsaPath": "msa/protein-rna/751c61a35af2552d3e9b2137d301b7ca/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/751c61a35af2552d3e9b2137d301b7ca/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "GGCGAUAGUAUCUCAACGCC"
+        }
+      }
+    ]
+  }
+]

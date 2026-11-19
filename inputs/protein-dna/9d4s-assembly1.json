@@ -1,0 +1,42 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9d4s-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "SRLYKDICSLRTLYGAWRKVRSSAFLSSSDEIRREAEEFESRLPDSLIEIQHALSKQIFIFLQQTGVAQKKPGGKSRPLVLAPIPNRVVQRALLDVLQRRVRLVKRVLGTPTSYGGIPDKRVAMAIADAREAMRTGARFHIRSDIPAFFTKINKDRVLELLRPHLNCEATLKLFEEAIRTDLANIDDLRRKGLDEIFPIGIEGVAQGSPLSPLLANIYLADFDLAMNSNGITCLRYIDDFLLLGASLSDVDKAFNRALKELGKIGLEAYDPRTDKTKASRGATEIGFDFLGCNVSPGLIQPSEATRRRFRAKLDAEFVAASHALRYNAQYQDGDGKYSYSSALYRIDKIILGWGKAFTFCNGSQCMIALDDFISNKLAQLEAEKIAILANSDSTVRRRVLGVRLLIDI",
+          "unpairedMsaPath": "msa/protein-dna/11fc42a384e809de548bb636978fe23d/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/11fc42a384e809de548bb636978fe23d/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 2,
+          "id": [
+            "C",
+            "D"
+          ],
+          "modifications": [
+            {
+              "basePosition": 18,
+              "modificationType": "CCD_DDG"
+            }
+          ],
+          "sequence": "AAGCGGTTAACCCAACCG"
+        }
+      }
+    ]
+  }
+]

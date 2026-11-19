@@ -1,0 +1,34 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9hmc__1__1.A__1.C",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "HHHHHHMSAKDERAREILRGFKLNWMNLRDAETGKILWQGTEDLSVPGVEHEARVPKKILKCKAVSRELNFSSTEQMEKFRLEQKVYFKGQCLEEWFFEFGFVIPNSTNTWQSLIEAAPESQMMPASVLTGNVIIETKFFDDDLLVSTSRVRLFYV",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/cdc3cb084d0dc576940d65771f36451c/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/cdc3cb084d0dc576940d65771f36451c/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCCCCCCN(CC1CCNCC1)S(=O)(=O)CCCCn1nc(C)c2c(C)n(-c3ccc(C)cc3)nc2c1=O",
+          "count": 1,
+          "id": [
+            "B"
+          ]
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "22oc-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "DPYLSKPHLTTTTTGLGQDTPYNCAPNSLQQALYKLLRVKISEKTLASWAGTTTQGTDHQGILTAIAQASRKYNKKLTAEWKYFSDLGDTTDERFKKLGQLICQPNIAVITHIGYANIGERAISTGDTVFGHYEVIDRINTKTRYVRALNSLGSKKANGSYYGHLQDRPYSVEVSYLRNTPFNQKAILIIKRQ",
+          "unpairedMsaPath": "msa/protein-monomer/d9b189b48c65fb64fab147ba6ec8752a/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/d9b189b48c65fb64fab147ba6ec8752a/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

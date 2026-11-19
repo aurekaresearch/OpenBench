@@ -1,0 +1,34 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9jm5-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 4,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 34,
+              "ptmType": "CCD_OZW"
+            }
+          ],
+          "sequence": "MGGLDTVYEIAAKRLAELGDEESLAELEEYYKTFKKKLKEGTISETTAANSLAIMATRLLERAREKAHHHHHH",
+          "unpairedMsaPath": "msa/protein-protein/7f549a7930135c23d39a5e7847058140/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/7f549a7930135c23d39a5e7847058140/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

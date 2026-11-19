@@ -1,0 +1,59 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SGVQVETISPGDGRTFPKRGQTCVVHYTGMLEDGKKFDSSRDRNKPFKFMLGKQEVIRGWEEGVAQMSVGQRAKLTISPDYAYGATGHPGIIPPHATLVFDVELLKLE",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/951091463a1274aca4d578e1723fdea9/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/951091463a1274aca4d578e1723fdea9/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "ILWHEMWHEGLEEASRLYFGERNVKGMFEVLEPLHAMMERGPQTLKETSFNQAYGRDLMEAQEWCRKYMKSGNVKDLTQAWDLYYHVFRRIS",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/63664c51af07a17382fcb2499effe71b/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/63664c51af07a17382fcb2499effe71b/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFNIYSSSIHWVRQAPGKGLEWVAYISSSSGSTSYADSVKGRFTISADTSKNTAYLQMNSLRAEDTAVYYCARQPYEMKGILSWSHGFDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPK",
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/3c8dd633c15c8ed4caa40ca7be948e40/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/3c8dd633c15c8ed4caa40ca7be948e40/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "DIQMTQSPSSLSASVGDRVTITCRASQSVSSAVAWYQQKPGKAPKLLIYSASSLYSGVPSRFSGSRSGTDFTLTISSLQPEDFATYYCQQSSSSLITFGQGTKVEIKRTVAAPSVFIFPPSDSQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGG",
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/a1f2a1f7791dce2023bc341adc719bbf/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/a1f2a1f7791dce2023bc341adc719bbf/pairing.a3m"
+        }
+      }
+    ],
+    "assembly_id": "1",
+    "name": "9pj1-assembly1",
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ]
+  }
+]

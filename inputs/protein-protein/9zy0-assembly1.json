@@ -1,0 +1,65 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9zy0-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MEEGKSWIVVPTWRVPGRMEKWHSLVKYLKYRTKDLEKVCYVPHHKVGWAWWTCSRVIFPLQGRSHLEIQAYWNLTPEKGWLSSYAVRITWYTEKFWTDVTPDCADSLIHGTYFSCFTAGEVRRAIRGEKLLSCCNYPQAHKSQVPSLQFLALVVVQQNGKPQRNSTTRKQWRRDYRRGLRVARQDSRGLKQRGGESPAPGAHFPGVAKVLEILA",
+          "unpairedMsaPath": "msa/protein-protein/50e0f0bf0d35279d51807799fca97dc2/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/50e0f0bf0d35279d51807799fca97dc2/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "MPRVVPDQRSKFENEEFFRKLSRECEIKYTGFRDRPHEERQARFQNACRDGRSEIAFVATGTNLSLQFFPASWQGEQRQTPSREYVDLEREAGKVYLKAPMILNGVCVIWKGWIDLQRLDGMGCLEFDEERAQQEDALAQQAFEEARRRTREFEDRDRSHREEMEVRVSQLLAVTGKKTTRP",
+          "unpairedMsaPath": "msa/protein-protein/c48e5de8eef0810c6aae65512ab0007a/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/c48e5de8eef0810c6aae65512ab0007a/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "MALLTAETFRLQFNNKRRLRRPYYPRKALLCYQLTPQNGSTPTRGYFENKKKCHAEICFINEIKSMGLDETQCYQVTCYLTWSPCSSCAWELVDFIKAHDHLNLRIFASRLYYHWCKPQQDGLRLLCGSQVPVEVMGFPEFADCWENFVDHEKPLSFNPYKMLEELDKNSRAIKRRLDRIKQS",
+          "unpairedMsaPath": "msa/protein-protein/3a8b997601c0bf88f39e939119e344b1/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/3a8b997601c0bf88f39e939119e344b1/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "UUUUUUUU"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "E"
+          ],
+          "sequence": "AAAAAAAA"
+        }
+      }
+    ]
+  }
+]

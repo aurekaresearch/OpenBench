@@ -1,0 +1,54 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9i5i-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GNSGDPMVLAIKNYIRDCQDAYYNGDPIISDEQYDKLIAKYPDAEDQIGTIGDVPHMFRMYSLRKYYPSRGDELPEGFDIETPKLDGCAVEHLYIDGVYVSSTTRGNGKLGKDCTHNLSMLVPKNINGIIRSPVPRVIQIRGEVVVSKPEGLENVRNYASGKVNLKDSTEFAQAVEEGGLMFIAYGVNSNNHEGYTEWYDKDMELLSTFGFFTCLDKTIKIATDDGDILTDGLVRRVNSNSEYEKLGFTDKFPRGAYAIKEDEEGEVTTLREVQWQVGKSGKVTPVGIFDTVIIDDAQISKATLNNAGFIEAMELTIGCQIRVIRSGGVIPKIVEKVED",
+          "unpairedMsaPath": "msa/protein-dna/388490375f274130ce8184948005b9a1/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/388490375f274130ce8184948005b9a1/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "MKIQIPTHCPICGSVLERVNSQLFCRNKDNCSAQSSKSLESFCKKMKLKGFGEKTLEKLELTSVPELFYIDSSFLEEILGEKIGNKLSAELDRMRTSVEMSTLLASLSIPLVGTVAAEKAVAGATSLADTKLSGKAGESLEVWKHSDLGKEIMALPWNFTKVTQVVNETESLGIAVCVTGSVEGHTRTSITKHLESLGFTVKKSVTKDVKYLICEDESKRSSSSYLKALENGVEIGSLTKLILKYKRK",
+          "unpairedMsaPath": "msa/protein-dna/75c920ab3aa71f6dc19bef9e529840df/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/75c920ab3aa71f6dc19bef9e529840df/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "CGCAGTCCAGCACACCATCGG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "CCGATGGTGTGCTGGACTGCG"
+        }
+      }
+    ]
+  }
+]

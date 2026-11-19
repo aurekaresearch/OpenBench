@@ -1,0 +1,43 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "12ul-assembly1",
+    "sequences": [
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GAATGTCCATCTC"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "AGATGGACATTCG"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "GPLGSPAKSKSCEFCGKTFKFQSNLIVHRRSHTGEKPYKCQLCDHACSQASKLKRHMKTHMHKAGS",
+          "unpairedMsaPath": "msa/protein-dna/0f3457e5d3ec11337d1847a16ff67b96/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/0f3457e5d3ec11337d1847a16ff67b96/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

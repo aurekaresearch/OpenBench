@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9wwj-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GPLGSVLDLAINGNGFFVTSNNGAISYTRAGYFNTDKQDFIVDNNGYRLQGYAVGPNGQLQNGVVTDLKVERANQAGGGGTGQLAGLEIDDTGVIFARYTNGQSKVQGQVVLANFANIQGLTPIGKTSWVQSSESGEPAVGAPRSGTLGALQSGALEAS",
+          "unpairedMsaPath": "msa/protein-monomer/4f2efd75b0546c54a678b2c170092979/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/4f2efd75b0546c54a678b2c170092979/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

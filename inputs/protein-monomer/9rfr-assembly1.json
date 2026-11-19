@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9rfr-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SNTEILKDFLPAIRSSDYIMDFGDRAFSQRMLKEHLNQGSEFASRTISEIDRQVSFLFDKYLTQGDKLLDLGCGPGLYTTRFAEKGVTTLGVDVSPAAIEYAKEHATSAETYQQIDLDKFDSNEQFDLVLLLFGIANNLERLDTLLRKLKRNLKSGAKLVFELMDLEFMKSLEQGNGTWVFHPEGGLLSEQPHYQLCRRVWFEDQKTLIDRNMVITDSAQTSMYEGVFFGFELYDFNQLLQKAGYKEAHIICRQLEKGELTKHFFMVETELA",
+          "unpairedMsaPath": "msa/protein-monomer/bf9f046ca694363a129c9fe5e8ae1538/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/bf9f046ca694363a129c9fe5e8ae1538/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

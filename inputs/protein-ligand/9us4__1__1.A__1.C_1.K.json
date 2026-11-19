@@ -1,0 +1,79 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9us4__1__1.A__1.C_1.K",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "AWTTTDFPAFTEEGTGRFISQKVVEKGTRPLQLNFDQQCWQPSGGIKLNQMLSMEPCRGTPPQWRIFRQGLYTLEVDTRSGTPTMMISLEEKETSAAAPQIRQCPKWDGKPLTIDVSKTFAEGSKVRDFYSGNVATVSGGKITLQPAFGSNGLLLLERAETAAPAPFDWHNATVYFVLTDRFVNGNPANDNSYGRHKDGMQEIGTFHGGDLQGLTSKLDYLQQMGVNALWISSPLEQIHGWVGGGTKGDFPHYAYHGYYTQDWSKLDANMGTEADLRRLVDEAHKRGIRILFDVVMNHAGYATLADMQEFQFGSLYLQGDELKKTLGERWTDWKPGAGQTWHSFNDYINFSDKAGWEKWWGKKWIRIDIGDYDNPGYDDLTMSLAFLPDLKTESKEISGLPNFYSHKPDTAAKAIPGYTPRDYLTHWLSQWVRDYGIDGFRVDTAKHVEMDAWQQLKTQATAALAEWKKANPDKALDAAPFWMTGEAWGHGVMQSDYYRHGFDAMINFDYQDQAAKAATCMANIDLTWQQMADKLQSFNVLSYLSSHDTRLFREGGATAAELLLLAPGAVQIFYGDESSRPFGPTGSDPLQGTRSEMNWQDVNGKAARSVTHWQKIGQFRARHPAIGMGKQTTLSMSRGYGFVRESGEDKVMVIWAGQQQ",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/9a3d4956ff98ad7401e782aa9bc8a753/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/9a3d4956ff98ad7401e782aa9bc8a753/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "C[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O)O[C@@H]3CO)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1N[C@H]1C=C(CO)[C@@H](O)[C@H](O)[C@H]1O",
+          "count": 1,
+          "id": [
+            "B"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "C[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@@H](O)O[C@@H]3CO)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1N[C@H]1C=C(CO)[C@@H](O)[C@H](O)[C@H]1O",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "C[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O)O[C@@H]3CO)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1N[C@H]1C=C(CO)[C@@H](O)[C@H](O)[C@H]1O",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "C[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@@H](O)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1N[C@H]1C=C(CO)[C@@H](O)[C@H](O)[C@H]1O",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Ca+2]",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Ca+2]",
+          "count": 1,
+          "id": [
+            "G"
+          ]
+        }
+      }
+    ]
+  }
+]

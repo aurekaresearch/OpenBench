@@ -1,0 +1,37 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "11ex-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "RPIISLQPPWTTVFQGERVTLTCEGFRFYSPQKTKWYHRYLGKEILRETPDNILEVQESGEYRCQAQGSPLSSPVHLDFSSASLILQAPPSVFEGDSVVLRCRAKAGVTLNNTIYKNDNVLAFLNKRTDFHIPRACLKDNGAYRCTGYKESCCPVSSNTVKIQVQEPFTRPVLRASSFQPISGNPVTLTCETQLSLERSDVPLRFRFFRDDQTLGLGWSLSPNFQITAMRSKDSGFYWCKAATMPYSVISDSPRSWIQVQI",
+          "unpairedMsaPath": "msa/protein-protein/711e71370ba99db55fc87439764a669d/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/711e71370ba99db55fc87439764a669d/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "B",
+            "C"
+          ],
+          "sequence": "LGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYECKVSNKALPAPIEKTISKAKGAPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSP",
+          "unpairedMsaPath": "msa/protein-protein/28cc3de0ab43c2ec55e22834004fd0d3/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/28cc3de0ab43c2ec55e22834004fd0d3/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

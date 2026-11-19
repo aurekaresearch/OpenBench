@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "23ks-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MPRIDESRLRDLLAAAAGVSPSAVDGWPGGDGWLARAAAMLTDYVAGVPLGYVLGEVHYLGRPFRSDRRALAVRRYNEPLVRRILTDFAGQEVRAVEIGCGAGAAVCTMALELAGEFVGTDVDPEALELAAENARRHGAPVRLVTSDLFDALDGRFDVIYANLPRQDPRAPVPEGRWEPSVALYDQSAQPLGLLRRFFTEVPDRLTDRGRLYLEIPLDPRLAALLPGEPILDDDGDDFGRVMTSADARRLPSLVDQLT",
+          "unpairedMsaPath": "msa/protein-protein/8da4eca1e24ac8ac093e0b9408f20944/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/8da4eca1e24ac8ac093e0b9408f20944/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

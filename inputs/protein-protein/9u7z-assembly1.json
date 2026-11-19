@@ -1,0 +1,28 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9u7z-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 4,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "sequence": "SASGSMDINEFPSGVIEHLGWYVYRLIDPRDGSTFYVGKGKGNRVFAHMRGEVAAVDDDELLNNKLRQLREIRLAGLDVIHVIHRHGMAEEKTAYEVEAALIDAYPGLTNIMNGAGSNEFGAAHIKELIATYQPETITFQHKALMISVNRSSKDIDLYDAVRFSWRVSVDRARKAEIILATVRGIVRGVYIADEWLKSTRENFPEMTSWEADDEFEATQCSRFGFRGRVASPEITQLYIGKKIPDDLRKKGAMSPVRYSPGF",
+          "unpairedMsaPath": "msa/protein-protein/899df6abe003e4b6a5c5955c93e8d870/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/899df6abe003e4b6a5c5955c93e8d870/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

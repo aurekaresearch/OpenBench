@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9ulw-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MKFEPSDALFKDPYHFLDLGLDAGSDIIEFPEQNYYLTDLDDAKAVLANKDENYHPHSDFFGTSRGLLQPRSRQVDMARGAVKFLQQHLNATRRLLPERVKEQLQGRHSWPDISNLFMFSLFEPALLDARGDKTLKNCLDEIVHRSVLSGKRLEHGGWRRWLYRQRNYRLLKKEIRARRRGLVECQDVMSALVGAADHGISDTELADIFLSFLFATTGSLGFCLSWCLHLVSEAPEKAKLPSQWLVLEALRLWPVAWNLARMPAKDHQLPSGHKVSNNSVVIACPYSVQRNPKHWPDADRFLPERWQDNSNRQRLLAFGWGEHKCVASNLTLELVSELLDIILGNYHLSCEYSGERPLAQAALAPPSFTLTLSAKT",
+          "unpairedMsaPath": "msa/protein-monomer/49c023cd79bf7a6d5b000ad42cfcc97d/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/49c023cd79bf7a6d5b000ad42cfcc97d/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

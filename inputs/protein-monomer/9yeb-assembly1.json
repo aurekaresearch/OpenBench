@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9yeb-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GPHMETRRLGRIGHMSSVIIFGAASLSDVSQEEADASIQFALDSGINHFDTAASYGESELRLGPWMPKIRNKIFLATKTGERTRDEAMRSIERSLKRLQVDSVDLMQLHAVTSFEELDQCTRKGGALEAAIAAKEQGMVKHIGITGHGHLAPKVHLEALRRYPFETVLTPYNFILYNNPEYRQAFDALVEEVKRQDVGLMTIKAIARGPWPSEDAKKYATWYEPFDDQEHIDRCVSFVLSRPEITGLASAGDVRLLPKIVEAYKRYRKLSGEEQEALMATAGSYASPFGPF",
+          "unpairedMsaPath": "msa/protein-monomer/04f70feb6fe59c1381a42ac91524a4e3/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/04f70feb6fe59c1381a42ac91524a4e3/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

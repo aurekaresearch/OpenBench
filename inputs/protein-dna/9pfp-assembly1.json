@@ -1,0 +1,54 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9pfp-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GDEPSDLEELEKFAKTFKQRRIKLGFTQGDVGLAMGKLYGNDFSQTTISRFEALNLSFKNMCKLKPLLEKWLNDAESSPSDPSVSTPSSYPSLSEVFGRKRKKRTSIETNIRLTLEKRFQDNPKPSSEEISMIAEQLSMEKEVVRVWFCNRRQKEKRINC",
+          "unpairedMsaPath": "msa/protein-dna/be42581a1403526bfc40c66f86c869d7/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/be42581a1403526bfc40c66f86c869d7/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "GDYSKRVYQGVRVKHTVKDLLAEKRSGQTSNSRLNGSVSSS",
+          "unpairedMsaPath": "msa/protein-dna/b2c214fbf731720692abc1e52025852e/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/b2c214fbf731720692abc1e52025852e/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "TGTATGCAAATAAGG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "ACCTTATTTGCATAC"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "31kj-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GPMDWNFAGHAFQLRYNRPNDPTEVIDQRRKEFKEIFTKDYWWTHESRYDIYEDEGYGAWIKSSSKRGNHKEAFRRLNELGYRRQDTHTSAAFWPDKPS",
+          "unpairedMsaPath": "msa/protein-monomer/544d771c8d3d26144c7f29c7fd1db511/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/544d771c8d3d26144c7f29c7fd1db511/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "11vf-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MEKVLNDFKLEKKVPSELIDKYVNLVPEEIIVMWKNYGFGTFMNGYFKSINPDDFKDILLETSQRYQDAIVLFATSMGDLIVWSDDYVRLLNYRYGKVTTILHTFDFFFSNISDLEFKIEDLHWLPYPDAIARYGEPSYDECFGYVGILGMGGMEKVENLQKVKLREHILIITHFMGPIK",
+          "unpairedMsaPath": "msa/protein-monomer/24c0c899ed41b962e26223e91ea6c378/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/24c0c899ed41b962e26223e91ea6c378/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

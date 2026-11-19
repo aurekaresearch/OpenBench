@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9kvn-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "CSFGTPTSSSLPAFDQASYSYIHVLGNGGPALNNFRKFSINWNPQYNGLYQFALNTNNGVPSYYVDLRPLSNTKFNTGNPEVTISNSGFNGLDGSYWVTKDGANFVMVSKTGDFTIYFSNSATVPN",
+          "unpairedMsaPath": "msa/protein-monomer/02d2781b6c1dbcf3e312c8b7dc32c3ab/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/02d2781b6c1dbcf3e312c8b7dc32c3ab/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

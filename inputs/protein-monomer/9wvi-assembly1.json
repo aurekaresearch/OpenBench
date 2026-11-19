@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9wvi-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "HHHHHHIWVRVQVQDHLFLIPVPHSSDTHSVAWLAEQAAQRYYQTCGLLPRLTLRKEGALLAPQDLIPDVLQSNDEVLAEVTSWD",
+          "unpairedMsaPath": "msa/protein-monomer/9e20817d7b1425e7335a3545607bcf99/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/9e20817d7b1425e7335a3545607bcf99/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9jzt-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GPHMKPYECTLCNKTFTAKQNYVKHMFVHTGEKPHQCSICWRSFSLKDYLIKHMVTHTGVRAYQCSICNKRFTQKSSLNVHMRLHRGEKSYECYICKKKFSHKTLLERHVALHSASNG",
+          "unpairedMsaPath": "msa/protein-dna/eca5fb658fbaabe1c366ad226e208cfa/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/eca5fb658fbaabe1c366ad226e208cfa/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "CTTCCTTACGTTGAAG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "GCTTCAACGTAAGGAA"
+        }
+      }
+    ]
+  }
+]

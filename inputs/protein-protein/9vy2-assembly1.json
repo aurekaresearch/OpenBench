@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vy2-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MNTNEMKFTQSRRDPLLELGVYEEVNNYFSKDKTPRFEKMKDPTKSLTNRSRISWSITLNCFEHAILSYSGGQAMESVLDLTEVALKALERHKNDFPHKSYLFWEPDSFQFLLWCLSFVALTGKTEYLSTITRMYGTSPEVSGEACMAQLFRLFNVHGIPDSTEEALVFPDSYQHLYNAIKTGPLEPSKKEREESVKTYLRGWYKGMKDCYWHNRHKARFPTFFGYWALEAAMITLLFDLDDTGYNHLPYYPKDWVAEARKQGFDKLILKANLPSIQVAFPETMCPMTGEWQSNLSSEVLSLKEGEIMPGPLQDENETSYFWVLQEA",
+          "unpairedMsaPath": "msa/protein-protein/9e1596fb2edfe50c28318cb9a46db0c9/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/9e1596fb2edfe50c28318cb9a46db0c9/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

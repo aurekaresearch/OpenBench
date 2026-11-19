@@ -1,0 +1,44 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9llq-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MGMTNKASQPRTFTLSDEKRNHILTTALNLFDQFGFQHISIMRIITEAKIAKQSFYMAFPSKDSFIIECLDMEINRLKQSLSNLLGQCGKDDHTSILKSFYQWHVDLAYREGYNGTLLTKAVIEYWNLPDIKMKVEDFNKWKYEIFAEYLAEEINNARLRIIVSAMNGILLPASTYLPTWEDIESLYGEQF",
+          "unpairedMsaPath": "msa/protein-dna/c8f92a67929df04c64f675f6412c768a/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/c8f92a67929df04c64f675f6412c768a/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "AAAAAGACTAATCTGTCTATCTAT"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "ATAGATAGACAGATTAGTCTTTTT"
+        }
+      }
+    ]
+  }
+]

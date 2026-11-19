@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "11cp-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "SFEEEVEELAETLREYLRRLGMSERLAEEVAEALRRAARDPDLLESFAVLAAIARLAREGDELAVYVALALLYLLSQTRPEYTKALDEGLSPESKEELRRFLEEVYRRYRDDITLENIIRVTRAHQEAHIRRFASLGYYAVGIVRSDGSGLAVAAETREELDRLVAELREKYPDIIEERRREPD",
+          "unpairedMsaPath": "msa/protein-protein/de6af6e0427bcd004f3157629af44b4b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/de6af6e0427bcd004f3157629af44b4b/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

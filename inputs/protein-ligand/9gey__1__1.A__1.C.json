@@ -1,0 +1,34 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9gey__1__1.A__1.C",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SMRKKIFKPEELRQALMPTLEALYRQDPESLPFRQPVDPQLLGIPDYFDIVKNPMDLSTIKRKLDTGQYQEPWQYVDDVWLMFNNAWLYNRKTSRVYKFCSKLAEVFEQEIDPVMQSLG",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/8ccaedf48f222cee3c469b50cc2449ba/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/8ccaedf48f222cee3c469b50cc2449ba/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "C[C@@H]1CC(=O)Nc2cc3cc(c2N1)CCCCCN1CCCc2ccc(cc21)OCCCNC3=O",
+          "count": 1,
+          "id": [
+            "B"
+          ]
+        }
+      }
+    ]
+  }
+]

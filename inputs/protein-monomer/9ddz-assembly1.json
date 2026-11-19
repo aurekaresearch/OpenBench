@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9ddz-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GSSKGNPLRANGSIPRPAYPTLSMENDEQGTVVLSVLVSPGGHVESVKIVKSSGFSRLDNAARKAAQNGHFQANAWTEFKVPVKFELN",
+          "unpairedMsaPath": "msa/protein-monomer/2299d6b46b23452bbd0e2249c2589d25/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/2299d6b46b23452bbd0e2249c2589d25/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

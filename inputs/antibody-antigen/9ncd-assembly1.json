@@ -1,0 +1,59 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "DIQVTQSPSSLSASVGDRVNISCRTSQSIGTFLNWFQQRPGKAPKLLISGASDLQSGVPSSISGSGSGTEFTLTISSLQPEDFAVYYCEQHYDVPFTFGGGTNIYVKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/a86cb74bfbe31d22071ed60363f5e0e8/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/a86cb74bfbe31d22071ed60363f5e0e8/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGRSLRLACAASGFTFEDHALHWVRQVPGQGLEWVSGINWSGGSVAYADAVKGRFTISRNNANNSLYLEMISLRPEDTALYYCVRDSGAGFFASLDNWGLGVLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/dbb668044bb363a9f79effda82cba619/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/dbb668044bb363a9f79effda82cba619/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GSQVQLQESGGGLVQPGGSLRLSCAASGRTISRYAMSWFRQAPGKEREFVAVARRSGDGAFYADSVQGRFTVSRDDAKNTVYLQMNSLKPEDTAVYYCAIDSDTFYSGSYDYWGQGTQVTVSS",
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/cbc1c7fa0d1b7c395e7546e152902432/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/cbc1c7fa0d1b7c395e7546e152902432/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "GLSCGQVNSALAPCITFLTKGGVPSGPCCSGVRGLLGAAKTTADRQAACNCLKAAAGSLHGLNQGNAAALPGRCGVSIPYKISTSTNCATIKF",
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/295c696a323a3b11c33ea8c7651cd49b/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/295c696a323a3b11c33ea8c7651cd49b/pairing.a3m"
+        }
+      }
+    ],
+    "assembly_id": "1",
+    "name": "9ncd-assembly1",
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ]
+  }
+]

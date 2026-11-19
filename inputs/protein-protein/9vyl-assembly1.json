@@ -1,0 +1,28 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vyl-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 4,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "sequence": "MKSSHHHHHHENLYFQSNAMGRKIFISYKYSDSGVYPLNGNYSTTVRDYVDELQSKLKEGDHINKGEADGEDLSEFKDETIWTKLKDKIFDSSITIIFISKNMKALFQSEEDQWIPWEISYSLRELTRNGRTSGANALLAVVLPDQYNSYEYFIHDNSCPYCNCITLKTNTLFTILRENMFNIKSPTYNDCSNHSESNKVYTGESSYVRSVKWVDFIDNFDIYLQVAYNINENKDEYTLHKSV",
+          "unpairedMsaPath": "msa/protein-protein/8b78d1dccec8c4f822d24c42b72e79bb/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/8b78d1dccec8c4f822d24c42b72e79bb/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

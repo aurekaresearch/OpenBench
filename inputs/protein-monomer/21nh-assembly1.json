@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "21nh-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "QVYVEVSKMKINVTEIPDTLREDQMRDKLELSFSKSRNGGGEVDRVDYDRQSGSAVITFVEIGVADKILKKKEYPLYINQTCHRVTVSPYTE",
+          "unpairedMsaPath": "msa/protein-monomer/8cb3a131069c3816a311cf52f515aeaf/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/8cb3a131069c3816a311cf52f515aeaf/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

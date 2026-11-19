@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "8vqp-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GPGSPPITYTGRFSLEPAPNSGNTLSRPEQSVMQALESLTETQVSDFLSGRSPLTLALRVGDHMMFVQLQLAAQHAPPAPRSRKPGAVIESFVNHAPGVFSGTFSGTLHPNCQDSSGRPRRDIGTILQILNDLLSATRHYQGMPPSLAQLRCHA",
+          "unpairedMsaPath": "msa/protein-monomer/0e6fad26309d43c72d7b319d67584166/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/0e6fad26309d43c72d7b319d67584166/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

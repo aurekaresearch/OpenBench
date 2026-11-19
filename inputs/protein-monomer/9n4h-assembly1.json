@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9n4h-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "ACYSELSVQHNLVVQGDFALTQTQMATYEHNFNDSSCVSTNTITPMSPADIIVGLYNDTIKLNLHFEWTNKNNITLSNNQTSFTSGYSVTVTPAASNAKVNVSAGGGGSVMINGVATLSSASSSTRGSAAVQFLLCLLGGKSWDACVNSYRNALAQNAGVYSFNLTLSYNP",
+          "unpairedMsaPath": "msa/protein-monomer/6d40905212a167b3d94189b486f6f22b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/6d40905212a167b3d94189b486f6f22b/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

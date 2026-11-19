@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9r6v-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GPGGSVKQYVESIDVSSYTEEFNVSCLTDSNADTYWESDGSQCQHWVRLTMKKGTIVKKLLLTVDTTDDNFMPKRVVVYGGEGDNLKKLSDVSIDETLIGDVCVLEDMTVHLPIIEIRIVECRDDGIDVRLRGVKIKSSRQRE",
+          "unpairedMsaPath": "msa/protein-monomer/acde7e9d341469d8614a4924984bcbd9/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/acde7e9d341469d8614a4924984bcbd9/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

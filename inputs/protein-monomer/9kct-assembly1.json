@@ -1,0 +1,31 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9kct-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 321,
+              "ptmType": "CCD_SEP"
+            }
+          ],
+          "sequence": "MSGDVFGPWYLGPIAHPAIGIRIPEIILTGILRAYKKRNVAGGLMLSFGRETAPEWVINAPPGKYEITRGHTGTSIRKYMTMAAEAAVKEGLVVEIEADHLTVAPSAAEAVKRISGVRTEYRMSEKELGESLNYIKAEIDEAVSTGYVNFYTIDTCFLIDYSAEEMSPGELESKFSTIFGDGAGDLLKRYVGRQFVYIGERGIPYCFTFTNEEVMRLALKYRESLKATKTICDYIKSKMSKPYGIEIAFDETPSLTKCKDMIFYLRELWEIGIKPDFIAPNIGFEKRKDYMGDLKVLEERVDKLAAIARAFGALLSIHSGSGSSPYSGKGIGTYEALLRATGGKIKYKISGVYIELLFELLASYPKGSKERGLYEQIFDDVYQFLKKEVEEEGVLASPELELQLKRYEEDVKNGVREERDPRADFFRYYSFVALNLRDSSGKRYLREAIVELYEEDRKFKERYDKEVEALTLRLIDGLKFENNIINALAWIRQFHHHHHH",
+          "unpairedMsaPath": "msa/protein-monomer/011c7f979abe8249e51aea52d7b32491/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/011c7f979abe8249e51aea52d7b32491/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

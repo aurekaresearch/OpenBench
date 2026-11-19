@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "21ng-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SGRRVLVTGFPASLRLSEEELLDKLEIFFGKTRNGGGDVDVRELLPGSVMLGFARDGVAQRLCQIGQFTVPLGGQQVPLRVSPYV",
+          "unpairedMsaPath": "msa/protein-monomer/2249c95278e3c0210028a5f7b3f137b7/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/2249c95278e3c0210028a5f7b3f137b7/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "27rq-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "SGSSDERIQKAVELINEATAAAKELAKVDPAKAAELLAEASTLAAYAAAIPEKFEEYYGKAEAKVAEMKALAAS",
+          "unpairedMsaPath": "msa/protein-protein/4af86b34f3ee377b5d50fb3a67144b23/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/4af86b34f3ee377b5d50fb3a67144b23/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

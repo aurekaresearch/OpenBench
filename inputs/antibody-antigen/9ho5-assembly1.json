@@ -1,0 +1,36 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9ho5-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MLDETTYERLAEETLDSLAEFFEDLADKPYTFEDYDVSFGSGVLTVKLGGDLGTYVINKQTPNKQIWLSSPSSGPKRYDWTGKNWVYSHDGVSLHELLAAELTKALKTKLDLSSLAYSGKDA",
+          "unpairedMsaPath": "msa/antibody-antigen/5d2de22573b1e35729fb1fbbc16a4def/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/5d2de22573b1e35729fb1fbbc16a4def/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "QVQLQESGGGSVQPGGSLRLSCVARGSVFSVWDMGWYRQVPGRGRHLVARLNDDGSTNYADSVKGRFTISRDNAKNTLYLQMNSLKPEDTAVYYCNAVPPIVTVNATDYWGQGTQVTVSSAAAYPYDVPDYGSHHHHHH",
+          "unpairedMsaPath": "msa/antibody-antigen/701f5ffe8325b57fdbc12b87ec1c350d/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/701f5ffe8325b57fdbc12b87ec1c350d/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

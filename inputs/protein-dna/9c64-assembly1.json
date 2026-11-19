@@ -1,0 +1,40 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9c64-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 41,
+              "ptmType": "CCD_IAS"
+            }
+          ],
+          "sequence": "MSQDPKVSNIAESEAALGRASQARADLPQSKELKVKTVSSDDKKTLSGWGNKKPEGYERISAEQVKAKSEEIGHEVKSHPYDRDYKGQYFSSHAAKQMSIASPNHPLGVSKPMCTDCQGYFSQLAKYSKVEQTVADPKAIRIFKTDGSVETIMRSEHHHHHH",
+          "unpairedMsaPath": "msa/protein-dna/2bfa37e73b6a066e6d2f1d8d4b236b35/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/2bfa37e73b6a066e6d2f1d8d4b236b35/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "AAAAAATCGAAAAAA"
+        }
+      }
+    ]
+  }
+]

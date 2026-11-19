@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9yoy-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "ATQTLTVKVAPGVEVEVSFEGTEEQREKAQAIVDEGNKTLDSVDLGKGKLYKDKNGNIIVEISREQLGKAAELAKTRLPYIDGVAAAGAPGGSALPLSIIRAYEEYYKAEELGKELGVPVSDKVLVVNFNNQHFVVQVPVGDKLYVFDVDENNNPVYYTEPLPELTYVADVNVTFYASGISGSIEAIPGSGSGSGSSIVLTGSGS",
+          "unpairedMsaPath": "msa/protein-monomer/9b8d22dda7de1e01f8773f0505d17329/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/9b8d22dda7de1e01f8773f0505d17329/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

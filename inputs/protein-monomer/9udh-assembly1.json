@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9udh-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MAWGAKVSKEFKLKVIEVCERLEINPDYLMSCMAFETGETFSPSVRNPNGSATGLIQFMSNTARSLGTTTNELADMTSVEQMDYVEKYFKPYAGKIKTIEDVYMVIFCPRAVGKPDSYILADAGAAYNDNKGADLNKDNAITKYEAGFKVREKLKLGMKEGYRG",
+          "unpairedMsaPath": "msa/protein-monomer/ee2da788f1ab9298a513c17adac6f746/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/ee2da788f1ab9298a513c17adac6f746/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9jm7-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 56,
+              "ptmType": "CCD_OZW"
+            }
+          ],
+          "sequence": "MGVVREAIAYFAKEAGALSEAELEKVKNGSNEEAIALGEKAVARAKALGKEKEAKFIKVLVEELKKEGHHHHHH",
+          "unpairedMsaPath": "msa/protein-protein/9b33dc145f59388ea4cdc76f6b74029f/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/9b33dc145f59388ea4cdc76f6b74029f/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "MGVEAAKKEIKKLKEEVLKKYKKGEINEEEAIKEFVEKALKLVKAVGDEAVKKFAIEEAKALVEEL",
+          "unpairedMsaPath": "msa/protein-protein/34ae492213e8ed762490c5e28034285a/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/34ae492213e8ed762490c5e28034285a/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

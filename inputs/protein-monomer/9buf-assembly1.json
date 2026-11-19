@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9buf-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "VAAPTAPTGSPAGTARYAPYVDTSLYPAYDLLATADATGVKEFNLAFITSGGSCAPLWGGVTDLANDKVAAQIGALRAKGGDVRVSFGGAAGHELALNCSSSSALAAAYGKVVDQYKLTKVDFDIEGAALPDTAANTRRAQAIAQLQRSHPGLNVSFTLPVMPEGLTQPGVDLLADAKRNGVRVDAVNIMAMDYGPAYSADMGTYAVQAATATQAQIKGVLGLSDAAAWKAVAVTPMIGVNDVSSEIFTVDDATQLVDFAKSKGIGWLSMWSSTRDKQCAAGAVNHADATCSSILQQPLAFTKAFAAYKHHHHHH",
+          "unpairedMsaPath": "msa/protein-monomer/1263e4bf491649ce3da6d2dbecadb4ad/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/1263e4bf491649ce3da6d2dbecadb4ad/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

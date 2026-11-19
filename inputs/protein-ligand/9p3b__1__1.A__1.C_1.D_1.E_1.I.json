@@ -1,0 +1,61 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9p3b__1__1.A__1.C_1.D_1.E_1.I",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MSTAVSLSSLVDVVPAPAPNLPSSTDEQHMLMLYVHVPFCHSKCTFCDWVQAIPTKDLLRKPEDSVRKNYIRALVTEIETRGAQLRAAGQVPYVVYWGGGTASSLDNAEAEAIWGALDSAFDLSTVAEATIECSPDTVDKAKLEFFRGLGFNRVSSGVQSFDDARLRRLGRRHTAGEADRIVHHAREAGFDEVSIDIMSGFPDQELDELRATVEKAVSLPLTHLSLYSFRPTPGTFMRRKLAGTEKRAYLRKQQALFTEARRMIIDAGLPEYASGYFGRVSPFAAMYFQLRADTAGFGSGAISLVDRQFLSHAKGKLHAYIQDPLAYDIDVPAGQDRVLVSFLQAGLAMFDGVLREEWRVSTGTDLDEVLTRPSIAPLADFLRGRGLIEDERGIRLDPRLAGLTLIELAFEMAMSQPESA",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/43cbf993750310b5f00595a3d83811ce/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/43cbf993750310b5f00595a3d83811ce/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[SH-2]12[Fe]3[SH-2]4[Fe]1[SH-2]1[Fe]2[SH-2]3[Fe]41",
+          "count": 1,
+          "id": [
+            "B"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "OCCCCCCO",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "C[S@@+](CC[C@H](N)C(=O)[O-])C[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1O",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "C[S@@+](CC[C@H](N)C(=O)[O-])C[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1O",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      }
+    ]
+  }
+]

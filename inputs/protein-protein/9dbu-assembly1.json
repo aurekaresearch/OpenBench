@@ -1,0 +1,28 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9dbu-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 4,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "sequence": "STREEALREAERLSPEVRRRVRVALLLIELLAAAEQAGNTNIANNLATTIIEEAARIVLEFPAEAAEAFRILARAAAAQAAATKSTILANLAALFARAAELLASAENLYFQ",
+          "unpairedMsaPath": "msa/protein-protein/a2a1ccbdf3582ea6173b87fa956063f9/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/a2a1ccbdf3582ea6173b87fa956063f9/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

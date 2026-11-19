@@ -1,0 +1,37 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "AAIGSCSKEYRVLLGQLQKQTDLMQDTSRLLDPYIRIQGLDVPKLREHCRERPGAFPSEETLRGLGRRGFLQTLNATLGCVLHRLADLEQRLPKAQDLERSGLNIEDLEKLQMARPNILGLRNNIYCMAQLLDNSDTAEPTKAGRGASQPPTPTPASDAFQRKLEGCRFLHGYHRFMHSVGRVFSKW",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/2fe3136715911c9a59c8072addcd63a9/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/2fe3136715911c9a59c8072addcd63a9/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "QVQLQESGGGLVQPGGSLRLSCAASGFTFYLSSMSWHRQAPGKERELVAAISTTGSSTDYADSVKGRFTISRDNAKNTLYLQMNSLKSEDTALYYCAKGGYYTGTPAYWGQGTQVTVSS",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/4169f40dc4572459bbce78f86207f1f1/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/4169f40dc4572459bbce78f86207f1f1/pairing.a3m"
+        }
+      }
+    ],
+    "assembly_id": "1",
+    "name": "9vwo-assembly1",
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ]
+  }
+]

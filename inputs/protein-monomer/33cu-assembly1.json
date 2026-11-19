@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "33cu-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SNHSAQALAPEVSFYIPEMYCSVLPRIHPDYPIIDERNASWVREFLPFTDEAAQLRFLRLHTPMWDSMIFPIGSADRLVHTSCVTSLITAIDDMPLGRHAMFHDGEVALLEGHPFARAAQDIFGKLRQHMPAPVYRRYCQELQAWFESVEEEARLVAAGKVLPLDEFLELRHPNTGLLPSFPVAEFLYDLDLTELLAQDRELQLAIRVTNEHVGLVNDILSHRKEHAIGVTLNAMESLRIVHGHSAQEAADILCQRIREADRARVELCEVLRHRYANRPDADRIGMYLDGLGRICAGNLRWLLESDRYVDSRGNGWDWTRSRLIVLDPEPAPAPALAQS",
+          "unpairedMsaPath": "msa/protein-monomer/9565bb8255be952650a28c0dd98410fb/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/9565bb8255be952650a28c0dd98410fb/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

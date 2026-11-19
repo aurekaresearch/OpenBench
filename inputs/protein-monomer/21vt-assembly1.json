@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "21vt-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "VDYKVFTREFDEEVEATDLCDEAELDRLRGFLDKQLANLQGVVGRLANRLQRRLMAQQDTVVTLVLDNSGSMRGRPITVAATCADILARTLERCGVKVEILGFTTKAWKGGQSREAWLGRGKPANPGRLNDLRHIVYKSADAPWRRARRNLGLMMREGLLKENIDGEALIWAHQRLLGRPEQRKILMMISDGAPVDDSTLSVNPGNYLERHLRAVIEEIETRSPVELIAIGIGHDVTRYYQRAVTIVDAEELAGAMTEQLASLFEEQGA",
+          "unpairedMsaPath": "msa/protein-monomer/7dcab7190a3dc1fc913c04657550f6ab/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/7dcab7190a3dc1fc913c04657550f6ab/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

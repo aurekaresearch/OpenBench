@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "11pu-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MASSKLRDVLVSFQKDVRGGCTLTEQTATIAWTRYNLEPPGPVGLSAQQVLGLLMLDDSTVGLEDLEIYTRNLASLWWPSLQITCEGDVFLPKKSSDIYLSTSPWAMRSLDKITLTLLSLQMGVNFELYKVTENDTCNKVSIRQDHGDATIKFLVRVDYQGDEMYQVLEPEQGAMASGSHHHHHH",
+          "unpairedMsaPath": "msa/protein-protein/ba61d25ba477347a0854fec6b7d6bde6/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/ba61d25ba477347a0854fec6b7d6bde6/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

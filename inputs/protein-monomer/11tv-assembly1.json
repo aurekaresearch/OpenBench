@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "11tv-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MKEKVVVDKAISLYTESFGDPAHEPIILIMGAMSSAVWWPDEFCSQLAKMGRYVIRYDHRDTGKSTSYEPGQAPYSVEELADDVVRVIDGYGLEAAHLVGMALGGFLSQLVALKYPKRVKSLTLIASERLADADPDMPAFDPAIIEYHQRAESLDWSDRDAVVAYQVGAWRINSGTAHAFDAEKIQNIAELNFDRTPNILTTFNHTTLGGGERWLGRLNEIAVPTLIIHGTEDPVLPYVHGLALKDAIRGSKMLTLEGTGHELHHEDWPRIIQAIKGQTS",
+          "unpairedMsaPath": "msa/protein-monomer/0cd0b198337a433fc64c449f7bddbf96/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/0cd0b198337a433fc64c449f7bddbf96/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

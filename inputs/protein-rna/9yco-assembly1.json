@@ -1,0 +1,45 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9yco-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "AGSNTEFASNSSVLSLVNFTVDPQKAYLDFVNAGGAPLTNCVKMLTPKTGTGIAISVKPESTADQETYGGASVCLYCRAHIEHPDVSGVCKYKGKFVQIPAQCVRDPVGFCLSNTPCNVCQYWIGYGCNCDSLRQAALPQ",
+          "unpairedMsaPath": "msa/protein-rna/2ae74e461bd92b1e58e60feaba72eca2/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/2ae74e461bd92b1e58e60feaba72eca2/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "SQIVTGLFKDCSRETSGLSPAYAPTYVSVDDKYKTSDELCVNLNLPANVPYSRVISRMGFKLDATVPGYPKLFITREEAVRQVRSWIGFDVEGAHASRNACGTNVPLQLGFSTGVNFVVQPVGVVDTEWGNMLTGIAARPPPGEQFKHLVPLMHKGAAWPIVRRRIVQMLSDTLDKLSDYCTFVCWAHGFALTSASYFCKIGKEQKCCMCNRRAAAYSSPLQSYACWTHSCGYDYVYNPFFVDVQQWGYVGNLATNHDRYCSVHQGAHVASNDAIMTRCLAIHSCFIERVDWDIEYPYISHEKKLNSCCRIVERNVVRAALLAGSFDKVYDIGNPKGIPIVDDPVVDWHYFDAQPLTRKVQQLFYTEDMASRFADGLCLFWNCNVPKYPNNAIVCRFDTRVHSEFNLPGCDGGSLYVNKHAFHTPAYDVSAFRDLKPLPFFYYSTTPCEVHGNGSMIEDIDYVPLKSAVCITACNLGGAVCRKHATEYREYMEAYNLVSASGFRLWCYKTFDIYNLWSTFTKVQ",
+          "unpairedMsaPath": "msa/protein-rna/889c4bce05b3efc6e8c16bf1955a5f41/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/889c4bce05b3efc6e8c16bf1955a5f41/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "GGGAACGGGAUUUUAAUAGCUUCGGCUAUUAAAAUCCCG"
+        }
+      }
+    ]
+  }
+]

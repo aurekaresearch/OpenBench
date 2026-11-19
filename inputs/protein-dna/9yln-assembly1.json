@@ -1,0 +1,43 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9yln-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GSPGRPSSKEGRRSDTCEYCGKVFKNCSNLTVHRRSHTGERPYKCELCNYACAQSSKLTRHMKTHGQVGKDVYKCEICKMPFSVYSTLEKHMKKWHSDRVLNNDIKTE",
+          "unpairedMsaPath": "msa/protein-dna/a9f435b0670c4609657a90acdad4d32b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/a9f435b0670c4609657a90acdad4d32b/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "AGATGGCCATTCG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "GAATGGCCATCTC"
+        }
+      }
+    ]
+  }
+]

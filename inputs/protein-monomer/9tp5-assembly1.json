@@ -1,0 +1,31 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9tp5-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 103,
+              "ptmType": "CCD_CME"
+            }
+          ],
+          "sequence": "GAMAPDQSYQYPSPSYESIQTFYDTDEDWPGPRCGHTLTAVFVNNSHQLILFGGSTTAVANHNSSLPEISLDGVTNSVHSFDVLTRKWTRLNPIGDVPSPRACHAAALYGTLILIQGGIGPSGPSDGDVYMLDMTNNKWIKFLVGGETPSPRYGHVMDIAAQRWLVIFSGNNGNEILDDTWALDTRGPFSWDRLNPSGNQPSGRMYASGSSREDGIFLLCGGIDHSGVTLGDTYGLKMDSDNVWTPVPAVAPSPRYQHTAVFGGSKLHVIGGILNRARLIDGEAVVAVLDTETGEWVDTNQPETSASGANRQNQYQLMRRCHHAAASFGSHLYVHGGIREDVLLDDLLVAETSQSSSPE",
+          "unpairedMsaPath": "msa/protein-monomer/acf0fdbc6c06c675489c895b3f2af25a/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/acf0fdbc6c06c675489c895b3f2af25a/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

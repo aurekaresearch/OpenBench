@@ -1,0 +1,54 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9o50__1__1.A_1.B__1.E_1.F",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "STLKRDEALFELIALEEKRQREGLELIASENFVSKQVREAVGSVLTNKYAEGYPGARYYGGCEVIDRVESLAIERAKALFGAAWANVQPHSGSQANMAVYMALMEPGDTLMGMDLAAGGHLTHGSRVNFSGKLYKVVSYGVRPDTELIDLEEVRRLALEHRPKVIVAGASAYPRFWDFKAFREIADEVGAYLVVDMAHFAGLVAAGLHPNPLPYAHVVTSTTHKTLRGPRGGLILSNDPELGKRIDKLIFPGIQGGPLEHVIAGKAVAFFEALQPEFKEYSRLVVENAKRLAEELARRGYRIVTGGTDNHLFLVDLRPKGLTGKEAEERLDAVGITVNKNAIPFDPKPPRVTSGIRIGTPAITTRGFTPEEMPLVAELIDRALLEGPSEALREEVRRLALAHPMP",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/599ed2d0add4eb85f4cee1ee787899e1/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/599ed2d0add4eb85f4cee1ee787899e1/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "STLKRDEALFELIALEEKRQREGLELIASENFVSKQVREAVGSVLTNKYAEGYPGARYYGGCEVIDRVESLAIERAKALFGAAWANVQPHSGSQANMAVYMALMEPGDTLMGMDLAAGGHLTHGSRVNFSGKLYKVVSYGVRPDTELIDLEEVRRLALEHRPKVIVAGASAYPRFWDFKAFREIADEVGAYLVVDMAHFAGLVAAGLHPNPLPYAHVVTSTTHKTLRGPRGGLILSNDPELGKRIDKLIFPGIQGGPLEHVIAGKAVAFFEALQPEFKEYSRLVVENAKRLAEELARRGYRIVTGGTDNHLFLVDLRPKGLTGKEAEERLDAVGITVNKNAIPFDPKPPRVTSGIRIGTPAITTRGFTPEEMPLVAELIDRALLEGPSEALREEVRRLALAHPMP",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/599ed2d0add4eb85f4cee1ee787899e1/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/599ed2d0add4eb85f4cee1ee787899e1/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Nc1nc2c(c(=O)[nH]1)N[C@@H](CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)CN2",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "O=S(=O)([O-])[O-]",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "8yta__1__1.A__1.B_1.C_1.D",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "VSSNIITPISLDDVPPRIARAMENEEYWDFDIFELEAATHNRPLIYLGLKMFARFGICEFLHCSESTLRSWLQIIEANYHSSNPYHNSTHSADVLHATAYFLSKERIKETLDPIDEVAALIAATIHDVDHPGRTNSFLCNAGSELAILYNDTAVLESHHAALAFQLTTGDDKCNIFKNMERNDYRTLRQGIIDMVLATEMTKHFEHVNKFVNSINKPLATLEENGETDKNQEVINTMLRTPENRTLIKRMLIKCADVSNPCRPLQYCIEWAARISEEYFSQTDEEKQQGLPVVMPVFDRNTCSIPKSQISFIDYFITDMFDAWDAFVDLPDLMQHLDNNFKYWKGLDEMKLRNLRPPPE",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/ab4f2e429071b0d6931e24980cb4c974/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/ab4f2e429071b0d6931e24980cb4c974/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Zn+2]",
+          "count": 1,
+          "id": [
+            "B"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Mg+2]",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Cn1c(=O)[nH]c(=O)c2c1nc(SCCCc1ccc(Cl)cc1)n2Cc1cc(N)cc(Cl)c1",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      }
+    ]
+  }
+]

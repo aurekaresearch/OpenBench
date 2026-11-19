@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vgj-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MADTRELLASKTVDAKAGETVNVTMKVPVPEDTKSIELRATAKAGSDGRWDIESAEVYADDQLVAQASVTVEAGSTVLVARVPLDRPVAEVTVRVTAKALASGTLTWEAYAVTPALEHHHHHH",
+          "unpairedMsaPath": "msa/protein-monomer/6d9fa61d9734edb2d2174221a5c93f02/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/6d9fa61d9734edb2d2174221a5c93f02/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

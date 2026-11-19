@@ -1,0 +1,81 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9sn9__1__1.A_1.B__1.E_1.F_1.G",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MVVKVYGSIRAACPQRVMVCLLEMGVDFELIPVDLESGEHKKPEFLLRQPFGQVPAIEDGDFRLFESRAIIRYYAAKYADYGPNLLGTTLEERALVDQWLEVEAHNFNDLVYNLVLQLVILPRMGERSDLALVSTCENKLEKVLDIYEQRLSKSNYLAGESFTLADLSHLPAIRYLMDEAGLGHMVRNRKNVNSWWMDISSRPAWKKIMKLMD",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/640460f08d880962b7dbe5c98dee6af6/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/640460f08d880962b7dbe5c98dee6af6/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MVVKVYGSIRAACPQRVMVCLLEMGVDFELIPVDLESGEHKKPEFLLRQPFGQVPAIEDGDFRLFESRAIIRYYAAKYADYGPNLLGTTLEERALVDQWLEVEAHNFNDLVYNLVLQLVILPRMGERSDLALVSTCENKLEKVLDIYEQRLSKSNYLAGESFTLADLSHLPAIRYLMDEAGLGHMVRNRKNVNSWWMDISSRPAWKKIMKLMD",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/640460f08d880962b7dbe5c98dee6af6/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/640460f08d880962b7dbe5c98dee6af6/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "C[C@H](O)CC(C)(C)O",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "C[C@H](O)CC(C)(C)O",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Na+]",
+          "count": 1,
+          "id": [
+            "G"
+          ]
+        }
+      }
+    ]
+  }
+]

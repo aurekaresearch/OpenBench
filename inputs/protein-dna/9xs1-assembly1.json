@@ -1,0 +1,44 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9xs1-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "SRPSASWQNSVSERPPYSYMAMIQFAINSTERKRMTLKDIYTWIEDHFPYFKHIAKPGWKNSIRHNLSLHDMFVRETSANGKVSFWTIHPSANRYLTLDQVFKPLDPGSPQLPEHLESQQKRPNPELRRNMTIKTELP",
+          "unpairedMsaPath": "msa/protein-dna/e29e985ba5d400386338ff2bf3f98257/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/e29e985ba5d400386338ff2bf3f98257/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "TTTGTTTATTTGTTTGTTTATTTG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "CAAATAAACAAACAAATAAACAAA"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9rkp-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "QSGAMTEEARRDQERYRQEQESIAKQQEREMEKKTEAYRKTAEAEAEKIRKELEKQHARDVEFRKDLIESTIDRQKREVDLEAKMAKRELDREGQLAKEALERSRLATNV",
+          "unpairedMsaPath": "msa/protein-protein/26c1814feccb822168cca49ba848494a/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/26c1814feccb822168cca49ba848494a/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

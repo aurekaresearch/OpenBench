@@ -1,0 +1,54 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9wu2-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 3,
+              "ptmType": "CCD_PCA"
+            }
+          ],
+          "sequence": "KVQLVESGGGLVQPKGSLKLSCAASGFNFNTYAMNWVRQAPGKGLEWVARIRSKSNNYATYYADSMKDRFTISRDDSENMLYLQMINLKAEDTAMYYCVRQAYSNYGAMDYWGQGISVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKAEPKSCDKTHHHHHHHH",
+          "unpairedMsaPath": "msa/protein-dna/bbf733ae7f9464195f42707b658a80fa/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/bbf733ae7f9464195f42707b658a80fa/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "C",
+            "D"
+          ],
+          "sequence": "DIQMTQTTSSLSASLGDRVTISCSASQGISNYLNWYQQKPDGTVKLLIYYTSRLHSGVPSRFSGSGSGTDYSLTISNLEPEDIATYFCQQYSKFPFTFGSGTKLEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRNEC",
+          "unpairedMsaPath": "msa/protein-dna/de982f2a589bce7b8b7b0eeb8516df38/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/de982f2a589bce7b8b7b0eeb8516df38/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 2,
+          "id": [
+            "E",
+            "F"
+          ],
+          "sequence": "CGCGCGC"
+        }
+      }
+    ]
+  }
+]

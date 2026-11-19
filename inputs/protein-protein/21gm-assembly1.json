@@ -1,0 +1,58 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "21gm-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "LYFHIGETEKKCFIEEIPDETMVIGNYRTQLYDKQREEYQPATPGLGMFVEVKDPEDKVILARQYGSEGRFTFTSHTPGEHQICLHSNSTKFSLFAGGMLRVHLDIQVGEHANDYAEIAAKDKLSELQLRVRQLVEQVEQIQKEQNYQRWREERFRQTSESTNQRVLWWSILQTLILVAIGVWQMRHLKSFFEAKKLV",
+          "unpairedMsaPath": "msa/protein-protein/f3cdbb51c5467563b46999936976468a/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/f3cdbb51c5467563b46999936976468a/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "YFVSIDAHAEECFFERVTSGTKMGLIFEVAEGGFLDIDVEITGPDNKGIYKGDRESSGKYTFAAHMDGTYKFCFSNRMSTMTPKIVMFTIDIGEAPKGQDMETEAHQNKLEEMINELAVAMTAVKHEQEYMEVRERIHRAINDNTNSRVVLWSFFEALVLVAMTLGQIYYLKRFFEVRRVV",
+          "unpairedMsaPath": "msa/protein-protein/3baa7a4d580b15f23eb232c129499790/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/3baa7a4d580b15f23eb232c129499790/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "FTPSLDSDFTFTLPAGQKECFYQPMPLKASLEIEYQVLDGAGLDIDFHLASPEGKTLVFEQRKSDGVHTVETEVGDYMFCFDNTFSTISEKVIFFELILDNMGEQAQEQEDWKKYITGTDILDMKLEDILESINSIKSRLSKSGHIQTLLRAFEARDRNIQESNFDRVNFWSMVNLVVMVVVSAIQVYMLKSLFEDKRKSRT",
+          "unpairedMsaPath": "msa/protein-protein/58e4342f5015a2b332edce53d4b49905/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/58e4342f5015a2b332edce53d4b49905/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "ISFHLPINSRKCLREEIHKDLLVTGAYEISDQSGGAGGLRSHLKITDSAGHILYSKEDATKGKFAFTTEDYDMFEVCFESKGTGRIPDQLVILDMKHGVEAKNYEEIAKVEKLKPLEVELRRLEDLSESIVNDFAYMKKREEEMRDTNESTNTRVLYFSIFSMFCLIGLATWQVFYLRRFFKAKKLIE",
+          "unpairedMsaPath": "msa/protein-protein/b8c6b1f6ecff76cc10fbd6e2ae24eb34/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/b8c6b1f6ecff76cc10fbd6e2ae24eb34/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

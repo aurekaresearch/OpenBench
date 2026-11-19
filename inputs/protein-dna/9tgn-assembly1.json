@@ -1,0 +1,58 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9tgn-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 6,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "sequence": "DIQMTQTTSSLSASLGDRVTINCRASQDISNYLNWYQQKPDGTVKLLIYYTSRLHSGVPSRFSGSGSGTDFSLTISYLEQEDIATYFCQQGKTLPFTFGAGTKLELKRA",
+          "unpairedMsaPath": "msa/protein-dna/2f5282bd025225b4694e1acdca491841/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/2f5282bd025225b4694e1acdca491841/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 6,
+          "id": [
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L"
+          ],
+          "sequence": "EVQLVETGGGLVQPKGSLKLSCAASGFTFNTNAMNWVRQAPGKGLEWVARIRSKSNNYATYYADSVKDRFTISRDDSQSMLYLQMNNLKTEDTAMYYCVRGYVNYYYVMDYWGQGTSVTVSSA",
+          "unpairedMsaPath": "msa/protein-dna/7e625f9754908a9a7e1fee9baa7bf6b0/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/7e625f9754908a9a7e1fee9baa7bf6b0/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 4,
+          "id": [
+            "M",
+            "N",
+            "O",
+            "P"
+          ],
+          "sequence": "CGCGCGCGCGCG"
+        }
+      }
+    ]
+  }
+]

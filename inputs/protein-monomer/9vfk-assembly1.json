@@ -1,0 +1,31 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vfk-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 117,
+              "ptmType": "CCD_CSO"
+            }
+          ],
+          "sequence": "SNAMTAISDFVANPKQFLKNNVLRVLFTMPAQPNSIGMFKFERKNYDAVKLATGANIPCYSLVPIHGQEATIFSRNATSANRDYLRAYWCPYEDDAMHSIMVGAGADFMFTSNMDGCSFGVGSATPTGDRRVAHINLRSQPNSHNLQDGTLAVQSLTDHHVKPDRYMKSSRTPGSIPGEIKATTIGIRNTATGAWSFHYQQYRLLGGQINQVYLLALKNV",
+          "unpairedMsaPath": "msa/protein-monomer/bd8c5f207cee79d122451951d6ea3bd9/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/bd8c5f207cee79d122451951d6ea3bd9/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9h3a-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 1,
+              "ptmType": "CCD_PCA"
+            }
+          ],
+          "sequence": "QQEYLNNNQLDCDNTHNSTYGNVCNSVTSCQSYLTFKSSSPEYNTPSSISYLLNSTPSLVAKSNNITDVTPIITDTMVTVPVTCSCSGGRYQHNATYNLKKTGETYFSIANNTYQSLTTCQALMAQNPYDAKNLFAGDDLHVPLRCACPTKKQSDAGFKYLLTYLVSQGESPDSIAEIFGVDTQSVLDANELDSKSVVFYFTPLLVPLKTEPPARLQIAASHHHHHH",
+          "unpairedMsaPath": "msa/protein-protein/89b8e42f0a3774e7ddcc84fa6f3f9974/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/89b8e42f0a3774e7ddcc84fa6f3f9974/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "EVQLLESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKGLEWVSGISAIDQSTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARQKFMQLWGGGLRYPFGYWGQGTMVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKRVEPKS",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/fb4aced309cce8045c7411ba02e319e4/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/fb4aced309cce8045c7411ba02e319e4/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SYVLTQPPSVSVSPGQTASITCSGEGMGDKYAAWYQQKPGQSPVLVIYRDTKRPSGIPERFSGSNSGNTATLTISGTQAMDEADYYCGVIQDNTGVFGGGTKLTVLGQPKAAPSVTLFPPSSEELQANKATLVCLISDFYPGAVTVAWKADSSPVKAGVETTTPSKQSNNKYAASSYLSLTPEQWKSHRSYSCQVTHEGSTVEKTVAPTEC",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/c9cfb7abcff386697cebe9ba7168ed91/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/c9cfb7abcff386697cebe9ba7168ed91/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SPITEYLASLSTYNDQSITFALEDESYEIYVEDLKKDEKKDKVLLSYYESQHPSNESGDGVDGKMLMVTLSPTKDFWLHANNKEHSVELHKCEKPLPDQAFFVLHNMHSNCVSFECKTDPGVFIGVKDNHLALIKVDSSENLSTENILFKLS",
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/cdcf122a9b13d1b7724814e7a7e99a0b/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/cdcf122a9b13d1b7724814e7a7e99a0b/pairing.a3m"
+        }
+      }
+    ],
+    "assembly_id": "1",
+    "name": "9wwh-assembly1",
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ]
+  }
+]

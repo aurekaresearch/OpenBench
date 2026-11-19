@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vkd-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GPMEEEIAKKALELHKEAHESSKNDEEIEKKMKEKAEEYKKKGEPELAEMIEKITENAIKLHNAKTEEEKAVRKAVQEGFELYEKAKDEEAKLKIARLIVEIITTYDAKKAEELLKEAKKIA",
+          "unpairedMsaPath": "msa/protein-monomer/bcafbe06fc39a3ae4cb21ae302bb63af/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/bcafbe06fc39a3ae4cb21ae302bb63af/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

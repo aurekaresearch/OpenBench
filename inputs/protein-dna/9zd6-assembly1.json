@@ -1,0 +1,50 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9zd6-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MYESAALPSPRRDATLSLTQARHVALAAQGFADPRPSGTVTAHHLRQVVDRIGVIQIDSVNVLCRSHYLPVYARLGPYDRALLDRAATTPGHFLVEYWAHEASLIPLHTHRLLRWRMADITGAWRIVQRAGEEHPELVRAVLDEVARTGPVTARQVADALRHDLPHSAKRWGWNWSVVKSALEYLFWRGEITANGRNQHFERRYDLTSRVLPAEVHTAPDPDPDDARRQLVAIAARAHGVATERCLRDYFRLSAAHGRAAVRDLVDSGELIPVRVEGWRQPAYLHRDARFPNSVAARALLSPFDSLVWERARIKALFDFHYRLEIYVPAAKRVHGYYVLPFLLGDRLVARVDLKADRASGRLLVRRTTLEDHAPADTMAELSAELDQMAEWLGLPEGVVHSA",
+          "unpairedMsaPath": "msa/protein-dna/0c936744e1b5d04d066a329c031dd6b7/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/0c936744e1b5d04d066a329c031dd6b7/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "modifications": [
+            {
+              "basePosition": 9,
+              "modificationType": "CCD_3DR"
+            }
+          ],
+          "sequence": "TGAGTCGTNGATGACCAC"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "GTGGTCATCCACGACTCA"
+        }
+      }
+    ]
+  }
+]

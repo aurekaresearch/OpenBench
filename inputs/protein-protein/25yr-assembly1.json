@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "25yr-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "GPMALLNKPVHNEKLSFTWDPIVHQSGHGVILEGTVVDFSRHAITDVKNRKERYNVLYIKPSRVHRRKYDSKGNEIEPNFSDTKKVNTGFLMSSFKVEAKGETDCLDERQLREIVNKEQLVKVTIKHSPREAFAFWISEAEMDKTELEPGQEVRLKTKGDGPFIFSSAKLDSGTVTKCNFAGDENAGASWTEKIMANKSNQENTGKSAAQGEGADD",
+          "unpairedMsaPath": "msa/protein-protein/868df861e9d994ad3e4c1df5bee11ec4/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/868df861e9d994ad3e4c1df5bee11ec4/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

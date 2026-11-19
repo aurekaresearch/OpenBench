@@ -1,0 +1,52 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9wzr-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MKNIAVQTNKAATESAVTVFRYGLLAPINWGRDVEDELYRMNALWNKLVEIERANRERYREIISTSPALSEVSERIEALHREREDLIAERKRRRASARSKSKADTADLDERIKAIKAELAPLYEQRKSLAAEAREQQKPLLDALEAERREAVKAARQSSGCFWPNYNAVIASYEIARKRAMKTGADLRFRRFSREGRLVNQIQGGMSVEDLFSCRHSQVGIRLGGQSRGRQTGTLYVTAYTGRDESGRRIRRNVEFPIILHRPFPKDAVIKEVAVNIRRRSPSVVSGQTETDDGRIIEYGEAEYSVAFTCQTPAPEKSAGSSAAGINIGWKRVSGGLRVATAAFHDGTFEHLILPDEWVKKYERVQALRSGIDDADNEMHAALRQALQGMPLWERDGPMVEGLSDSDHRLLSAIKRAPRAPGRAMDALAWRLKETPNMPFVADLGATIEAWRKARKRMILEMDNLRGKLLARRKDLYRTFAARIAAYAGAIAIDDTDYRQAALVERTDGEDLELHEQARRQRVMAAPYELRLAIEQAAAKRGGYVERHRGSVNHCRACRSRNVSGDIARHCHACGAVFDVDENAALNLLHTLIAGPARAVE",
+          "unpairedMsaPath": "msa/protein-rna/792b124d2fc1f81888fe68907727e0a2/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/792b124d2fc1f81888fe68907727e0a2/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "AUCACAAAGCCUGCUCCGCGGCUUGGUAGUGGAGACCUCCCUAUCAGUGAUAGAGA"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "ATACGTTCTCTATCACTGATAGGGAGTAAAGTCTGC"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "GCAGACTTTACTCCCTATCAGTGATAGAGAACGTAT"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9p8l-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 6,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "sequence": "SMKEKDLGITEVRGAKANITDLVVYGNGDTFALLCKASSQEQGWMKSTKVCNVYGGCIVQVTTQQRNPDGSYALAEALTFVPNNHIDTSGNTRFIGKI",
+          "unpairedMsaPath": "msa/protein-protein/e2cd53404e88f29f77bb608d9ea179fb/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/e2cd53404e88f29f77bb608d9ea179fb/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

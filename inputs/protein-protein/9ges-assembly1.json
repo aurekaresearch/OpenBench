@@ -1,0 +1,28 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9ges-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 4,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "sequence": "GSMSLCEDMLLCNYRKCRIKLSGYAWVTACSHIFCDQHGSGEFSRSPAICPACNSTLSGKLDIVRTELSPSEEYKAMVLAGLRPEIVLDISSRALAFWTYQVHQERLYQEYNFSKAEGHLKQMEKIYTQQIQSKDVELTSMKGEVTSMKKVLEEYKKKFSDISEKLMERNRQYQKLQGLYDSLRLRNITIANHEGTLE",
+          "unpairedMsaPath": "msa/protein-protein/66c087b4fa89c3b0e541292bfa3b5164/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/66c087b4fa89c3b0e541292bfa3b5164/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

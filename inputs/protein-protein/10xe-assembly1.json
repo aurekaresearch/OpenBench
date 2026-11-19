@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "10xe-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "GSHMWNETWNEITNELIQLSREPESEIPRITAEQRAYLKLVRPAAFVEGIAVLRVPHSRAKETIETHLGQAITSVLSRRMGRPFTVAVTVD",
+          "unpairedMsaPath": "msa/protein-protein/8cfa43d83447cd3fa10863dc91c8976b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/8cfa43d83447cd3fa10863dc91c8976b/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

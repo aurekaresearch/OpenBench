@@ -1,0 +1,36 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9nlt-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "IEGRQYKDGYYITTLNYNFNTVYNATLQAIQNGQTFDYKSNPYDISVNKNNGTDAEIVSASDSDSTDSLQVAMKKLPNNATRISIKYGSQGNSIRSSALIGIIEGNIRYANT",
+          "unpairedMsaPath": "msa/protein-protein/8187bb1f24f3603afce67f8fe70d93d6/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/8187bb1f24f3603afce67f8fe70d93d6/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "MEEKEKEFNEKLEELKKAKTEEEKLELAYECGLLAGEINDPKYYRALDEVARAK",
+          "unpairedMsaPath": "msa/protein-protein/4e1a39d948538448efe1135fbe208281/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/4e1a39d948538448efe1135fbe208281/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

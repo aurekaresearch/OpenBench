@@ -1,0 +1,28 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9dcs-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 4,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "sequence": "MSQLLPIGSVVRLNNGDVNLMVISRYALYESDKGVGYFDYSACLHPSGVINQRTYYFNQEDIAEVLFEGFVNQAERNMQQIFETEAPNITYPHFTIKEFKEMND",
+          "unpairedMsaPath": "msa/protein-protein/61f55a558138d0b61ab65024cd9c8f79/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/61f55a558138d0b61ab65024cd9c8f79/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

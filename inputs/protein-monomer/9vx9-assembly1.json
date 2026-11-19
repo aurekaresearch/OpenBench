@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vx9-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MTTITINTYDPEARFNMDKDEARSFFEFVEKKATDAGFNVQYDSCNYVDEESERFVEKCFEDYLEH",
+          "unpairedMsaPath": "msa/protein-monomer/940614eaa80f726f3e31809bd46c385a/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/940614eaa80f726f3e31809bd46c385a/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

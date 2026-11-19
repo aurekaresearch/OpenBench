@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9kgy-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "KKIKLNIKEFKATAEGLSPEEKELWDKFAEKLKKELNNKIINLGEKIEIEEELKTPTKSIKITFSLELVSEDTFKATLKLEIKGKETIVEEETVEFKAGETVKLTIKLPDGKTFTLELKLEATKI",
+          "unpairedMsaPath": "msa/protein-monomer/950452274c1de926a06ba8ada8f4e39f/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/950452274c1de926a06ba8ada8f4e39f/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

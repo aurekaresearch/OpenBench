@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "26za-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MSALTAAAEEYQRLRTEFREKGLGGRIGFGVRPAVVVVDLITGFTDRRSPLAGDLDTQIDATKTLLALARKAQVPIIFSTVAYDAELQEAGAWIGKIPSNKYLVEGSQWVEIDERLEQQPGETTLVKKYASCFFGTDLAARLISRRIDTVIIVGCTTSGCVRATAVDACSYGFHTIVVEDAVGDRAALPHTASLFDIDAKYGDVVGLDEASAYLESVPSSS",
+          "unpairedMsaPath": "msa/protein-monomer/f22b6bf6cfb69b378cb418499ec5853c/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/f22b6bf6cfb69b378cb418499ec5853c/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

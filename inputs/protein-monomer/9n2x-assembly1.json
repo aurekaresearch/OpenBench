@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9n2x-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "KKITVNKTWAETLTFKSYSVSKFRNGKEVPLKPEDYSVSATANTDVTSFTVTAVLEDNETFVFKATFEKDGKTYELTITVTKTPDGVTVIERVSGYAPEFTSATLDGQPYTVTQTTWSSNGYNYASITLPAAENITVTIKNNK",
+          "unpairedMsaPath": "msa/protein-monomer/1e5279c6cfc70c903dc2f083c7bbf483/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/1e5279c6cfc70c903dc2f083c7bbf483/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

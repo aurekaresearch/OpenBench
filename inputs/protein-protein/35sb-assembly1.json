@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "35sb-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "GPDKILALRLAGELVKALYYALQLGDEESIEELLKSLKRLAEKYPILKPIYEKALEMLSLSEEERKKTLEEILKELEELIEEL",
+          "unpairedMsaPath": "msa/protein-protein/a687e06211e31df71041ab843641e89d/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/a687e06211e31df71041ab843641e89d/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

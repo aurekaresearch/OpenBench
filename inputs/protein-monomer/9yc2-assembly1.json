@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9yc2-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GPMDRCKHVGRLRLAQDHSILNPQKWCCLECATTESVWACLKCSHVACGRYIEDHALKHFEETGHPLAMEVRDLYVFCYLCKDYVLNDNPEGDLKLLRSSLLAVR",
+          "unpairedMsaPath": "msa/protein-monomer/348df445975dc0bcbeb41c757cf0422e/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/348df445975dc0bcbeb41c757cf0422e/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

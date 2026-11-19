@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9urd-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MASWSHPQFEKGSSHHHHHHSSGSGGGGGENLYFQGSKKYIIYSLIITLTCGLGACNNDEGVDKANSIFSTEEVERSPFDNWILGNYTHPYNIALKYRMEDNESDMTHVLAPADYKKSVVLAKIIKHVWLEAYDEATGNPDFLRQYIPKTIHFIGSPAYEDNGTMVLGTAEGGMKITLYNVNDINPDKIDINLLNEYYFQTMHHEFAHILHQTKNYDPAFDRITENAYIGSDWYMVGANRNAWQQGFVTSYAMSESREDFVENIAVYVTNTEDYWNNMLQNAGESGRALIKQKFEIVYSYMEQTWGINLDELRDIVLRRQDDIANGNVDLSIIE",
+          "unpairedMsaPath": "msa/protein-monomer/8ba4c85404a9b48882678343f2a6f45f/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/8ba4c85404a9b48882678343f2a6f45f/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

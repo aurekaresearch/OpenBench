@@ -1,0 +1,54 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9qv6-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 12,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L"
+          ],
+          "sequence": "SNAMAGNFANARVEKLIRQAGAQRVSADAVDKMNEILTDWGKNIAKYAVEIARHSGRKTVKENDIKLAAQK",
+          "unpairedMsaPath": "msa/protein-dna/f582906b7826cf55d2c95ba245b91193/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/f582906b7826cf55d2c95ba245b91193/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "M"
+          ],
+          "sequence": "CTGGAGAATCCCGGTGCCGAGGCCGCTCAATTGGTCGTAGACAGCTCTAGCACCGCTTAAACGCACGTACGCGCTGTCCCCCGCGTTTTAACCGCCAAGGGGATTACTCCCTAGTCTCCAGGCACGTGTCAGATATATACATCCTGTCTGGAGAATCCCGGTGCCGAGGCCGCTCAATTG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "N"
+          ],
+          "sequence": "CAATTGAGCGGCCTCGGCACCGGGATTCTCCAGACAGGATGTATATATCTGACACGTGCCTGGAGACTAGGGAGTAATCCCCTTGGCGGTTAAAACGCGGGGGACAGCGCGTACGTGCGTTTAAGCGGTGCTAGAGCTGTCTACGACCAATTGAGCGGCCTCGGCACCGGGATTCTCCAG"
+        }
+      }
+    ]
+  }
+]

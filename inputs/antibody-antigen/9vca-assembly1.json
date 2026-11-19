@@ -1,0 +1,47 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vca-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "QTDMSRKAFVFPKESDTSYVSLKAPLTKPLKAFTVCLHFYTELSSTRGYSIFSYATKRQDNEILIFWSKDIGYSFTVGGSEILFEVPEVTVAPVHICTSWESASGIVEFWVDGKPRVRKSLKKGYTVGAEASIILGQEQDSFGGNFEGSQSLVGDIGNVNMWDFVLSPDEINTIYLGGPFSPNVLNWRALKYEVQGEVFTKPQLWP",
+          "unpairedMsaPath": "msa/antibody-antigen/6a9533cd137e500468a6b33070c86a8b/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/6a9533cd137e500468a6b33070c86a8b/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "QVQLQQSGTELSKPGTGVKMSCKASGYTFISYWMHWVKQRPGQGLEWIGYINPSTDSTDYNQNFKDKATMTVDKSSTTAYMQLSTITSEDSAVYFCARSHYLSWDFDVWGAGTTVTVSSAKTTPPSVYPLAPGSAAQTNSMVTLGCLVKGYFPEPVTVTWNSGSLSSGVHTFPAVLQSDLYTLSSSVTVPSSTWPSETVTCNVAHPASSTKVDKKIVPRDCGCKPCICTVPEVSSVFIFPPKPKDVLTITLTPKVTCVVVDISKDDPEVQFSWFVDDVEVHTAQTQPREEQFNSTFRSVSELPIMHQDWLNGKEFKCRVNSAAFPAPIEKTISKTKGRPKAPQVYTIPPPKEQMAKDKVSLTCMITDFFPEDITVEWQWNGQPAENYKNTQPIMDTDGSYFVYSKLNVQKSNWEAGNTFTCSVLHEGLHNHHTEKSLSHSPGK",
+          "unpairedMsaPath": "msa/antibody-antigen/7b55eeeaebfdadebf7847d2cf8f8fd51/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/7b55eeeaebfdadebf7847d2cf8f8fd51/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "DIVLTQSPASLAVSLGQRATISCRASQSVSTSGYSYIHWYQQKPGHPPKLLIKYASNLDSGVPARFSGSGSGTDFTLNIHPVEEEDAATYFCQHSWELPLTFGAGTKLEIKRADAAPTVSIFPPSSEQLTSGGASVVCFLNNFYPKDINVKWKIDGSERQNGVLNSWTDQDSKDSTYSMSSTLTLTKDEYERHNSYTCEATHKTSTSPIVKSFNRNEC",
+          "unpairedMsaPath": "msa/antibody-antigen/2ef283a32aac99cb77c620a734bc5787/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/2ef283a32aac99cb77c620a734bc5787/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9lj4-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MAVVYVISKSGKPLMPTTRCGHVRILLKEGKARVVERKPFTIQLTYESAEETQPLVLGIDPGRTNIGMSVVTESGESVFNAQIRTRNKDVPKLMKDRKQYRMAHRRLKRRCKRRRRAKAAGTAFEEGEKQRLLPGCFKPITCKSIRNKEARFNNRKRPVGWLTPTANHLLVTHLNVVKKVQKILPVAKVVLELNRFSFMAMNNPKVQRWQYQRGPLYGKGSVEEAVSMQQDGHCLFCKHGIDHYHHVVPRRKNGSETLENRVGLCEEHHRLVHTDKEWEANLASKKSGMNKKYHALSVLNQIIPYLADQLADMFPGNFCVTSGQDTYLFREEHGIPKDHYLDAYCIACSALTDAKKVSSPKGRPYMVRQFRRHDRQACHKANLNRRYYMGGKLVATNRHKAMDQKTDSLEEYRAAHSAADVSKLTVKHPSAQYKDMSRIMPGSILVSGEGKLFTLRRSEGRNKGQVNYFVSTEGIKYWARKCQYLRNNGGLQIYVKNKGGSGKRPAATKKAGQAKKKKGWSHPQFEKGGGSGGGSGGSAWSHPQFEK",
+          "unpairedMsaPath": "msa/protein-dna/b8e8a11390c8324935b6f0a6fb0094c9/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/b8e8a11390c8324935b6f0a6fb0094c9/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "UAUCAUGGCCGAGGCUCUUCCAACUGAGGGUUGAAAGAGCACAGGCUGAGACAUUCGUAAGGCCGAAAGGCCGGACGCACCCUGGGAUUUCCCCAGUCCCCGGAACUGCAUAGCGGAUGCCAGUUGAUGGAGCAAUCUAUCAGAUAAGCCAGGGGGAACAAUCACCUCUCUGUAUCAGAGAGAGUUUUAC"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "TCAACCACCTAC"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "TAGGTGGTTGTCGGCCA"
+        }
+      }
+    ]
+  }
+]

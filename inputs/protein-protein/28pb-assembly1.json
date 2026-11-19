@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "28pb-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "TADACLSCHSSKDIGKSGSHLYIDAAKYSRTTHAIIGCTSCHDSVTASHPDDGIRPSRAACRECHSPIAKEYTASLHANNAGCADCHDPHTVKPPALTSGRDMNAMCAKCHETAKMIEVHSKWLPQADLHIDALPCITCHTGSENYVITLYIQKRAGEKPQSDFKTATYEDLSRTLPGDRDVKAIIDTNNDNYISLAELRSFNKSARHDGMRLWGMMTPEKVTHTYQILDNRWDCTFCHASGPRAMQTSFVAFPDKNGTYSRVAVEKGAVLDLLYGTP",
+          "unpairedMsaPath": "msa/protein-protein/1d7c28a0230245446d618ecd38da28f7/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/1d7c28a0230245446d618ecd38da28f7/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

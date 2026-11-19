@@ -1,0 +1,52 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9jfp-assembly1",
+    "sequences": [
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "TCGGTACGGACTTTCGGCGTCGTGTTTGAAAATCCCG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "CGGGATTTTCCTCGTGGACGCCGAAAGTCCGTACCGA"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "GGUGGGAGGUCUGUCCCCACCAUGGGGUGCGAACCUUGUGUGCUCAUCAUUGCCGUGAGCGUUCGCACGUCCAAACGACCAUAUCAUCGUUGCCCUGCGACCAUUCAGCGGCAAUCAAGACGCAGGCAUGAUAUGUAACCAUGCAUUGGAAAGUGCAUGGAGCAGAAGAAACACAGUAGGAGGGACUUACGUUAG"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "sequence": "SLNAKKIRLENYAMKMRLYPSPTQAEQMDKMFLALRLAYNMTFHEVFQQNPAVCGDPDEDGNVWPSYKKMANKTWRKALIDQNPAIAEAPAAAITTNNGLFLSNGQKAWKTGMHNLPANKADRKDFRFYSLSKPRRSFAVQIPPDCIIPSDTNQKVARIKLPKIDGAIKARGFNRKIWFGPDGKHTYEEALAAHELSNNLTVRVSKDTCGDYFICITFSQGKVKGDKPTWEFYQEVRVSPIPEPIGLDVGIKDIAILNTGTKYENKQFKRDRAATLKKMSRQLSRRWGPANSAFRDYNKNIRAENRALEKAQQDPGSSGVGPEAPVLKSVAQPSRRYLTIQKNRAKLERKIARRRDTYYHQVTAEVAGKSSLLAVETLRVKNMLQNHRLAFALSDAAMSDFISKLKYKARRIQVPLVAIGTFQPSSQTCSVCGSINPAVKNLSIRVWTCPNCGTRHNRDINAAKNILAIAQNMLEKKV",
+          "unpairedMsaPath": "msa/protein-rna/3c14c4c7b62df91b046a691b4619882e/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/3c14c4c7b62df91b046a691b4619882e/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

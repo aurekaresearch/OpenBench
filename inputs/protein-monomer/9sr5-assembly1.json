@@ -1,0 +1,31 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9sr5-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 200,
+              "ptmType": "CCD_OCS"
+            }
+          ],
+          "sequence": "MMHTVISAVANIWTAPDSPRPSDQFMLQPTVMIRDWLERMTYDERLGLCTDNVIQTQVLFGEKVLVTAEQGEWVSVIVPSQPSRKDPRGYPGWMKKYQLEKTKPIHTQHDVMISKPAAFLYRSNGEKEIELSFLTVLPLIAKENGYFKVSTVFGERFVRQSDAVPVSQQKGTAEDIIQTGAFFLGLPYLWGGISGFGFDCSGFMYSIFKANGYSIPRDAGDQAKAGKGVPLDDMKAGDLLFFAYEEGKGAIHHVGLYVGGGKMLHSPKTGKSIEILTLTETIYEKELCAVRRCFSEENLYFQGLEHHHHHH",
+          "unpairedMsaPath": "msa/protein-monomer/c260f85f9ed41db694447fd298e8f21f/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/c260f85f9ed41db694447fd298e8f21f/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

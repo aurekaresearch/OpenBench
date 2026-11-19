@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "8vni-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MSTLSDQRREAVAASIAQMKQAIGGAEPTREKLDAVLDALQGLAARTDYWGAADFPAPEAGEHQARYLIAEDPDQSYALYLNVMRPGKKIVPHNHTTWACIAAVEGTEHNRVYERRDDGSMPGVGKLEETALVVVAPGKGIALMPEDIHSVEIQGEQVIRHLHMYGRALETLNQRTAYDLDAGTYQTMGIGVQTRR",
+          "unpairedMsaPath": "msa/protein-monomer/82549183a4bba24ee0fc219e0f58bb86/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/82549183a4bba24ee0fc219e0f58bb86/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

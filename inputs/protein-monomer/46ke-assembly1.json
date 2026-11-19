@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "46ke-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MTCTIDLQILQGKTFEFAFRWADPIKLYKPITGATATAPVVLTVPGHGLSDGWPFEVQSVKAPPELNTQPGQFHLAKVLTPDSLELNDVNGIGFKAFGGAGTIVFYTPADLTGLAARFAIRRTPGDADALLTGNTTDGRVVIDIPTSTISMLIGADVTATLDWNKALYDLELYDPTDVSVVYPVGSGRVTVTAEVAK",
+          "unpairedMsaPath": "msa/protein-monomer/2df780a006ccc4159f1467dcd0660300/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/2df780a006ccc4159f1467dcd0660300/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

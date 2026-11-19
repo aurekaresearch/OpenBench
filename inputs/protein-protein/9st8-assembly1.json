@@ -1,0 +1,36 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9st8-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "DIFKSESLEQLIFSLKNISNIMFDEETLYKKTHIKNQLYKNLFLNNHNSLIEDIIEKSPANLLTKLANKYFQILLDIATMINIQLVNNDLKLIYPFLEFEKYFNQVTLEVSKKSQFNQEKLEKNILNIIRIYPLLNQNYQLLKDMEQKIIDDKNSIESNDIYKLSVFVNSKSFSTYKEIKTLTSNDHKDINIHKSLVKVNKNICNAKHKNAAETAKELTMVLLSKSYYMNPTLIGVYNLPPISNSFFLVLKEITNNPIIDSIKSKQEAYWKI",
+          "unpairedMsaPath": "msa/protein-protein/f31be00290a1a71e954ffbf6b12824bc/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/f31be00290a1a71e954ffbf6b12824bc/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "MLNIINDSLKRLEEITTDDESISSSVSDLVADLNNIKILLAQSKLHLSSNASILTT",
+          "unpairedMsaPath": "msa/protein-protein/a6e7bb5817307d7b5ce9755c949c0409/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/a6e7bb5817307d7b5ce9755c949c0409/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9egc__1__1.A_1.B__1.H_1.I",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MGSSHHHHHHSQDPMKHRYSRNRLYLNPKEQELIKDYPILLGGAGIGSIIAECALRFGFENITIVDGDHVENSNLNRQNYTEGDVSVNKVEAIKARLKSINSKANIKIHNCFLTSDNVEEYIKGHKVAINALDFSSEVPLLFDEICQKMDIPVLHPYNLGWGGLVTIISPKGLSLNSIAKKGEKFNELNVVEYVSSYMRFWGKPQEWLEDIIYKFKNEREKLSPPQLSVGSWVVAGMCTHILFNIATQREIKSFPEFYLSSLEG",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/d71f256bb312a9d605f83a43ecfc817b/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/d71f256bb312a9d605f83a43ecfc817b/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MGSSHHHHHHSQDPMKHRYSRNRLYLNPKEQELIKDYPILLGGAGIGSIIAECALRFGFENITIVDGDHVENSNLNRQNYTEGDVSVNKVEAIKARLKSINSKANIKIHNCFLTSDNVEEYIKGHKVAINALDFSSEVPLLFDEICQKMDIPVLHPYNLGWGGLVTIISPKGLSLNSIAKKGEKFNELNVVEYVSSYMRFWGKPQEWLEDIIYKFKNEREKLSPPQLSVGSWVVAGMCTHILFNIATQREIKSFPEFYLSSLEG",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/d71f256bb312a9d605f83a43ecfc817b/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/d71f256bb312a9d605f83a43ecfc817b/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCCCCCCC(=O)N[C@@H]1CCCCNC1=O",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "O=C(O)/C=C\\C(=O)O",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCCCCCCC(=O)N[C@@H]1CCCCNC1=O",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "O=C(O)/C=C\\C(=O)O",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      }
+    ]
+  }
+]

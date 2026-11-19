@@ -1,0 +1,72 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9gjy__1__1.A_1.B__1.G_1.N",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MGSSHHHHHHSSGLVPRGSHMMTEQSKKQEILDAFQFRHATKEFDPDRKISDEDFQFILEAGRLSPSSVGLEPWQFVVVQNKELREKLRQVSWGAQGQLPTASHFVLLLGRTAKEMRRDSGYVADQLKHVKKMPEDIIENMLKEDGVLESFQDGDFHLYESDRAMFDWVSKQTYIALANMMTAAALIGIDSCPIEGFNYDKVHDILEKEGVLEDGRFDISVMAAFGYRVKEPRPKTRRALDQIVKWVE",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/f382392c10672384c185fbbe1f1ec9fe/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/f382392c10672384c185fbbe1f1ec9fe/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MGSSHHHHHHSSGLVPRGSHMMTEQSKKQEILDAFQFRHATKEFDPDRKISDEDFQFILEAGRLSPSSVGLEPWQFVVVQNKELREKLRQVSWGAQGQLPTASHFVLLLGRTAKEMRRDSGYVADQLKHVKKMPEDIIENMLKEDGVLESFQDGDFHLYESDRAMFDWVSKQTYIALANMMTAAALIGIDSCPIEGFNYDKVHDILEKEGVLEDGRFDISVMAAFGYRVKEPRPKTRRALDQIVKWVE",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/f382392c10672384c185fbbe1f1ec9fe/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/f382392c10672384c185fbbe1f1ec9fe/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(C[C@H](O)[C@H](O)[C@H](O)COP(=O)(O)O)c2cc1C",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CC(=O)[O-]",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "OCC(O)CO",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(C[C@H](O)[C@H](O)[C@H](O)COP(=O)(O)O)c2cc1C",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      }
+    ]
+  }
+]

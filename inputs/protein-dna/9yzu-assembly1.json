@@ -1,0 +1,56 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9yzu-assembly1",
+    "sequences": [
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "CCTGTGACAAATTGCCCTCAGATGAGTCATA"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "GTATGACTCATCTGAGGGCAATTTGTCACAG"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "MRGSHHHHHHGSMAETAVINHKKRKNSPRIVQSNDLTEAAYSLSRDQKRMLYLFVDQIRKSDGTLQEHDGICEIHVAKYAEIFGLTSAEASKDIRQALKSFAGKEVVFYRPEEDAGDEKGYESFPWFIKPAHSPSRGLYSVHINPYLIPFFIGLQNRFTQFRLSETKEITNPYAMRLYESLCQYRKPDGSGIVSLKIDWIIERYQLPQSYQRMPDFRRRFLQVCVNEINSRTPMRLSYIEKKKGRQTTHIVFSFRDITSMTTG",
+          "unpairedMsaPath": "msa/protein-dna/78d2155b41fe8741700e287cf3c40482/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/78d2155b41fe8741700e287cf3c40482/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 3,
+          "id": [
+            "D",
+            "E",
+            "F"
+          ],
+          "sequence": "DPAALKRARNTEAARRSRARKLQRMKKQC",
+          "unpairedMsaPath": "msa/protein-dna/d0e4ff5337bc6ab35e48b073d35c2ebb/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/d0e4ff5337bc6ab35e48b073d35c2ebb/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

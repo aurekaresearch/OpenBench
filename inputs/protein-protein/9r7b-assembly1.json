@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9r7b-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "GANAMAMASLINLTPHDVTVFDGDTPIASWPASGTFARIMEDVAAPAPMDTDQGFVPVSQVRYADTVDGLPGKVSGTAYLVSRVLAAAVPRDDLYFPLDEVRDATGRIIGCRALGQFDHSHTEERGDA",
+          "unpairedMsaPath": "msa/protein-protein/9d5df0009d4cd981db7784f5b3b359a6/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/9d5df0009d4cd981db7784f5b3b359a6/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

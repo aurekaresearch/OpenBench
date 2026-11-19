@@ -1,0 +1,47 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9lry-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MIINHNVSAIFAHRTLKSNDANLSKDIEKLSSGMRINKAGDDASGLAVSEKMRTQIAGLRRAEQNTEDGMSLIQTAEGYLQETHEIVQRVRVLAVQAANGIYSEEDRQQIQVEVSQLVDEIDRIASQAEFNKMKLLTGAFARLNPTASMWFHIGANMHQRERVYIETMNTAALGLRNPTVLTFISLSTAGKANSVIGLCDDALRVISKQRADLGAYYNRMEHAAKGLMNAYENTQASESRIRDTDMAEQMTSFTRYQILTQAATSMLAQANMKSQSVMRLLQ",
+          "unpairedMsaPath": "msa/protein-protein/d0cc497b0a8f7fd2aff8b1041c11f729/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/d0cc497b0a8f7fd2aff8b1041c11f729/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "MKIKLILPILLLSIGVFAQTGSSETGSTSAGIDPSQSGKSMADTEKELDDNISEVNKRLRLHTVLFKMKVRTLPHKTVLYKGKPSADGERCEAADKQEAQDNTCLHLEVFDFVGSEDGKSSKNLGAKFKKMELFFEGSNNADPDPRKEQPRNLTKIRTYIYQNNFLLEDKVISVIADVAPNGEPAHNDKIELFYQHDDYPVWGTPETPSEKGVGKYILSNVENTKSNPIRNNFKKQFYFKNLDYFDKLFTKIFDYNDRDSNKHYKKNVEALKGSLKY",
+          "unpairedMsaPath": "msa/protein-protein/3fc6fef9470c656c1c6d30742be63ce4/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/3fc6fef9470c656c1c6d30742be63ce4/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "MKIIKYLLILQLVSGFSVLFAQTQPANAQESQAAKDQVDELLKGELVPENDDAELTEDQKKKKKEIMEQESLWKNPDFKGYNKTFQELHQLSKTFANNQFRLALSNYQSGVNTIMKNRDWVEQYRKEEAEKKRLDEKWYWQKVDRKAREERVVYREKMKAKQDALNYFSKAINHLDEIKNPDLRERPEFKRLLSDVYRSWIMAEYDLQNLPQTIPILELYIEIDDNEKEYPAHKYLASAYSFEENMIKKTKGPDDMLFKYRYKKNVHLLRATELKYGKDSPEYKHIVNVINRDEVISVAQ",
+          "unpairedMsaPath": "msa/protein-protein/7f4b04957f3c3973cd839e794f29b31c/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/7f4b04957f3c3973cd839e794f29b31c/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

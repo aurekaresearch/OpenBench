@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9wyy-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SMIFMSYRKIEKRFRKLGGKVVRIRGSHAQWMIPGVEGVVTVPYSKDIPVGTLRSIEKQVGIKF",
+          "unpairedMsaPath": "msa/protein-monomer/f47a776e63a0b51f5107a7b0343ac026/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/f47a776e63a0b51f5107a7b0343ac026/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

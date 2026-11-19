@@ -1,0 +1,44 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9vqi-assembly1",
+    "sequences": [
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "AGAGAGAAAATGAGAAGATG"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "CATCTTCTCATTTTCTCTCT"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "C",
+            "D"
+          ],
+          "sequence": "DDPWKIKKTLTDSDLGILSRLLLAADLVKKQILPMLGAYHARAAETEGTPVRVWDMDTKSMHQLVLKRWSSSKSYVLIGKWNQDFVRRRDLRKGDEIGFHWDPYNCVFNFCVLKQAMPEN",
+          "unpairedMsaPath": "msa/protein-dna/306e47980dcc021992dad217b700e59f/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/306e47980dcc021992dad217b700e59f/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

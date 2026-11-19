@@ -1,0 +1,90 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9gzv__1__1.A_1.B__1.C_1.I_1.K_1.N",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "SMERIEGASVGRCAASPYLRPLTLHYRQNGAQKSWDFMKTHDSVTVLLFNSSRRSLVLVKQFRPAVYAGEVERRFPGSLAAVDQDGPRELQPALPGSAGVTVELCAGLVDQPGLSLEEVACKEAWEECGYHLAPSDLRRVATYWSGVGLTGSRQTMFYTEVTDAQRSGPGGGLVEEGELIEVVHLPLEGAQAFADDPDIPKTLGVIFGVSWFLSQVAPNLDLQ",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/ba0d22cf354afd00252b0e1c34f2adfe/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/ba0d22cf354afd00252b0e1c34f2adfe/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "SMERIEGASVGRCAASPYLRPLTLHYRQNGAQKSWDFMKTHDSVTVLLFNSSRRSLVLVKQFRPAVYAGEVERRFPGSLAAVDQDGPRELQPALPGSAGVTVELCAGLVDQPGLSLEEVACKEAWEECGYHLAPSDLRRVATYWSGVGLTGSRQTMFYTEVTDAQRSGPGGGLVEEGELIEVVHLPLEGAQAFADDPDIPKTLGVIFGVSWFLSQVAPNLDLQ",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/ba0d22cf354afd00252b0e1c34f2adfe/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/ba0d22cf354afd00252b0e1c34f2adfe/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CN1CCC(n2nc(-c3cccc(Oc4ccccc4)c3)c3c(N)ncnc32)CC1",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CN1CCC(n2nc(-c3cccc(Oc4ccccc4)c3)c3c(N)ncnc32)CC1",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Mg+2]",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CS(C)=O",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CN1CCC(n2nc(-c3cccc(Oc4ccccc4)c3)c3c(N)ncnc32)CC1",
+          "count": 1,
+          "id": [
+            "G"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CC(=O)O",
+          "count": 1,
+          "id": [
+            "H"
+          ]
+        }
+      }
+    ]
+  }
+]

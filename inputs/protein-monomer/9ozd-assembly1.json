@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9ozd-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GSTEVNSHNVIEYGAIANDGEDDSNAFQHALNQLNNGDALIIPTGEYQICKTLYLKEKNNIEIIGSINSKLKKCRSFNGEYLLHITYTQNLKIQGLSFEGLNNGDLKPLWGEQGVYLGSTKGTLVVQNQFARFGDAALRMTTASQDHSIPPGSMAIKVSHNHFEDCAQVTTTQATAGTEMHGTQDIIIDNNQFNACKLKLSARADTRGAKVINNQFENINGTSNEVSYYSDVYYSGNTFLNINGFAINIYPNSRTEQNVQWGNISIIGNTFDAIQQGIRLQSFSINDPNNQSIKNIQISDNTFENIYFGNEIESQYKAIIRTNSQDNLVSFEHVNITGNQYQLTPYSKFISIDHKSKLINIQNNERIYSDHYYIQHFIKD",
+          "unpairedMsaPath": "msa/protein-monomer/e76ba1e63a80a9899c9c09c07384bf7b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/e76ba1e63a80a9899c9c09c07384bf7b/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

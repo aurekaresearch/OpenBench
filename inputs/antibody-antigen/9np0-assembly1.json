@@ -1,0 +1,48 @@
+[
+  {
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GPLGSMAMVSEFLKQAWFIENEEQEYVQTVKSSKGGPGSAVSPYPTFNPSSDVAALHKAIMVKGVDEATIIDILTKRNNAQRQQIKAAYLQETGKPLDETLKKALTGHLEEVVLALLKTPAQFDADELRAAMKGLGTDEDTLIEILASRTNKEIRDINRVYREELKRDLAKDITSDTSGDFRNALLSLAKGDRSEDFGVNEDLADSDARALYEAGERRKGTDVNVFNTILTTRSYPQLRRVFQKYTKYSKHDMNKVLDLELKGDIEKCLTAIVKCATSKPAFFAEKLHQAMKGVGTRHKALIRIMVSRSEIDMNDIKAFYQKMYGISLCQAILDETKGDYEKILVALCGGN",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/922208221edc0eb1df1fdd6950c117f6/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/922208221edc0eb1df1fdd6950c117f6/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "EVKLVESGGGLVQPGGSLRLSCAISGFTFSDFYMEWVRQFPGKRLEWVAASKNKANDYTTEYSASVKGRFIVSRDTSQSILYLQMNALRAEDTAIYYCAAGGYDEGVGWYFDVWGAGTTVTVSSAAKTTPPSVYPLAPGSAAQTNSMVTLGCLVKGYFPEPVTVTWNSGSLSSGVHTFPAVLQSDLYTLSSSVTVPSSTWPSETVTCNVAHPASSTKVDKKIVPR",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/532081ce6bd244935d866a30befa1feb/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/532081ce6bd244935d866a30befa1feb/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "DIVMTQSQKFMSTSVGDRVSVTCKASQNVGTNVAWFQQKPGLSPKPLIYSASYRYRGVPDRFTGSASGTDFTLTISSVQSEDLAEYFCQQYNNYPYTFGGGTRLEINRADAAPTVSIFPPSSEQLTSGGASVVCFLNNFYPKDINVKWKIDGSERQNGVLNSWTDQDSKDSTYSMSSTLTLTKDEYERHNSYTCEATHKTSTSPIVKSFNRN",
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "unpairedMsaPath": "msa/antibody-antigen/0e40eecca54cf26299f7c35294af0bcb/non_pairing.a3m",
+          "pairedMsaPath": "msa/antibody-antigen/0e40eecca54cf26299f7c35294af0bcb/pairing.a3m"
+        }
+      }
+    ],
+    "assembly_id": "1",
+    "name": "9np0-assembly1",
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ]
+  }
+]

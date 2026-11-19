@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9j3g-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MGSSHHHHHHSSGLVPRGSHMSEEIKRVIDEVDGIRKGLDRSADPRDPEFLDGLLKQMEKSPHLREQPIARALMEDLRGFAEEPRLLRTKAHVNTRRDQHIFSYFDASYFPRLSLDYLTYETLPTHPLLAERYASNTMPVNITACSEGFESRVVVALFPENHLDGRQDPDDLIFYFINKFVERHNRITRKMIDAVMAPGSFPLIQGADDDLVESASAWWVRLHEFHHRQGDMPIPDYLHAKKLKPLAGLEELRVDVSSMLVCLNDDELPADEARRAYEYMLAERLLRYAVEGIPRPNYDAVASQLLFNYLSENGGIALRGDRIHLAPELPAVLARFLDEIVTVERRIHSESVADVKAGLLAFTNAYTDYDEAAKDYRHIPFFADVKQRLGV",
+          "unpairedMsaPath": "msa/protein-monomer/c742e244fdcdaad357bcba9a827c30ea/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/c742e244fdcdaad357bcba9a827c30ea/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

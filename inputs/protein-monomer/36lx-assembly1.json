@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "36lx-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SGGSEECKKKIEEMLEEAKKKDPALYEYLTKSLDILEKMGASCEDKLFNLEVVSQVYLNTENLYFQG",
+          "unpairedMsaPath": "msa/protein-monomer/fde69eb445c4be6d86375074bf42a3e8/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/fde69eb445c4be6d86375074bf42a3e8/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

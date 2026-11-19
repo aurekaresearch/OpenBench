@@ -1,0 +1,72 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9yfk__1__1.B__1.E_1.F",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MAHHHHHHVVRKAVFPVAGMGTRFLPATKAMPKEMLPVVDKPLIQYAVEEAVAAGITDLIFVTGRNKRAIEDHFDAAPELETDLEAKGKHELLALVRDILPAHVNCLYIRQSAPLGLGHAVLTAAPAVGNEPFAVLLADDLIDADTPVLKQLIDVAVARQGSVLGVQEVPREDTRKYGIVASQPVDARTERVTHIVEKPAPEQAPTTLAVVGRYVLEAAIFDHLRATTVGAGNEIQLTDGIAALLRERDVYAHRYDGKRYDCGSKAGMFQATVALGRKYHGLIPE",
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/4e617130e5cb31fd101c8bc34fd5d508/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/4e617130e5cb31fd101c8bc34fd5d508/non_pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "sequence": "MAHHHHHHVVRKAVFPVAGMGTRFLPATKAMPKEMLPVVDKPLIQYAVEEAVAAGITDLIFVTGRNKRAIEDHFDAAPELETDLEAKGKHELLALVRDILPAHVNCLYIRQSAPLGLGHAVLTAAPAVGNEPFAVLLADDLIDADTPVLKQLIDVAVARQGSVLGVQEVPREDTRKYGIVASQPVDARTERVTHIVEKPAPEQAPTTLAVVGRYVLEAAIFDHLRATTVGAGNEIQLTDGIAALLRERDVYAHRYDGKRYDCGSKAGMFQATVALGRKYHGLIPE",
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "pairedMsaPath": "msa/protein-ligand/4e617130e5cb31fd101c8bc34fd5d508/pairing.a3m",
+          "unpairedMsaPath": "msa/protein-ligand/4e617130e5cb31fd101c8bc34fd5d508/non_pairing.a3m"
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "O=c1ccn([C@@H]2O[C@H](CO[P@](=O)(O)O[P@](=O)(O)O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)[C@@H](O)[C@H]2O)c(=O)[nH]1",
+          "count": 1,
+          "id": [
+            "C"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Mg+2]",
+          "count": 1,
+          "id": [
+            "D"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "O=c1ccn([C@@H]2O[C@H](CO[P@](=O)(O)O[P@](=O)(O)O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)[C@@H](O)[C@H]2O)c(=O)[nH]1",
+          "count": 1,
+          "id": [
+            "E"
+          ]
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "[Mg+2]",
+          "count": 1,
+          "id": [
+            "F"
+          ]
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9r2i-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "GHMGDREQLLQRARLAEQAERYDDMASAMKAVTELNEPLSNEDRNLLSVAYKNVVGARRSSWRVISSIEQKTMADGNEKKLEKVKAYREKIEKELETVCNDVLSLLDKFLIKNCNDFQYESKVFYLKMKGDYYRYLAEVASGEKKNSVVEASEAAYKEAFEISKEQMQPTHPIRLGLALNFSVFYYEIQNAPEQACLLAKQAFDDAIAELDTLNEDSYKDSTLIMQLLRDNLTLWTSDQQDEEAGEGN",
+          "unpairedMsaPath": "msa/protein-protein/43e2f5317ba46ef0dede8c80719f8de1/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/43e2f5317ba46ef0dede8c80719f8de1/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "GPLGSRKISTEDINKRLSLPADIRLPEGYLEKLTLNSPIFDKPLSRRLRRVSLSEIGFGKLETYIKLDKLGEGTYATVYKGKSKLTDNLVALKEIRLEHEEGAPCTAIREVSLLKDLKHANIVTLHDIIHTEKSLTLVFEYLDKDLKQYLDDCGNIINMHNVKLFLFQLLRGLAYCHRQKVLHRDLKPQNLLINERGELKLADFGLARAKSIPTKTYSNEVVTLWYRPPDILLGSTDYSTQIDMWGVGCIFYEMATGRPLFPGSTVEEQLHFIFRILGTPTEETWPGILSNEEFKTYNYPKYRAEALLSHAPRLDSDGADLLTKLLQFEGRNRISAEDAMKHPFFLSLGERIHKLPDTTSIFALKEIQLQKEASLRSSSMPDSGRPAFRVVDTEF",
+          "unpairedMsaPath": "msa/protein-protein/387f97c68cb21a25300c3652cfdf7ec0/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/387f97c68cb21a25300c3652cfdf7ec0/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "D"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 71,
+              "ptmType": "CCD_SEP"
+            },
+            {
+              "ptmPosition": 105,
+              "ptmType": "CCD_SEP"
+            },
+            {
+              "ptmPosition": 331,
+              "ptmType": "CCD_SEP"
+            }
+          ],
+          "sequence": "GPLGSMGNTTSCCVSSSPKLRRNAHSRLESYRPDTDLSREDTGCNLQHISDRENIDDLNMEFNPSDHPRASTIFLSKSQTDVREKRKSLFINHHPPGQIARKRASCSTIFLDDSTVSQPNLKYTIKCVALAIYYHIKNRDPDGRMLLDIFDENLHPLSKSEVPPDYDKHNPEQKQIYRFVRTLFSAAQLTAECAIVTLVYLERLLTYAEIDICPANWKRIVLGAILLASKVWDDQAVWNVDYCQILKDITVEDMNELERQFLELLQFNINVPSSVYAKYYFDLRSLAEANNLSFPLEPLSRERAHKLEAISRLCEDKYKDLRRSARKRAASADNLTLPRWSPAIIS",
+          "unpairedMsaPath": "msa/protein-protein/8a6b0a882e8082a5fc12a4813815458b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/8a6b0a882e8082a5fc12a4813815458b/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9sot-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MGSSHHHHHHSSGLVPRGSHMDFDYTDDAALYDAVCEDYREDVAFYVEEARGAGGPCLELGCGTGRLLTPAVEAGARVTGLDRSAAMLARARARVQALPAPLRERVDLREGDMVSFSLEARFALITVPFRTFLHLLTVEEQLAALTNIRRHLLPGGRLVLDFFEPSRLLAELLGNDGPSRGLLKQTGVVVSHPVTGNMLVEWASVTGDPVSQCFTRCLVYDELERSGQVVGRMYRRITSRFIFRSEFEHLLHRSGFQVEALQGSFDGGPVRPGGELIWRARAAP",
+          "unpairedMsaPath": "msa/protein-monomer/887bd77d44e02e7443f4757710560863/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/887bd77d44e02e7443f4757710560863/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

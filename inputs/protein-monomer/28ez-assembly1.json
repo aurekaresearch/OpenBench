@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "28ez-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GPMLAEEVTYGSKKYYSFNGDLIIKNHLPLIAAPNQQANGIIRNGDVFTLPCKNSTNKILRIWNGMEGLVTFQPNEQKSISWRASNPLMVLATDDSAHLDEQVYLQVLHRNMPHS",
+          "unpairedMsaPath": "msa/protein-monomer/ed517cfa5c6c40ff1d796dc721024f66/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/ed517cfa5c6c40ff1d796dc721024f66/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

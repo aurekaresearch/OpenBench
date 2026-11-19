@@ -1,0 +1,26 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9khp-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "sequence": "MTTDITEATGSTAVTEANGATTGITGPVPAGAAGAPGHEPLLGDPFGAVLRRCLDGGGTRDLAFEVVERDDGFIIAQDAGIYFAPPGEWPPTEQWAVERARGRVLDVGCGAGRHGLALREAGLDVLGVDSSPGAAEVARERGLDVLEARFTELPARLPDGAGPFDTFLLLGNGTGLLGTPAQARETLGALAEVAAPGAVILGDGLDVPVPPDRAAYERWNAERGRPEGFVRIRLRDRLLVGEWFDYAMISPDDLGRVLAGTRWDLASVERAGVRYLATLRLRD",
+          "unpairedMsaPath": "msa/protein-protein/b242e3ee18fe4b270f7d26c5966e702b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/b242e3ee18fe4b270f7d26c5966e702b/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

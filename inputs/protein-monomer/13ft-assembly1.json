@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "13ft-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GAEFSSDEEARSRLLVPPDTKRLFEITLRECLDQVEELMRDSRLGGWKTLRSANPTVLQGPDNYFLVRSEFNKFPALVLFNIAWKDMLKWNTQVIEGKMIAHLDNATDLYYSVSAPAMRGYISSRDFLDLRKIKLDSSADVYTGYFVSVESNLCPNNGNPKIVRGHNFPSMIRTLKDEAGVTYFEWLMKTDLKGGLPRRLVHSGMVNYFSEHVKRMNEFAETHYHCPP",
+          "unpairedMsaPath": "msa/protein-monomer/46ccd8853753ba66a447de3dee2ba064/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/46ccd8853753ba66a447de3dee2ba064/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

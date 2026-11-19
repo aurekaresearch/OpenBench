@@ -1,0 +1,38 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9lcu-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 4,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "sequence": "FELPSIPFPSPGSDEILFVVRDTTFNTKEPVNVKVSDFWTNRNVKRKPYKDVYGQSVFTTSGSKWLTSYMTVSINNKDYTMAAVSGYKDGFSSVFVKSGQIQLQHYYNSVADFVGGDENSIPSKTYLDETPEYFVNVEAYESGSGNILVMCISNKESYFECESQQ",
+          "unpairedMsaPath": "msa/protein-dna/530f72a9c0e418fb2183aefc3a342f23/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/530f72a9c0e418fb2183aefc3a342f23/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 2,
+          "id": [
+            "E",
+            "F"
+          ],
+          "sequence": "CTCTATAGAGA"
+        }
+      }
+    ]
+  }
+]

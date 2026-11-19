@@ -1,0 +1,35 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "30qm-assembly1",
+    "sequences": [
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GAGGCGUAUCGCUAAGCGAUCAUCCAGGUUUACUGGGUGCAACUAAUUUUGGGAGGCUUGUCCUCUAGUUUUACUAGUCUGUUUACAGGCGUUACACGAUUACUACCUUAGGCGCCUCAAUCUCCU"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "B",
+            "C"
+          ],
+          "sequence": "MSSSTIFKKHFSTKNLKRIYKDIVSLSPAVGVDNMSHETFWRLQKDEIKTIRRKSLSGDYRFNKYKLKLISKGRGKAPREISIPTIRDKIALRAICDFLQEIYQDVVSFDLPQDMVVSVKEAISEGEYDYFMKFDVANFYPSVVHEQLIKRLRAKIRDEKILSLISSAISSPTVSKPRRDDLPSNCGVPQGLSISNILAAIYLLNVDKYYRANKSIKYYRYVDDVMILCDSTDSEEITSDLLPRFKRLGLKVYDPKENPEKSSVGYLHKDDFGYLGYYFQRGIVTARKGSVENLRESLLSIFTGYKHSKLKSPEFLEWRVNLRVTGCIFQNKSKGWMYFFSEINDETLLHELDDFLKRLCVRFGVTIKLKSFVRAFFQIKYNRRETSYIPNFDEYDITKKTYVLTHYFNKSVKGMTDEEIDYHFNKRISKQVKDIETDVKDAGY",
+          "unpairedMsaPath": "msa/protein-protein/e8ffdaf205495cfcb416aa928f4ce4ba/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/e8ffdaf205495cfcb416aa928f4ce4ba/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

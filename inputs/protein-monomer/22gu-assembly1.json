@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "22gu-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "GSAKDPSELKYQEFDGFKSPESIFVDKNYVYVSNVGEKLEPLAKDNDGFISKLDKNGKVLEYKFLTHLNAPKGMMEIGKTLYVVDIDVLRGFDLKTKKEIFNLPIKGAIFLNDIEKLDDNTLLVSDTGTGLILKVDLKTKQYDELLKLDLAKFGGPNGLYLDRKKHKLFITGYHPDGVSGGVVMAYDLNTKELSIIKNEKESYDGIVPYKDGLLVSSWGNNLNGYIYNLDNVKSVKLELPLMKGPADIFIEGNILWIPKMVEGKIFKVELNK",
+          "unpairedMsaPath": "msa/protein-monomer/b622118c0bc926f5e8888817006b4fd2/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/b622118c0bc926f5e8888817006b4fd2/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

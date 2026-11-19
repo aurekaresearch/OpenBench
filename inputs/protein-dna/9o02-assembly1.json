@@ -1,0 +1,49 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9o02-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "ISEFGSIEKAISRRIKEFRQLGEKGEVEFDFRPFLDFSVKATIRTELAFCISTANSSATAGLKFQRLLGQGVGVKEALTLAGVRFHNRKAEYIREAFKSFKLVEKALEAESSKAREILLKIKGLGMSEASHFLRNVGREDVAIIDRHILRWLERQGYEVPGTMTAKKYLEVEKILMEISEERGESLAEMDLRIWAEMTGKVLK",
+          "unpairedMsaPath": "msa/protein-dna/2ca526591e6b86940d067a8435997b54/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-dna/2ca526591e6b86940d067a8435997b54/pairing.a3m"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "modifications": [
+            {
+              "basePosition": 8,
+              "modificationType": "CCD_8OG"
+            }
+          ],
+          "sequence": "TAGAGTCGACCTGCA"
+        }
+      },
+      {
+        "dnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "TGCAGGTCGACTCTA"
+        }
+      }
+    ]
+  }
+]

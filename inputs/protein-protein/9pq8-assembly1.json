@@ -1,0 +1,45 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9pq8-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SMQSKRDCELWCERVNPENKAALEAWVRETGIRLVQVNGQRKYGGPPPGWVGSPPPAGSEVFIGRLPQDVYEHQLIPLFQRVGRLYEFRLMMTFSGLNRGFAYARYSSRRGAQAAIATLHNHPLRPSCPLLVCRSTEKCELSVDGLPPNLTRSALLLALQPLGPGLQEARLLPSPGPAPGQIALLKFSSHRAAAMAKKALVEGQSHLCGEQVAVEWLKPDLKQRLRQQLVG",
+          "unpairedMsaPath": "msa/protein-protein/c01ab5b6ff9a68e5e0c0f756b2125312/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/c01ab5b6ff9a68e5e0c0f756b2125312/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "sequence": "SERLCSFCKHNGESRAIYQSHVLKDEAGRVLCPILRDYVCPQCGATRERAHTRRFCPLTG",
+          "unpairedMsaPath": "msa/protein-protein/bf18b096756d7029ca1fa5def4d2bc3c/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/bf18b096756d7029ca1fa5def4d2bc3c/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 1,
+          "id": [
+            "C"
+          ],
+          "sequence": "AUAUGAAUUU"
+        }
+      }
+    ]
+  }
+]

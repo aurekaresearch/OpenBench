@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9p4u-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "SNALRGEEIRNSQRKYDLYLTAKNTARSVEDTISELEDIDGIKNFELATGQYVSIRVSENKINKSKEDLIRKYYQKYKIGDSYEYDFSNNELIFPGDFAVKNKINNLVQGSFNKERAIEENGVILVRKSAIEENGKKGVVELTNYKVGDTVNCEYLDENALSKKVKVKILAITDEERLGLGYQNMGLQFITYDEVAKNLNLKLSKSLIFIDSGGSIKTKKEIEALANKNNFNFYDESASNESEKQDLKV",
+          "unpairedMsaPath": "msa/protein-monomer/e8c58312be7c3378f1ebc9db09b464a8/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/e8c58312be7c3378f1ebc9db09b464a8/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

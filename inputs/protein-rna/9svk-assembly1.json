@@ -1,0 +1,56 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9svk-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 8,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "sequence": "MDVFYPAVVTKEDGTYYGCIVDFDKFEDGEINYYATFGNSMEEAVSNLRETLGLHLADFLDVRKKFPEPSKVEDVKLKENQYLYILSVDPVYEVAKVTNALKKKTLTIPVWLDILAQEKNLNFSQILQKALKKELGIE",
+          "unpairedMsaPath": "msa/protein-rna/f86bb1dd1f5ef2eecc0ef59a557e8651/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/f86bb1dd1f5ef2eecc0ef59a557e8651/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 4,
+          "id": [
+            "I",
+            "J",
+            "K",
+            "L"
+          ],
+          "sequence": "MIFMSYRKIEKRFRKLGGKVVAIRGSHYQWMIPGVEGVVTVPYSKDIPVGTLRSIEKQVGIKF",
+          "unpairedMsaPath": "msa/protein-rna/e7a17785952796ef35f83d79616a3d0b/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-rna/e7a17785952796ef35f83d79616a3d0b/pairing.a3m"
+        }
+      },
+      {
+        "rnaSequence": {
+          "count": 2,
+          "id": [
+            "M",
+            "N"
+          ],
+          "sequence": "GAGCACCCCAAAAAUGAAGGGGACUAAAACACAAAUCUAUCUGAAUAAACUCUUCUUC"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9dcz-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 6,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 10,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 17,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 19,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 21,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 26,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 49,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 50,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 57,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 59,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 63,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 86,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 95,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 101,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 126,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 129,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 139,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 168,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 175,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 183,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 200,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 216,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 220,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 250,
+              "ptmType": "CCD_MLY"
+            }
+          ],
+          "sequence": "MSGSMKEEIKRLAEELKEKTKNEEIKRLAEEAAELAERSDDPEVLEVVKKALEEALKSKNEEKIELLLLVAVLVAEAGSVDAVEEKLEIALLALKLAEESKDPRIIRGALRAAIAALRSDDPLALKTVKEALERARASKDERLIRAILAAAYAFALLAVAGASAERLKEAEAIVKELIAAAEKGASPQELVLLVIEMMVKGMGVTMETHRSGNEVKVVIKGLHESQQEVLLEAVLFAAELMGVRVRIRFKGDTVTIVVREGSG",
+          "unpairedMsaPath": "msa/protein-protein/83d42f1f54d662b47f3394ad26204808/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/83d42f1f54d662b47f3394ad26204808/pairing.a3m"
+        }
+      },
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "B"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 83,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 87,
+              "ptmType": "CCD_MLY"
+            },
+            {
+              "ptmPosition": 106,
+              "ptmType": "CCD_MLY"
+            }
+          ],
+          "sequence": "MSGEEAVRRRFEELLREALAFRERTGGRRETLEHAVRLARELAEFAASHPEFNRQEAVLLAIELMVRAMGVTMETHRSGNEVKVVIKGLNIDEQVALYRAVRETSKIMGVETEIEVEGDTQTIVVREGSG",
+          "unpairedMsaPath": "msa/protein-protein/4dbc954e11b207539a8f94fc977290b6/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/4dbc954e11b207539a8f94fc977290b6/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

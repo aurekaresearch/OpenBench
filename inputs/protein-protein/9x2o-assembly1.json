@@ -1,0 +1,28 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9x2o-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 4,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "sequence": "APTLETIASLDLNNPTTYLSFITNIRTKVADKTEQCTIQKISKTFTQRYSYIDLIVSSTQKITLAIDMADLYVLGYSDIANNKGRAFFFKDVTEAVANNFFPGATGTNRIKLTFTGSYGDLEKNGGLRKDNPLGIFRLENSIVNIYGKAGDVKKQAKFFLLAIQMVSQAAQFKYISDKIPSEKYEEVTVDEYMTALENNWAKLSTAVYNSKPSTTTATKCQLATSPVTISPWIFKTVEEIKLVMGLLKSSHHHHHH",
+          "unpairedMsaPath": "msa/protein-protein/55edd806b6314f4abb0f1eb27caae697/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/55edd806b6314f4abb0f1eb27caae697/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9yjt-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 6,
+          "id": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "sequence": "GAMDTFQKIGFINTERIYLESKQARKIQKTLDSEFSARQDELQKLQREGLDLERQLAEGKLRNAKKAQAEEKWRGLVAAFRKKQAQFEEDYNLRRNEEFASLQQNANRVIVKIAKQEGYDVILQNVIYVNTQYDVTDSVIKEMNAR",
+          "unpairedMsaPath": "msa/protein-protein/5edee006dd161f39988442be18128715/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/5edee006dd161f39988442be18128715/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

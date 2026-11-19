@@ -1,0 +1,32 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "10yv-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 2,
+          "id": [
+            "A",
+            "B"
+          ],
+          "modifications": [
+            {
+              "ptmPosition": 148,
+              "ptmType": "CCD_PHD"
+            }
+          ],
+          "sequence": "AVSAITAMWLWDNSVDPSVDGRGTGYAFATPEQLVAFAAEHGLQTVHVSAPWASDEGPVATWMTDALVALDAAGVDAGVLGGDAPWLANPALAVQWMTAATHDRPVTHVQLDVEPWTLPSWQADTHAASLQWLHMLDVVRAAMPAGVDLSVDAPWWLTTVANPEGPGTLFDAVLARVDRIGIVTFIDHAQGETGILAKSAAGVAAAEAAATPYTIGLETDAPAVAGGAEFTFYDDGAAVLEAEAQEVAVALAGHAWFRGIAVQHYEAWRDLIDRG",
+          "unpairedMsaPath": "msa/protein-protein/3a3c428c670c9a9d1a4f89ad1a2b0952/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-protein/3a3c428c670c9a9d1a4f89ad1a2b0952/pairing.a3m"
+        }
+      }
+    ]
+  }
+]

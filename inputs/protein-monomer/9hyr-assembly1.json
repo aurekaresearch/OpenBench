@@ -1,0 +1,25 @@
+[
+  {
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "name": "9hyr-assembly1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "count": 1,
+          "id": [
+            "A"
+          ],
+          "sequence": "MHHHHHHSSGLEVLFQGPMTLIVTRDHAQWVHDMCRARAGNRYGYGGAFTLNPRDTTDCSGLVLQTAAWYGGRKDWIGNRYGSTESFRLDHKIVYDLGFRRLPPGGVAALGFTPVMLVGLQHGGGGRYSHTACTLMTMDIPGGPVKVSQRGVDWESRGEVNGVGVFLYDGARAWNDPLFHDFWYLDAKLEDG",
+          "unpairedMsaPath": "msa/protein-monomer/91a796c06d6fa7998039eb1fec3766b7/non_pairing.a3m",
+          "pairedMsaPath": "msa/protein-monomer/91a796c06d6fa7998039eb1fec3766b7/pairing.a3m"
+        }
+      }
+    ]
+  }
+]
